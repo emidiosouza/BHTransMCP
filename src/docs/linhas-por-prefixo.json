@@ -1,0 +1,9328 @@
+{
+  "4002": {
+    "01": {
+      "id": "1215",
+      "description": "ESTAÇAO BARREIRO"
+    },
+    "02": {
+      "id": "1301",
+      "description": "ESTAÇÃO BARREIRO SAÍDA / ACESS"
+    }
+  },
+  "2000": {
+    "01": {
+      "id": "787",
+      "description": "EST. VENDA NOVA"
+    }
+  },
+  "7000": {
+    "01": {
+      "id": "5671",
+      "description": "LINHAS ACESSO ESTAÇÃO VILARINH"
+    }
+  },
+  "4003": {
+    "01": {
+      "id": "4636",
+      "description": "ESTAÇÃO BARREIRO SAÍDA / ACESS"
+    }
+  },
+  "6032": {
+    "01": {
+      "id": "8027",
+      "description": "MANTIQUEIRA/CENTRO"
+    }
+  },
+  "608": {
+    "01": {
+      "id": "490",
+      "description": "EST.VENDA NOVA/NOVA PAMPULHA V"
+    },
+    "02": {
+      "id": "491",
+      "description": "NOVA PAMPULHA/VENDA NOVA"
+    },
+    "03": {
+      "id": "1034",
+      "description": "NOVA PAMPULHA/VENDA NOVA"
+    },
+    "04": {
+      "id": "5878",
+      "description": "ESCOLA MARIA ANDRADE-NOVA PAMP"
+    },
+    "05": {
+      "id": "7278",
+      "description": "ESCOLA MARIA ANDRADE-VENDA NOV"
+    },
+    "06": {
+      "id": "7279",
+      "description": "PARTIDAS R. FRANCISCO ADOLFO V"
+    }
+  },
+  "609": {
+    "01": {
+      "id": "493",
+      "description": "SERRA VERDE/EST. PAMPULHA VIA"
+    },
+    "02": {
+      "id": "3014",
+      "description": "CID. ADMIN-SENTIDO SERRA VERDE"
+    },
+    "03": {
+      "id": "3015",
+      "description": "CID. ADMIN-SENTIDO STA MONICA"
+    }
+  },
+  "621": {
+    "01": {
+      "id": "505",
+      "description": "EST. VENDA NOVA/LAGOA"
+    },
+    "02": {
+      "id": "506",
+      "description": "LAGOA/ESTACAO VENDA NOVA"
+    },
+    "05": {
+      "id": "1523",
+      "description": "PARTIDAS RUA J.SABINO MACIEL"
+    },
+    "06": {
+      "id": "6978",
+      "description": "NOTURNO"
+    },
+    "07": {
+      "id": "7982",
+      "description": "ESTAÇÃO VENDA NOVA  / LAGOA"
+    }
+  },
+  "622": {
+    "01": {
+      "id": "508",
+      "description": "EST. VENDA NOVA/LAGOINHA"
+    },
+    "02": {
+      "id": "509",
+      "description": "LAGOINHA/ESTACAO VENDA NOVA"
+    },
+    "05": {
+      "id": "510",
+      "description": "LAGOINHA/ESTACAO VENDA NOVA"
+    },
+    "06": {
+      "id": "511",
+      "description": "LAGOINHA/ESTACAO VENDA NOVA"
+    },
+    "07": {
+      "id": "1053",
+      "description": "NOTURNO"
+    }
+  },
+  "623": {
+    "01": {
+      "id": "513",
+      "description": "EST.VENDA NOVA/VILA STA BRANCA"
+    },
+    "02": {
+      "id": "514",
+      "description": "NOTURNO"
+    }
+  },
+  "624": {
+    "01": {
+      "id": "516",
+      "description": "EST. VENDA NOVA/MARIA HELENA A"
+    },
+    "02": {
+      "id": "517",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "518",
+      "description": "MARIA HELENA A/ESTACAO VENDA N"
+    },
+    "04": {
+      "id": "519",
+      "description": "MARIA HELENA A/ESTACAO VENDA N"
+    },
+    "05": {
+      "id": "1802",
+      "description": "MARIA HELENA A/ESTACAO VENDA N"
+    }
+  },
+  "625": {
+    "01": {
+      "id": "521",
+      "description": "EST.VENDA NOVA/MARIA HELENA B"
+    },
+    "02": {
+      "id": "522",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "523",
+      "description": "MARIA HELENA B/ESTACAO VENDA N"
+    },
+    "04": {
+      "id": "524",
+      "description": "MARIA HELENA B/ESTACAO VENDA N"
+    }
+  },
+  "626": {
+    "01": {
+      "id": "526",
+      "description": "LANDI VIA NOVA AMERICA/ESTACAO"
+    },
+    "02": {
+      "id": "527",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "528",
+      "description": "LANDI VIA NOVA AMERICA/ESTACAO"
+    },
+    "04": {
+      "id": "529",
+      "description": "LANDI VIA NOVA AMERICA/ESTACAO"
+    },
+    "05": {
+      "id": "530",
+      "description": "PARTIDAS DA R.EDMAR COLINI"
+    },
+    "06": {
+      "id": "1917",
+      "description": "EST.V.NOVA/ESPLENDOR-N. AMERIC"
+    },
+    "07": {
+      "id": "2435",
+      "description": "LANDI VIA NOVA AMÉRICA/ESTAÇÃO"
+    },
+    "08": {
+      "id": "2436",
+      "description": "ESTAÇÃO VENDA NOVA/ ESPLENDOR"
+    },
+    "09": {
+      "id": "6899",
+      "description": "PARTIDAS DA ESTAÇÃO VENDA NOVA"
+    },
+    "10": {
+      "id": "6900",
+      "description": "ESPLENDOR/ESTAÇÃO VENDA NOVA"
+    }
+  },
+  "627": {
+    "01": {
+      "id": "532",
+      "description": "MANTIQUEIRA/ESTACAO VENDA NOVA"
+    },
+    "02": {
+      "id": "533",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "534",
+      "description": "MANTIQUEIRA/ESTACAO VENDA NOVA"
+    },
+    "04": {
+      "id": "535",
+      "description": "MANTIQUEIRA/ESTACAO VENDA NOVA"
+    },
+    "05": {
+      "id": "944",
+      "description": "MANTIQUEIRA / ESTAÇÃO VENDA NO"
+    },
+    "06": {
+      "id": "1918",
+      "description": "EST. VENDA NOVA / MANTIQUEIRA"
+    },
+    "07": {
+      "id": "8638",
+      "description": "VIA C.S. MANTIQUEIRA"
+    }
+  },
+  "630": {
+    "01": {
+      "id": "544",
+      "description": "EST.VILAR/S.VERDE- AV.SALAMANC"
+    },
+    "02": {
+      "id": "1974",
+      "description": "SERRA VERDE/ESTACAO VENDA - AT"
+    }
+  },
+  "631": {
+    "01": {
+      "id": "546",
+      "description": "EST.VILAR. / S. VERDE- MINAS C"
+    },
+    "02": {
+      "id": "1976",
+      "description": "ATEND. AO CANAA"
+    }
+  },
+  "633": {
+    "01": {
+      "id": "548",
+      "description": "EST. VILARINHO/JD COMERCIARIOS"
+    },
+    "02": {
+      "id": "1030",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "3737",
+      "description": "EST.VILARINHO/J. COMERCIÁRIOS-"
+    }
+  },
+  "636": {
+    "01": {
+      "id": "1909",
+      "description": "EST.VILARINHO/JARDIM EUROPA VI"
+    },
+    "02": {
+      "id": "1921",
+      "description": "EST. VILARINHO / JARDIM EUROPA"
+    },
+    "03": {
+      "id": "2198",
+      "description": "JARDIM EUROPA / ESTAÇÃO VENDA"
+    },
+    "04": {
+      "id": "3743",
+      "description": "ESTAÇÃO VENDA NOVA / JARDIM EU"
+    },
+    "05": {
+      "id": "4095",
+      "description": "ESTAÇÃO VILARINHO / RUA BENEDI"
+    },
+    "06": {
+      "id": "4354",
+      "description": "EST. VENDA NOVA / JARDIM EUROP"
+    },
+    "07": {
+      "id": "4355",
+      "description": "ESTAÇÃO VILARINHO / JARDIM EUR"
+    },
+    "08": {
+      "id": "4655",
+      "description": "EST. VENDA NOVA/JD. EUROPA VIA"
+    },
+    "09": {
+      "id": "4656",
+      "description": "EST. VENDA NOVA/JD. EUROPA VIA"
+    },
+    "10": {
+      "id": "7980",
+      "description": "ESTAÇAOVILARINHO / JARDIM EURO"
+    }
+  },
+  "640": {
+    "01": {
+      "id": "1911",
+      "description": "EST. V.NOVA/J.LEBLON-RIO BRANC"
+    },
+    "02": {
+      "id": "1923",
+      "description": "ESTAÇÃO VENDA NOVA/JARDIM LEBL"
+    }
+  },
+  "7015": {
+    "01": {
+      "id": "8023",
+      "description": "MONTE AZUL/CENTRO"
+    },
+    "02": {
+      "id": "8138",
+      "description": "MONTE AZUL/RUA DOS CAETÉS"
+    }
+  },
+  "703": {
+    "01": {
+      "id": "1623",
+      "description": "EST.SÃO GABRIEL/GUARANI VIA PR"
+    }
+  },
+  "704": {
+    "01": {
+      "id": "5280",
+      "description": "ESTAÇÃO SÃO GABRIEL / GUARANI"
+    }
+  },
+  "705": {
+    "01": {
+      "id": "803",
+      "description": "EST. SAO GABRIEL/SAO TOMAZ"
+    },
+    "02": {
+      "id": "804",
+      "description": "ESTACAO SAO GABRIEL / RUA SAO"
+    },
+    "03": {
+      "id": "805",
+      "description": "PARTIDAS RUA SÃO LUIZ / ESTACA"
+    },
+    "05": {
+      "id": "5365",
+      "description": "NOTURNO"
+    },
+    "06": {
+      "id": "6158",
+      "description": "CENTRO ESP. MÉDICA - UNIFENAS"
+    }
+  },
+  "706": {
+    "01": {
+      "id": "807",
+      "description": "EST. SAO GABRIEL/ HELIOPOLIS"
+    },
+    "02": {
+      "id": "808",
+      "description": "ESTACAO SAO GABRIEL / RUA NAIR"
+    },
+    "03": {
+      "id": "5366",
+      "description": "NOTURNO"
+    }
+  },
+  "707": {
+    "01": {
+      "id": "810",
+      "description": "EST.SAO GABRIEL/JD GUANABARA"
+    },
+    "02": {
+      "id": "811",
+      "description": "ESTACAO SAO GABRIEL / RUA  JOS"
+    },
+    "03": {
+      "id": "5549",
+      "description": "VIA VILA CLORIS E BAIRRO XODÓ"
+    },
+    "04": {
+      "id": "5658",
+      "description": "RETORNO EXPRESSO"
+    }
+  },
+  "708": {
+    "01": {
+      "id": "813",
+      "description": "EST. SÃO GABRIEL / FELICIDADE"
+    },
+    "02": {
+      "id": "814",
+      "description": "ESTACAO SAO GABRIEL / RUA EXPE"
+    }
+  },
+  "709": {
+    "01": {
+      "id": "3675",
+      "description": "EST. SÃO GABRIEL/TUPI"
+    }
+  },
+  "710": {
+    "01": {
+      "id": "3681",
+      "description": "EST. SÃO GABRIEL/PROVIDENCIA"
+    }
+  },
+  "711": {
+    "01": {
+      "id": "844",
+      "description": "EST. SAO GABRIEL/SOLIMOES"
+    },
+    "02": {
+      "id": "845",
+      "description": "ESTACAO SAO GABRIEL / RUA IPÊ"
+    },
+    "03": {
+      "id": "2134",
+      "description": "ESTACAO SAO GABRIEL/SOLIMOES -"
+    },
+    "04": {
+      "id": "5367",
+      "description": "NOTURNO"
+    }
+  },
+  "713": {
+    "01": {
+      "id": "847",
+      "description": "EST. SAO GABRIEL/LAJEDO"
+    },
+    "02": {
+      "id": "874",
+      "description": "LAJEDO/ ESTAÇÃO SÃO GABRIEL"
+    },
+    "03": {
+      "id": "1190",
+      "description": "NOTURNO"
+    }
+  },
+  "714": {
+    "01": {
+      "id": "849",
+      "description": "EST. S. GABRIEL/CASAS POPULARE"
+    },
+    "02": {
+      "id": "875",
+      "description": "CASAS POPULARES/ ESTAÇÃO SÃO G"
+    }
+  },
+  "715": {
+    "01": {
+      "id": "851",
+      "description": "EST. SAO GABRIEL / MONTE AZUL"
+    },
+    "02": {
+      "id": "2135",
+      "description": "ESTAÇÃO SAO GABRIEL/MONTE AZUL"
+    },
+    "03": {
+      "id": "5376",
+      "description": "NOTURNO"
+    },
+    "04": {
+      "id": "8438",
+      "description": "VIA CENTRO SAUDE MG-020."
+    },
+    "05": {
+      "id": "9098",
+      "description": "PARQUE CERRADO/MONTE AZUL"
+    },
+    "06": {
+      "id": "9099",
+      "description": "MONTE AZUL/PARQUE CERRADO"
+    }
+  },
+  "716": {
+    "01": {
+      "id": "853",
+      "description": "EST.S. GABRIEL/NOVO AARAO REIS"
+    },
+    "02": {
+      "id": "854",
+      "description": "ESTACAO SAO GABRIEL / AV UM"
+    },
+    "03": {
+      "id": "2136",
+      "description": "EST. SAO GABRIEL/NOVO AARAO RE"
+    },
+    "04": {
+      "id": "5369",
+      "description": "NOTURNO"
+    }
+  },
+  "720": {
+    "01": {
+      "id": "8959",
+      "description": "CIRCULAR SAÚDE MG 20"
+    }
+  },
+  "721": {
+    "01": {
+      "id": "9101",
+      "description": "PRINCIPAL"
+    }
+  },
+  "732": {
+    "01": {
+      "id": "3683",
+      "description": "EST. SÃO GABRIEL/TUPI-FELICIDA"
+    }
+  },
+  "733": {
+    "01": {
+      "id": "3685",
+      "description": "JARDIM GUANABARA / ESTAÇÃO SÃO"
+    }
+  },
+  "734": {
+    "01": {
+      "id": "3687",
+      "description": "EST.S.GABRIEL/A.REIS- MINASLÂN"
+    },
+    "02": {
+      "id": "9078",
+      "description": "RETORNO EXPRESSO MANHÃ"
+    },
+    "03": {
+      "id": "9079",
+      "description": "RETORNO EXPRESSO NOITE"
+    }
+  },
+  "750": {
+    "01": {
+      "id": "7899",
+      "description": "PRINCIPAL"
+    }
+  },
+  "8015": {
+    "01": {
+      "id": "8021",
+      "description": "CONJUNTO PAULO VI/CENTRO"
+    }
+  },
+  "806": {
+    "01": {
+      "id": "1625",
+      "description": "EST.S.GABRIEL/VISTA DO SOL-NAZ"
+    },
+    "02": {
+      "id": "2137",
+      "description": "EST. SÃO GABRIEL/VISTA DO SOL-"
+    },
+    "03": {
+      "id": "2355",
+      "description": "ESTAÇÃO SÃO GABRIEL-PARTIDAS D"
+    },
+    "04": {
+      "id": "3814",
+      "description": "EST. SÃO GABRIEL/VISTA SOL- PA"
+    },
+    "05": {
+      "id": "4594",
+      "description": "PARTIDA DA RUA SANTA SECONDA ("
+    },
+    "06": {
+      "id": "5371",
+      "description": "NOTURNO"
+    },
+    "07": {
+      "id": "8799",
+      "description": "RETORNO EXPRESSO - PICO MANHÃ"
+    },
+    "08": {
+      "id": "8800",
+      "description": "RETORNO EXPRESSO - PICO TARDE"
+    }
+  },
+  "807": {
+    "01": {
+      "id": "1627",
+      "description": "EST.S.GABRIEL/RIBEIRO DE ABREU"
+    },
+    "02": {
+      "id": "2138",
+      "description": "RIBEIRO DE ABREU/EST. SÃO GABR"
+    },
+    "03": {
+      "id": "5436",
+      "description": "PARTIDAS DA EST. SÃO GABRIEL"
+    }
+  },
+  "808": {
+    "01": {
+      "id": "1629",
+      "description": "EST. SÃO GABRIEL/PAULO VI"
+    },
+    "02": {
+      "id": "2139",
+      "description": "ESTAÇÃO/BAIRRO"
+    },
+    "03": {
+      "id": "2356",
+      "description": "EST. SÃO GABRIEL/PAULO VI - PA"
+    },
+    "04": {
+      "id": "4534",
+      "description": "BAIRRO/ESTAÇÃO"
+    },
+    "05": {
+      "id": "4674",
+      "description": "EST. SÃO GABRIEL/PAULO VI - PA"
+    },
+    "06": {
+      "id": "5076",
+      "description": "PARTIDAS DA ESTAÇÃO COM RETORN"
+    },
+    "07": {
+      "id": "5856",
+      "description": "VIA PARQUE REAL"
+    },
+    "08": {
+      "id": "8801",
+      "description": "RETORNO EXPRESSO - PICO MANHÃ"
+    },
+    "09": {
+      "id": "8802",
+      "description": "RETORNO EXPRESSO - PICO TARDE"
+    },
+    "10": {
+      "id": "9399",
+      "description": "ESTAÇÃO/BAIRRO"
+    },
+    "11": {
+      "id": "9400",
+      "description": "BAIRRO/ESTAÇÃO"
+    }
+  },
+  "809": {
+    "01": {
+      "id": "1631",
+      "description": " EST. SÃO GABRIEL/BELMONTE"
+    },
+    "02": {
+      "id": "2140",
+      "description": " ESTAÇÃO SÃO GABRIEL/BELMONTE"
+    },
+    "03": {
+      "id": "5372",
+      "description": "NOTURNO"
+    }
+  },
+  "810": {
+    "01": {
+      "id": "1633",
+      "description": "EST.S.GABRIEL/PQ BELMONTE-D.SI"
+    },
+    "02": {
+      "id": "2141",
+      "description": "EST. SÃO GABRIEL/PARQUE BELMON"
+    },
+    "03": {
+      "id": "2357",
+      "description": "PARTIDAS DA RUA DONA SILVA"
+    },
+    "04": {
+      "id": "5373",
+      "description": "NOTURNO"
+    },
+    "05": {
+      "id": "5836",
+      "description": "VIA PUC SÃO GABRIEL"
+    }
+  },
+  "811": {
+    "01": {
+      "id": "1563",
+      "description": "EST.S.GABRIEL/VISTA DO SOL - P"
+    },
+    "02": {
+      "id": "2414",
+      "description": "PARTIDAS DA RUA VINTE E QUATRO"
+    },
+    "03": {
+      "id": "5196",
+      "description": "EST. SÃO GABRIEL/VISTA DO SOL"
+    }
+  },
+  "812": {
+    "01": {
+      "id": "3689",
+      "description": "EST. SÃO GABRIEL / SÃO GABRIEL"
+    }
+  },
+  "813": {
+    "01": {
+      "id": "5538",
+      "description": "EST.S.GABRIEL/PAULO VI-R.DE AB"
+    },
+    "02": {
+      "id": "5539",
+      "description": "VIA CONJ. RIBEIRO DE ABREU"
+    }
+  },
+  "814": {
+    "01": {
+      "id": "5541",
+      "description": "EST. SÃO GABRIEL/ JARDIM VITÓR"
+    },
+    "02": {
+      "id": "5542",
+      "description": "VIA POUSADA STO ANTÔNIO"
+    },
+    "03": {
+      "id": "5543",
+      "description": "NOTURNO"
+    },
+    "04": {
+      "id": "7058",
+      "description": "VIA R. HENRIQUETA LISBOA"
+    },
+    "05": {
+      "id": "7059",
+      "description": "VIA POUSADA/R. HENRIQUETA LISB"
+    }
+  },
+  "815": {
+    "01": {
+      "id": "5477",
+      "description": "EST. SÃO GABRIEL/CONJ. PAULO V"
+    },
+    "02": {
+      "id": "5478",
+      "description": "NOTURNO VIA RUA SÃO JACINTO"
+    },
+    "03": {
+      "id": "5876",
+      "description": "EXPRESSO - ESTAÇÃO/BAIRRO"
+    },
+    "04": {
+      "id": "5877",
+      "description": "CONJ.PAULO VI / ESTAÇÃO"
+    }
+  },
+  "823": {
+    "01": {
+      "id": "3835",
+      "description": "EST. SÃO GABRIEL/BAIRRO VITÓRI"
+    },
+    "02": {
+      "id": "3874",
+      "description": "VIA EST. JOSÉ CÂNDIDO"
+    },
+    "03": {
+      "id": "5223",
+      "description": "BAIRRO VITORIA II"
+    },
+    "04": {
+      "id": "8803",
+      "description": "RETORNO EXPRESSO - PICO MANHÃ"
+    },
+    "05": {
+      "id": "8804",
+      "description": "RETORNO EXPRESSO - PICO TARDE"
+    }
+  },
+  "825": {
+    "01": {
+      "id": "6039",
+      "description": "ESTAÇÃO SÃO GABRIEL/VITÓRIA II"
+    },
+    "02": {
+      "id": "8806",
+      "description": "RETORNO EXPRESSO - PICO MANHÃ"
+    },
+    "03": {
+      "id": "8805",
+      "description": "RETORNO EXPRESSO - PICO TARDE"
+    }
+  },
+  "832": {
+    "01": {
+      "id": "3695",
+      "description": "EST. SÃO GABRIEL/CAP. EDUARDO"
+    },
+    "02": {
+      "id": "3696",
+      "description": "RUA DAS MANGUEIRAS - MANHÃ"
+    },
+    "03": {
+      "id": "3697",
+      "description": "RUA DAS MANGUEIRAS - TARDE"
+    },
+    "04": {
+      "id": "3698",
+      "description": "VIA CSESC - MANHÃ"
+    },
+    "05": {
+      "id": "4956",
+      "description": "VIA CSESC - TARDE"
+    },
+    "06": {
+      "id": "5548",
+      "description": "NOTURNO"
+    },
+    "07": {
+      "id": "8118",
+      "description": "VIA RUA DOS MOREIRAS/MANGUEIRA"
+    }
+  },
+  "836": {
+    "01": {
+      "id": "3691",
+      "description": "EST.S.GABRIEL/RIBEIRO DE ABREU"
+    }
+  },
+  "837": {
+    "01": {
+      "id": "3693",
+      "description": "EST.S. GABRIEL/CONJ. R. DE ABR"
+    }
+  },
+  "838": {
+    "01": {
+      "id": "7739",
+      "description": "ESTAÇÃO SÃO GABRIEL/PALMARES V"
+    },
+    "02": {
+      "id": "8818",
+      "description": "ATENDIMENTO CENTER MINAS"
+    }
+  },
+  "601": {
+    "01": {
+      "id": "486",
+      "description": "JULIANA/NOVA YORK"
+    },
+    "02": {
+      "id": "3214",
+      "description": "JULIANA/NOVA YORK - ATENDEMENT"
+    },
+    "03": {
+      "id": "3215",
+      "description": "JULIANA/NOVA YORK - NÃO ATEND."
+    },
+    "04": {
+      "id": "5116",
+      "description": "RETORNO ESTAÇÃO VILARINHO - PI"
+    },
+    "05": {
+      "id": "5117",
+      "description": "PARTIDAS DA ESTAÇÃO VILARINHO"
+    }
+  },
+  "6034": {
+    "01": {
+      "id": "8033",
+      "description": "NOVA YORK VIA JD. DOS COMERCIÁ"
+    }
+  },
+  "607": {
+    "01": {
+      "id": "768",
+      "description": "EST.VILARINHO/ESPLENDOR"
+    },
+    "02": {
+      "id": "769",
+      "description": "PEDRA BRANCA/JAQUELINE"
+    },
+    "03": {
+      "id": "770",
+      "description": "ESPLENDOR / JAQUELINE"
+    },
+    "04": {
+      "id": "2280",
+      "description": "ESPLENDOR/JAQUELINE - RET. EST"
+    },
+    "05": {
+      "id": "3736",
+      "description": "ESTAÇÃO VILARINHO / ESPLENDOR"
+    },
+    "06": {
+      "id": "6861",
+      "description": "PARTIDAS DA ESTAÇÃO VILARINHO"
+    },
+    "07": {
+      "id": "6862",
+      "description": "ESPLENDOR/ESTAÇÃO VILARINHO"
+    }
+  },
+  "634": {
+    "01": {
+      "id": "1905",
+      "description": "EST.VILAR/N. YORK- J. COMERCIÁ"
+    },
+    "02": {
+      "id": "1919",
+      "description": "NOVA  YORK/PART. E.VENDA NOVA"
+    },
+    "03": {
+      "id": "4334",
+      "description": "ESTAÇÃO VILARINHO / RUA LUCI L"
+    },
+    "04": {
+      "id": "5784",
+      "description": "ATENDIMENTO A ANTENA"
+    },
+    "05": {
+      "id": "5785",
+      "description": "VIA ESTAÇÃO VENDA NOVA"
+    },
+    "06": {
+      "id": "7038",
+      "description": "NOVA YORK/ESTAÇÃO VILARINHO"
+    },
+    "07": {
+      "id": "7039",
+      "description": "NOVA YORKI/ESTAÇÃO VIA ANTENA"
+    },
+    "08": {
+      "id": "7040",
+      "description": "PARTIDAS DA ESTAÇÃO VILARINHO"
+    },
+    "09": {
+      "id": "7042",
+      "description": "NOVA YORK/ESTAÇÃO.VILARINHO VI"
+    },
+    "10": {
+      "id": "7043",
+      "description": "PARTIDAS EST VILARINHO VIA EVN"
+    }
+  },
+  "635": {
+    "01": {
+      "id": "1907",
+      "description": "JARDIM COMERCIÁRIOS / ESTAÇÃO"
+    },
+    "02": {
+      "id": "1920",
+      "description": "EST.VILAR./J. DOS COMERCIÁRIOS"
+    },
+    "03": {
+      "id": "2197",
+      "description": "JARDIM COMERCIÁRIOS / ESTAÇÃO"
+    },
+    "04": {
+      "id": "3742",
+      "description": "ESTAÇÃO VILARINHO / JARDIM COM"
+    },
+    "05": {
+      "id": "4335",
+      "description": "ESTAÇÃO VILARINHO / RUA PEDRA"
+    },
+    "06": {
+      "id": "9218",
+      "description": "PARTIDAS DO JARDIM DOS COMERCI"
+    }
+  },
+  "637": {
+    "01": {
+      "id": "1863",
+      "description": " EST.VILARINHO/CANAÃ-  S. VERD"
+    },
+    "02": {
+      "id": "1922",
+      "description": "CANAÃ / ESTAÇÃO VILARINHO - PA"
+    },
+    "03": {
+      "id": "1994",
+      "description": "ESTAÇÃO VILARINHO / SERRA VERD"
+    },
+    "04": {
+      "id": "2417",
+      "description": "EST.VILARINHO/CANAÃ  VIA MG 10"
+    },
+    "05": {
+      "id": "3114",
+      "description": "ATENDIMENTO CIDADE ADMINISTRAT"
+    },
+    "06": {
+      "id": "3738",
+      "description": "ESTAÇÃO VILARINHO / SERRA VERD"
+    },
+    "07": {
+      "id": "4096",
+      "description": "EST.VILARINHO/R.LUANDA- CANAÂ"
+    }
+  },
+  "638": {
+    "01": {
+      "id": "3749",
+      "description": "EST. VILARINHO / MINASCAIXA"
+    },
+    "02": {
+      "id": "4114",
+      "description": "ESTAÇÃO VILARINHO / RUA EDGAR"
+    }
+  },
+  "641": {
+    "01": {
+      "id": "3896",
+      "description": "EST. VILARINHO / SERRA VERDE"
+    },
+    "02": {
+      "id": "4116",
+      "description": "ESTAÇÃO VILARINHO / RUA GUIDO"
+    },
+    "03": {
+      "id": "6819",
+      "description": "PARTIDAS DA ESTAÇÃO VILARINHO"
+    },
+    "04": {
+      "id": "6820",
+      "description": "SERRA VERDE / ESTAÇÃO VILARINH"
+    }
+  },
+  "642": {
+    "01": {
+      "id": "6037",
+      "description": "EST.VENDA NOVA/EST.VILARINHO/C"
+    },
+    "02": {
+      "id": "4194",
+      "description": "EST.VENDA NOVA / EST.VILARINHO"
+    },
+    "03": {
+      "id": "5236",
+      "description": "CID. ADMINISTRATIVA / EST. V."
+    },
+    "04": {
+      "id": "6838",
+      "description": "PARTIDAS DA ESTAÇÃO VENDA NOVA"
+    },
+    "05": {
+      "id": "6846",
+      "description": "RETORNO SERRA VERDE"
+    }
+  },
+  "646": {
+    "01": {
+      "id": "9239",
+      "description": "EST. VILARINHO/ZOOLOGICO VIA E"
+    }
+  },
+  "702": {
+    "01": {
+      "id": "558",
+      "description": "ESTAÇÃO VILARINHO/XODO-MARIZE"
+    },
+    "03": {
+      "id": "559",
+      "description": "ESTAÇÃO SÃO GABRIEL/XODO-MARIZ"
+    },
+    "04": {
+      "id": "3714",
+      "description": "XODO-MARIZE- ATEND. ESTAÇÃO SÃ"
+    }
+  },
+  "7037": {
+    "01": {
+      "id": "8031",
+      "description": "JAQUELINE/CENTRO"
+    }
+  },
+  "735": {
+    "01": {
+      "id": "3753",
+      "description": "EST. VILARINHO /  JULIANA   A"
+    },
+    "02": {
+      "id": "4135",
+      "description": "ESTAÇÃO VILARINHO / RUA TIPUAN"
+    }
+  },
+  "736": {
+    "01": {
+      "id": "3755",
+      "description": "EST. VILARINHO / JULIANA  B"
+    },
+    "02": {
+      "id": "4117",
+      "description": "ESTAÇÃO VILARINHO / RUA MARIA"
+    }
+  },
+  "737": {
+    "01": {
+      "id": "3757",
+      "description": "EST.VILARINHO/JAQUELINE"
+    },
+    "02": {
+      "id": "4134",
+      "description": "ESTAÇÃO VILARINHO / RUA AGENOR"
+    },
+    "03": {
+      "id": "5781",
+      "description": "PARTIDAS - E.E. P.COMANDUCCI"
+    },
+    "04": {
+      "id": "6843",
+      "description": "JAQUELINE/ESTAÇÃO VILARINHO"
+    },
+    "05": {
+      "id": "6844",
+      "description": "PARTIDAS DA ESTAÇÃO VILARINHO"
+    }
+  },
+  "738": {
+    "01": {
+      "id": "3745",
+      "description": "ESTAÇÃO VILARINHO/ ZILAH SPÓSI"
+    },
+    "02": {
+      "id": "4136",
+      "description": "ESTAÇÃO VILARINHO / RUA ATANÁS"
+    },
+    "03": {
+      "id": "6845",
+      "description": "ZILAH SPÓSITO/ EST.VILARINHO"
+    },
+    "04": {
+      "id": "6847",
+      "description": "PARTIDAS DA ESTAÇÃO VILARINHO"
+    }
+  },
+  "739": {
+    "01": {
+      "id": "3747",
+      "description": "EST.VILAR/JAQ. 2ª SEÇ-FREI LEO"
+    },
+    "02": {
+      "id": "4137",
+      "description": "ESTAÇÃO VILARINHO / RUA CARNAÚ"
+    },
+    "03": {
+      "id": "5782",
+      "description": "NOTURNO"
+    },
+    "04": {
+      "id": "6903",
+      "description": "JAQUELINE/ESTAÇÃO VILARINHO"
+    },
+    "05": {
+      "id": "6904",
+      "description": "PARTIDAS DA ESTAÇÃO VILARINHO"
+    }
+  },
+  "741": {
+    "01": {
+      "id": "3751",
+      "description": "ESTAÇÃO VILARINHO / PLANALTO"
+    }
+  },
+  "208": {
+    "01": {
+      "id": "6640",
+      "description": "ESTAÇÃO BARREIRO/BETÂNIA VIA N"
+    }
+  },
+  "308": {
+    "01": {
+      "id": "249",
+      "description": "EST. BARREIRO/ TIROL"
+    },
+    "02": {
+      "id": "250",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "251",
+      "description": "TIROL"
+    }
+  },
+  "314": {
+    "01": {
+      "id": "268",
+      "description": "EST.DIAM./EST.BARR. VIA STA HE"
+    }
+  },
+  "315": {
+    "01": {
+      "id": "926",
+      "description": " ESTAÇÃO BARREIRO/BARREIRO/MAL"
+    },
+    "02": {
+      "id": "927",
+      "description": "BARREIRO / ESTAÇÃO BARREIRO"
+    }
+  },
+  "316": {
+    "01": {
+      "id": "270",
+      "description": "CIRCULAR SAUDE A"
+    }
+  },
+  "318": {
+    "01": {
+      "id": "275",
+      "description": "EST. BARR./J.LIBERDADE VIA MIL"
+    },
+    "02": {
+      "id": "276",
+      "description": "NOTURNO-VIA LIBERD./BONSUCESSO"
+    },
+    "03": {
+      "id": "277",
+      "description": "ARAGUAIA/MILIONARIOS"
+    },
+    "04": {
+      "id": "278",
+      "description": "ARAGUAIA/MILIONARIOS"
+    },
+    "05": {
+      "id": "1057",
+      "description": "EST. BARR./J.LIBERDADE VIA MIL"
+    },
+    "06": {
+      "id": "2694",
+      "description": "PARTIDAS DA RUA JEREMIAS"
+    },
+    "08": {
+      "id": "4958",
+      "description": "ATENDIMENTO AO LIBERDADE"
+    }
+  },
+  "325": {
+    "01": {
+      "id": "915",
+      "description": "EST. BARREIRO/ FLAVIO M. LISBO"
+    },
+    "02": {
+      "id": "1001",
+      "description": "NOTURNO"
+    }
+  },
+  "326": {
+    "01": {
+      "id": "917",
+      "description": "EST. BARREIRO/ VALE DO JATOBA"
+    }
+  },
+  "327": {
+    "01": {
+      "id": "919",
+      "description": "EST. BARREIRO/ CARDOSO A"
+    },
+    "02": {
+      "id": "920",
+      "description": "VIA CLUBE DA COPASA"
+    },
+    "03": {
+      "id": "972",
+      "description": "NOTURNO"
+    }
+  },
+  "328": {
+    "01": {
+      "id": "922",
+      "description": "EST. BARREIRO/ CARDOSO B"
+    },
+    "02": {
+      "id": "1842",
+      "description": "PARTIDAS- R. LUCAS C. SANTOS"
+    }
+  },
+  "329": {
+    "01": {
+      "id": "924",
+      "description": "ESTAÇÃO BARREIRO/JATOBA/VIA TI"
+    },
+    "02": {
+      "id": "2695",
+      "description": "VIA TERESA CRISTINA"
+    }
+  },
+  "330": {
+    "01": {
+      "id": "934",
+      "description": "EST. BARREIRO/ INDEPENDENCIA"
+    },
+    "02": {
+      "id": "975",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "1022",
+      "description": "VIA BAIRRO MINEIRAO"
+    },
+    "04": {
+      "id": "1682",
+      "description": "R. F. PITANGUEIRA/INDEPENDENCI"
+    },
+    "05": {
+      "id": "1683",
+      "description": "R. FLOR PITANGUEIRA/ MINEIRÃO"
+    },
+    "06": {
+      "id": "2575",
+      "description": "EST.BAR/INDEPEND. - EXPRESSO"
+    },
+    "07": {
+      "id": "2576",
+      "description": "INDEPENDENCIA/ESTAÇÃO BARREIRO"
+    },
+    "08": {
+      "id": "6078",
+      "description": "R. F. PITANGUEIRA/RET.EXPRESSO"
+    }
+  },
+  "331": {
+    "01": {
+      "id": "936",
+      "description": " EST.BARR./CONJ.TEIXEIRA DIAS-"
+    },
+    "02": {
+      "id": "974",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "1686",
+      "description": "VIA PUC BARREIRO"
+    }
+  },
+  "332": {
+    "01": {
+      "id": "938",
+      "description": " EST.BARR./MILIONARIOS-BONSUCE"
+    },
+    "02": {
+      "id": "4836",
+      "description": "ATENDIMENTO AO CONJUNTO ESPERA"
+    }
+  },
+  "335": {
+    "01": {
+      "id": "1319",
+      "description": "ESTAÇÃO BARREIRO/LINDÉIA"
+    }
+  },
+  "3350": {
+    "01": {
+      "id": "911",
+      "description": "EST.BARREIRO/ EST.DIAMANTE VIA"
+    }
+  },
+  "337": {
+    "01": {
+      "id": "3997",
+      "description": "EST. BARREIRO / ITAIPU"
+    }
+  },
+  "338": {
+    "01": {
+      "id": "7559",
+      "description": "PRINCIPAL"
+    }
+  },
+  "340": {
+    "01": {
+      "id": "4015",
+      "description": "ESTAÇÃO BARREIRO/ VILA MANGUEI"
+    },
+    "02": {
+      "id": "4016",
+      "description": "ATENDIMENTO AO SETOR INDUSTRIA"
+    },
+    "03": {
+      "id": "6698",
+      "description": "ATENDIMENTO AO C.S. MANGUEIRAS"
+    }
+  },
+  "341": {
+    "01": {
+      "id": "3995",
+      "description": "EST.BARR./EST.DIAM.-VIA SAÚDE"
+    },
+    "02": {
+      "id": "5256",
+      "description": "PARTIDAS DA EST.DIAMANTE"
+    }
+  },
+  "342": {
+    "01": {
+      "id": "3999",
+      "description": "EST.BARR./SOLAR VIA EST.DIAMAN"
+    },
+    "02": {
+      "id": "4000",
+      "description": "NOTURNO VIA BRASIL INDUSTRIAL"
+    },
+    "03": {
+      "id": "4001",
+      "description": "PARTIDAS DA RUA LUIZ PONGELUPE"
+    },
+    "04": {
+      "id": "4002",
+      "description": "ATENDIMENTO AO BAIRRO SOLAR"
+    }
+  },
+  "301": {
+    "01": {
+      "id": "221",
+      "description": "VIA RUA DA OLARIA"
+    },
+    "02": {
+      "id": "222",
+      "description": "SOLAR/BRASIL INDUSTRIAL"
+    },
+    "03": {
+      "id": "223",
+      "description": "SOLAR/BRASIL INDUSTRIAL"
+    },
+    "04": {
+      "id": "1000",
+      "description": "SOLAR/BRASIL INDUSTRIAL"
+    },
+    "05": {
+      "id": "6498",
+      "description": "VIA UPA BARREIRO"
+    }
+  },
+  "3011": {
+    "01": {
+      "id": "8035",
+      "description": "INDEPENDÊNCIA/ CENTRO"
+    }
+  },
+  "302": {
+    "01": {
+      "id": "225",
+      "description": "ESTAÇÃO DIAMANTE / VILA PINHO"
+    },
+    "03": {
+      "id": "226",
+      "description": "VILA PINHO/NOVO SANTA CECILIA"
+    },
+    "04": {
+      "id": "227",
+      "description": "NOTURNO"
+    },
+    "05": {
+      "id": "1085",
+      "description": "VIA CONJUNTO ÁGUAS CLARAS"
+    },
+    "06": {
+      "id": "2335",
+      "description": "ESTAÇÃO DIAMANTE / VILA PINHO"
+    }
+  },
+  "3020": {
+    "01": {
+      "id": "8019",
+      "description": "ÁGUAS CLARAS-VILA PINHO/CENTRO"
+    }
+  },
+  "303": {
+    "01": {
+      "id": "229",
+      "description": "EST.DIAM./STA CECILIA-CASTANHE"
+    },
+    "03": {
+      "id": "873",
+      "description": "VIA ÁREA INDUSTRIAL"
+    },
+    "02": {
+      "id": "230",
+      "description": "SANTA CECILIA/CASTANHEIRAS"
+    }
+  },
+  "304": {
+    "01": {
+      "id": "232",
+      "description": "EST. DIAMANTE / JATOBA IV"
+    }
+  },
+  "305": {
+    "01": {
+      "id": "234",
+      "description": "EST. DIAMANTE/ MANGUEIRAS"
+    },
+    "02": {
+      "id": "235",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "236",
+      "description": "VIA SETOR INDUSTRIAL"
+    },
+    "04": {
+      "id": "3974",
+      "description": "EST.DIAMANTE/ AV. SOLF. RICCI"
+    },
+    "05": {
+      "id": "3975",
+      "description": "PARTIDAS DA V. SOLFERINA RICCI"
+    },
+    "06": {
+      "id": "4494",
+      "description": "PARTIDAS- RUA GERALDO R. FILHO"
+    }
+  },
+  "309": {
+    "01": {
+      "id": "253",
+      "description": "EST.DIAM./PETROPOLIS-V.STA RIT"
+    },
+    "02": {
+      "id": "254",
+      "description": "BAIRRO PETROPOLIS"
+    },
+    "03": {
+      "id": "1189",
+      "description": "BAIRRO PETROPOLIS"
+    },
+    "04": {
+      "id": "9058",
+      "description": "RUA CHAFARIZ"
+    }
+  },
+  "310": {
+    "01": {
+      "id": "260",
+      "description": "EST. DIAMANTE/ 3 E 4 SECAO"
+    },
+    "02": {
+      "id": "261",
+      "description": "3 E 4 SECAO"
+    },
+    "03": {
+      "id": "262",
+      "description": "3 E 4 SECAO"
+    }
+  },
+  "311": {
+    "01": {
+      "id": "264",
+      "description": "EST. DIAMANTE/ INDEPENDENCIA"
+    },
+    "02": {
+      "id": "1003",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "1955",
+      "description": "EST.BARREIRO/ INDEPENDENCIA"
+    },
+    "04": {
+      "id": "1956",
+      "description": "R. F. PITANGUEIRA/EST.BARREIRO"
+    },
+    "05": {
+      "id": "1957",
+      "description": "R. F. PITANGUEIRA/EST.DIAMANTE"
+    },
+    "06": {
+      "id": "2334",
+      "description": "ESTAÇÃO BARREIRO/MORADA DA SER"
+    }
+  },
+  "313": {
+    "01": {
+      "id": "266",
+      "description": "DIAMANTE/OLARIA"
+    }
+  },
+  "5050": {
+    "01": {
+      "id": "6125",
+      "description": "CIRCULAR PAMPULHA NOTURNO NOS"
+    }
+  },
+  "510": {
+    "01": {
+      "id": "5563",
+      "description": "EST.PAMPULHA/TREVO VIA GARÇAS"
+    },
+    "02": {
+      "id": "6800",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    },
+    "03": {
+      "id": "6801",
+      "description": "XANGRILA/ESTAÇÃO PAMPULHA"
+    },
+    "04": {
+      "id": "6802",
+      "description": "ESTAÇÃO PAMPULHA/XANGRILA"
+    }
+  },
+  "512": {
+    "01": {
+      "id": "6120",
+      "description": "CIRCUITO PAMPULHA"
+    }
+  },
+  "513": {
+    "01": {
+      "id": "9241",
+      "description": "EST. PAMPULHA/DANDARA VIA BRAU"
+    }
+  },
+  "6014": {
+    "01": {
+      "id": "8025",
+      "description": "CÉU AZUL/CENTRO"
+    }
+  },
+  "6017": {
+    "01": {
+      "id": "8039",
+      "description": "PIRATININGA VIA RIO BRANCO/CEN"
+    }
+  },
+  "6018": {
+    "01": {
+      "id": "8029",
+      "description": "RIO BRANCO VIA JARDIM LEBLON/C"
+    }
+  },
+  "614": {
+    "01": {
+      "id": "5567",
+      "description": "EST. PAMPULHA/CÉU AZUL A VIA A"
+    },
+    "02": {
+      "id": "5570",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "5584",
+      "description": "PARTIDAS EST. PAMPULHA"
+    },
+    "04": {
+      "id": "5585",
+      "description": "PARTIDAS RUA JOSE ROCHA PAIXAO"
+    },
+    "05": {
+      "id": "5587",
+      "description": "DESVIO FESTA DE SÃO LÁZARO"
+    },
+    "06": {
+      "id": "6805",
+      "description": "CÉU AZUL/ESTAÇÃO PAMPULHA"
+    },
+    "07": {
+      "id": "6806",
+      "description": "ESTAÇÃO PAMPULHA/CÉU AZUL"
+    }
+  },
+  "615": {
+    "01": {
+      "id": "5572",
+      "description": "EST.PAMPULHA/CÉU AZUL B VIA GA"
+    },
+    "02": {
+      "id": "5978",
+      "description": "CÉU AZUL/ESTAÇÃO PAMPULHA"
+    },
+    "03": {
+      "id": "6864",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    },
+    "04": {
+      "id": "7998",
+      "description": "VIA RUA CARLOS LACERDA"
+    },
+    "05": {
+      "id": "7999",
+      "description": "EST/BAIRRO/EST. VIA C. LACERDA"
+    }
+  },
+  "616": {
+    "01": {
+      "id": "5574",
+      "description": "EST. PAMPULHA / CÉU AZUL C"
+    },
+    "02": {
+      "id": "5575",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "6808",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    },
+    "04": {
+      "id": "6858",
+      "description": "CÉU AZUL/ESTAÇÃO PAMPULHA"
+    }
+  },
+  "617": {
+    "01": {
+      "id": "5602",
+      "description": "EST. PAMP/PIRATININGA-VIA R.BR"
+    },
+    "02": {
+      "id": "5603",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "5977",
+      "description": "PIRATININGA/ESTAÇÃO PAMPULHA"
+    },
+    "04": {
+      "id": "6865",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    }
+  },
+  "618": {
+    "01": {
+      "id": "5577",
+      "description": "EST.PAMP/R.BRANCO-VIA JD LEBLO"
+    },
+    "02": {
+      "id": "5578",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "5600",
+      "description": "PARTIDAS DO JARDIM LEBLON"
+    },
+    "04": {
+      "id": "6898",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    },
+    "05": {
+      "id": "6998",
+      "description": "RIO BRANCO/ESTAÇÃO PAMPULHA"
+    }
+  },
+  "619": {
+    "01": {
+      "id": "5605",
+      "description": "EST.PAMP/STA MÔNICA-STA BRANCA"
+    },
+    "02": {
+      "id": "5622",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "5623",
+      "description": "VIA R. VISCONDE DE TAUNAY"
+    },
+    "04": {
+      "id": "6818",
+      "description": "SANTA MÔNICA/ESTAÇÃO PAMPULHA"
+    },
+    "05": {
+      "id": "7044",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    },
+    "06": {
+      "id": "7398",
+      "description": "ESTAÇÃO PAMPULHA/SANTA MÔNICA"
+    }
+  },
+  "620": {
+    "01": {
+      "id": "5607",
+      "description": "EST.PAMP/STA MÔNICA-STA AMÉLIA"
+    },
+    "02": {
+      "id": "6809",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    },
+    "03": {
+      "id": "6859",
+      "description": "SANTA MÔNICA/EST. PAMPULHA"
+    }
+  },
+  "643": {
+    "01": {
+      "id": "5580",
+      "description": "EST.PAMP/COPACABANA-M.CARMELO"
+    },
+    "02": {
+      "id": "6811",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    },
+    "03": {
+      "id": "6860",
+      "description": "COPACABANA/EST. PAMPULHA"
+    },
+    "04": {
+      "id": "8658",
+      "description": "DESVIO EVENTO \"BH É DA GENTE\""
+    }
+  },
+  "644": {
+    "01": {
+      "id": "5609",
+      "description": "EST.PAMPULHA/SÃO JOÃO BATISTA"
+    },
+    "02": {
+      "id": "5610",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "5611",
+      "description": "PARTIDAS PÇA PEDRO A. MOREIRA"
+    },
+    "04": {
+      "id": "6866",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    },
+    "05": {
+      "id": "6867",
+      "description": "SÃO JOÃO BATISTA/EST. PAMPULHA"
+    },
+    "06": {
+      "id": "7979",
+      "description": "ESTAÇAO PAMPULHA / SÃO JOÃO BA"
+    }
+  },
+  "645": {
+    "01": {
+      "id": "5583",
+      "description": "EST.PAMP/STA MÔNICA-JD ATLÂNTI"
+    },
+    "02": {
+      "id": "6821",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    },
+    "03": {
+      "id": "8678",
+      "description": "SANTA MÔNICA/EST.PAMPULHA"
+    }
+  },
+  "712": {
+    "01": {
+      "id": "5710",
+      "description": "EST. PAMPULHA / SÃO BERNARDO"
+    },
+    "02": {
+      "id": "5711",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "5731",
+      "description": "RETORNO EXPRESSO - MANHÃ"
+    },
+    "04": {
+      "id": "5732",
+      "description": "RETORNO EXPRESSO - TARDE"
+    },
+    "05": {
+      "id": "7918",
+      "description": "SAO BERNARDO / EST. PAMPULHA"
+    }
+  },
+  "717": {
+    "01": {
+      "id": "5613",
+      "description": "EST. PAMPULHA/CAMPO ALEGRE"
+    },
+    "02": {
+      "id": "5614",
+      "description": "EST.PAMPULHA/CAMPO ALEGRE VIA"
+    },
+    "03": {
+      "id": "5657",
+      "description": "RETORNO EXPRESSO"
+    },
+    "04": {
+      "id": "6839",
+      "description": "CAMPO ALEGRE / ESTAÇÃO PAMPULH"
+    },
+    "05": {
+      "id": "6840",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    }
+  },
+  "718": {
+    "01": {
+      "id": "5616",
+      "description": "EST.PAMPULHA/PLANALTO VIA ITAP"
+    },
+    "02": {
+      "id": "6841",
+      "description": "PLANALTO/ESTAÇÃO PAMPULHA"
+    },
+    "03": {
+      "id": "6842",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    }
+  },
+  "719": {
+    "01": {
+      "id": "5619",
+      "description": "EST. PAMPULHA/FLORAMAR"
+    },
+    "02": {
+      "id": "5621",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "5656",
+      "description": "RETORNO EXPRESSO"
+    },
+    "04": {
+      "id": "6901",
+      "description": "FLORAMAR/ESTAÇÃO PAMPULHA"
+    },
+    "05": {
+      "id": "6902",
+      "description": "PARTIDAS DA ESTAÇÃO PAMPULHA"
+    },
+    "06": {
+      "id": "9398",
+      "description": "RETORNO EXPRESSO"
+    }
+  },
+  "406": {
+    "01": {
+      "id": "5706",
+      "description": "EST.S.JOSÉ/PINDORAMA-GLÓRIA"
+    },
+    "02": {
+      "id": "8798",
+      "description": "ATENDIMENTO CS COQUEIROS"
+    }
+  },
+  "511": {
+    "01": {
+      "id": "5708",
+      "description": "EST.SÃO JOSÉ/J.ALVORADA"
+    }
+  },
+  "SC01A": {
+    "01": {
+      "id": "710",
+      "description": "CONTORNO A"
+    }
+  },
+  "SC01B": {
+    "01": {
+      "id": "712",
+      "description": "CONTORNO B"
+    },
+    "02": {
+      "id": "6466",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "SC01R": {
+    "01": {
+      "id": "714",
+      "description": "CONTORNO/PRACA MILTON CAMPOS"
+    },
+    "02": {
+      "id": "877",
+      "description": "CONTORNO/PRACA MILTON CAMPOS"
+    }
+  },
+  "SC02A": {
+    "01": {
+      "id": "716",
+      "description": "PRACA 7/SAVASSI VIA PCA DA LIB"
+    },
+    "02": {
+      "id": "8781",
+      "description": "DESVIO FEIRA ELEICAO"
+    }
+  },
+  "SC02B": {
+    "01": {
+      "id": "718",
+      "description": "SAVASSI/PRACA 7 VIA SANTA CASA"
+    },
+    "02": {
+      "id": "719",
+      "description": "SAVASSI/PRACA 7  - DESVIO FEIR"
+    },
+    "03": {
+      "id": "6353",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "SC03A": {
+    "01": {
+      "id": "721",
+      "description": "HOSPITAL FELICIO ROCHO/HOSPITA"
+    }
+  },
+  "SC03B": {
+    "01": {
+      "id": "723",
+      "description": "HOSPITAL FELICIO ROCHO/HOSPITA"
+    }
+  },
+  "SC04A": {
+    "01": {
+      "id": "725",
+      "description": "SANTA CASA/SAVASSI/RODOVIARIA"
+    },
+    "02": {
+      "id": "6351",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "SC04B": {
+    "01": {
+      "id": "727",
+      "description": "SANTA CASA/RODOVIARIA/SAVASSI"
+    },
+    "02": {
+      "id": "3454",
+      "description": "TERMINAL BERNARDO MONTEIRO / H"
+    },
+    "03": {
+      "id": "9361",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "104": {
+    "01": {
+      "id": "870",
+      "description": "ESTAÇÃO LAGOINHA / AVENIDA"
+    }
+  },
+  "105": {
+    "01": {
+      "id": "1421",
+      "description": "ESTAÇÃO CENTRAL/LOURDES"
+    },
+    "02": {
+      "id": "6428",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "03": {
+      "id": "7778",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    }
+  },
+  "1050": {
+    "01": {
+      "id": "6122",
+      "description": "CIRCULAR CENTRO NOTURNO NOS MU"
+    }
+  },
+  "1030": {
+    "01": {
+      "id": "12",
+      "description": "AVENIDA"
+    },
+    "05": {
+      "id": "13",
+      "description": "AVENIDA"
+    }
+  },
+  "1145": {
+    "01": {
+      "id": "33",
+      "description": "BAIRRO DAS INDUSTRIAS/CENTRO V"
+    },
+    "04": {
+      "id": "6247",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "1170": {
+    "01": {
+      "id": "43",
+      "description": "SANTA LUCIA/MANGABEIRAS VIA SA"
+    },
+    "02": {
+      "id": "6354",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "1207A": {
+    "01": {
+      "id": "45",
+      "description": "BETANIA/SANTA MONICA"
+    },
+    "02": {
+      "id": "46",
+      "description": "BETANIA/SANTA MONICA"
+    },
+    "04": {
+      "id": "3402",
+      "description": "BETANIA/SANTA MONICA"
+    },
+    "05": {
+      "id": "3404",
+      "description": "BETANIA/SANTA MONICA- NOTURNO"
+    }
+  },
+  "1207B": {
+    "01": {
+      "id": "48",
+      "description": "CONJUNTO BETANIA/SANTA MONICA"
+    },
+    "03": {
+      "id": "49",
+      "description": "CONJUNTO BETANIA/SANTA MONICA"
+    },
+    "05": {
+      "id": "50",
+      "description": "CONJUNTO BETANIA/SANTA MONICA"
+    },
+    "06": {
+      "id": "976",
+      "description": "CONJUNTO BETANIA/SANTA MONICA"
+    },
+    "07": {
+      "id": "977",
+      "description": "CONJUNTO BETANIA/SANTA MONICA"
+    },
+    "08": {
+      "id": "3407",
+      "description": "CONJUNTO BETANIA/SANTA MONICA"
+    }
+  },
+  "1207C": {
+    "01": {
+      "id": "52",
+      "description": "BAIRRO DAS INDUSTRIAS - 4A SEC"
+    },
+    "03": {
+      "id": "3410",
+      "description": "BAIRRO DAS INDUSTRIAS - 4A SEC"
+    }
+  },
+  "1404A": {
+    "01": {
+      "id": "54",
+      "description": "PALMEIRAS/ALIPIO DE MELO"
+    },
+    "03": {
+      "id": "55",
+      "description": "NOTURNO"
+    },
+    "05": {
+      "id": "1066",
+      "description": "PALMEIRAS / ALIPIO DE MELO"
+    },
+    "06": {
+      "id": "1067",
+      "description": "PALMEIRAS/ALIPO DE MELO"
+    },
+    "07": {
+      "id": "2654",
+      "description": "PALMEIRAS/ALIPO DE MELO - ATEN"
+    },
+    "08": {
+      "id": "3055",
+      "description": "ALÍPIO DE MELO /  CENTRO - RET"
+    },
+    "09": {
+      "id": "3056",
+      "description": "ALÍPIO DE MELO / RG CENTRO"
+    },
+    "10": {
+      "id": "3415",
+      "description": "PALMEIRAS / ALÍPIO DE MELO"
+    },
+    "11": {
+      "id": "3416",
+      "description": "ALÍPIO DE MELO /  CENTRO"
+    },
+    "13": {
+      "id": "6333",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "1404B": {
+    "01": {
+      "id": "57",
+      "description": "ESTRELA DO ORIENTE/ JARDIM INC"
+    },
+    "03": {
+      "id": "2514",
+      "description": "ESTRELA DO ORIENTE / JARDIM IN"
+    },
+    "04": {
+      "id": "2655",
+      "description": "EST. DO ORIENTE/JARDIM INCONF."
+    },
+    "05": {
+      "id": "3316",
+      "description": "ESTRELA DO ORIENTE/JARDIM INCO"
+    },
+    "07": {
+      "id": "6334",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "1404C": {
+    "01": {
+      "id": "59",
+      "description": "PALMEIRAS / SAO SALVADOR"
+    },
+    "02": {
+      "id": "2454",
+      "description": "ESTRELA DO ORIENTE / SÃO SALVA"
+    },
+    "03": {
+      "id": "2474",
+      "description": "ESTRELA DO ORIENTE / SÃO LAZAR"
+    },
+    "04": {
+      "id": "2534",
+      "description": "PALMEIRAS / SÃO SALVADOR"
+    },
+    "05": {
+      "id": "3317",
+      "description": "PALMEIRAS/SAO SALVADOR"
+    },
+    "06": {
+      "id": "6335",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "1404R": {
+    "01": {
+      "id": "61",
+      "description": "VILA PARAISO/CENTRO VIA MARAJO"
+    }
+  },
+  "1502": {
+    "01": {
+      "id": "66",
+      "description": "VISTA ALEGRE / GUARANI"
+    },
+    "02": {
+      "id": "3334",
+      "description": "VISTA ALEGRE/GUARANI"
+    },
+    "03": {
+      "id": "6198",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "1505": {
+    "01": {
+      "id": "68",
+      "description": "ALTO DOS PINHEIROS/TUPI"
+    },
+    "02": {
+      "id": "69",
+      "description": "VIA CONJUNTO FELICIDADE"
+    },
+    "03": {
+      "id": "70",
+      "description": "NOTURNO"
+    },
+    "05": {
+      "id": "3354",
+      "description": "ALTO DOS PINHEIROS/TUPI"
+    },
+    "06": {
+      "id": "3355",
+      "description": "ALTO DOS PINHEIROS/TUPI ATEND"
+    },
+    "07": {
+      "id": "3356",
+      "description": "ALTO DOS PINHEIROS/TUPI ATEND"
+    },
+    "08": {
+      "id": "6199",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "09": {
+      "id": "6467",
+      "description": "NOTURNO CARNAVAL"
+    },
+    "10": {
+      "id": "6468",
+      "description": "CONJ. FELICIDADE - CARNAVAL"
+    }
+  },
+  "1505R": {
+    "01": {
+      "id": "72",
+      "description": "CENTRO/CONJUNTO FELICIDADE"
+    },
+    "02": {
+      "id": "73",
+      "description": "CENTRO/CONJUNTO FELICIDADE"
+    },
+    "03": {
+      "id": "74",
+      "description": "CENTRO/CONJUNTO FELICIDADE"
+    },
+    "04": {
+      "id": "6386",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "1509": {
+    "02": {
+      "id": "76",
+      "description": "CALIFORNIA/TUPI"
+    },
+    "05": {
+      "id": "77",
+      "description": "CALIFORNIA/TUPI"
+    },
+    "07": {
+      "id": "3357",
+      "description": "CALIFORNIA/TUPI"
+    },
+    "08": {
+      "id": "6200",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "1510": {
+    "01": {
+      "id": "79",
+      "description": "MADRE GERTRUDES/PROVIDENCIA"
+    },
+    "03": {
+      "id": "3294",
+      "description": "MADRE GERTRUDES/PROVIDENCIA"
+    },
+    "04": {
+      "id": "6201",
+      "description": "NOTURNO CARNAVAL"
+    }
+  },
+  "2004": {
+    "01": {
+      "id": "729",
+      "description": "BANDEIRANTES/PILAR VIA OLHOS D"
+    },
+    "02": {
+      "id": "730",
+      "description": "BANDEIRANTES/PILAR ATEND.CLUBE"
+    },
+    "03": {
+      "id": "731",
+      "description": "BANDEIRANTES/PILAR VIA OLHOS D"
+    },
+    "04": {
+      "id": "732",
+      "description": "BANDEIRANTES/PILAR VIA OLHOS D"
+    }
+  },
+  "2101": {
+    "01": {
+      "id": "90",
+      "description": "GRAJAU/SION"
+    },
+    "02": {
+      "id": "91",
+      "description": "GRAJAU/SION"
+    },
+    "03": {
+      "id": "3358",
+      "description": "GRAJAU/SION"
+    },
+    "04": {
+      "id": "6202",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "2102": {
+    "01": {
+      "id": "93",
+      "description": "GAMELEIRA / SERRA"
+    },
+    "02": {
+      "id": "94",
+      "description": "GAMELEIRA / SERRA"
+    },
+    "03": {
+      "id": "95",
+      "description": "GAMELEIRA / SERRA"
+    },
+    "04": {
+      "id": "789",
+      "description": "GAMELEIRA / SERRA"
+    },
+    "05": {
+      "id": "6207",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "2103": {
+    "01": {
+      "id": "97",
+      "description": "PRADO/ANCHIETA"
+    },
+    "03": {
+      "id": "3359",
+      "description": "PRADO/ANCHIETA"
+    },
+    "04": {
+      "id": "3574",
+      "description": "PRADO/ANCHIETA DESVIO FEIRA AV"
+    },
+    "05": {
+      "id": "6210",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "06": {
+      "id": "98",
+      "description": "DESVIO FEIRA DA AV. AFONSO PEN"
+    }
+  },
+  "2104": {
+    "01": {
+      "id": "100",
+      "description": "NOVA GAMELEIRA/BH SHOPPING"
+    },
+    "02": {
+      "id": "101",
+      "description": "DESVIO FEIRA AF. PENA"
+    },
+    "03": {
+      "id": "102",
+      "description": "NOVA GAMELEIRA/FACULDADE MILTO"
+    },
+    "04": {
+      "id": "103",
+      "description": "VIA ISABELLA HENDRIX"
+    },
+    "05": {
+      "id": "2995",
+      "description": "FACULDADE  MILTON CAMPOS /  CE"
+    },
+    "06": {
+      "id": "3360",
+      "description": "NOVA GAMELEIRA/FACULDADE MILTO"
+    },
+    "07": {
+      "id": "3361",
+      "description": "NOVA GAMELEIRA/FAC MILTON CAMP"
+    },
+    "08": {
+      "id": "6213",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "09": {
+      "id": "6357",
+      "description": "VIA IZABELLA  CARNAVAL"
+    }
+  },
+  "2150": {
+    "01": {
+      "id": "105",
+      "description": "GRAJAU/SION VIA CONTORNO"
+    },
+    "02": {
+      "id": "6359",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "2151": {
+    "01": {
+      "id": "107",
+      "description": "VISTA ALEGRE/SERRA"
+    },
+    "02": {
+      "id": "6272",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "2152": {
+    "01": {
+      "id": "109",
+      "description": "SALGADO FILHO/CRUZEIRO VIA SAV"
+    },
+    "02": {
+      "id": "6362",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "2153": {
+    "01": {
+      "id": "7659",
+      "description": "GUTIERREZ/CRUZEIRO"
+    }
+  },
+  "2207": {
+    "01": {
+      "id": "111",
+      "description": "SERRA VERDE"
+    },
+    "03": {
+      "id": "112",
+      "description": "SERRA VERDE"
+    },
+    "04": {
+      "id": "113",
+      "description": "SERRA VERDE"
+    },
+    "05": {
+      "id": "790",
+      "description": "SERRA VERDE"
+    },
+    "06": {
+      "id": "3094",
+      "description": "ATENDIMENTO CIDADE AMINISTRATI"
+    },
+    "07": {
+      "id": "3095",
+      "description": "ATENDIMENTO CIADADE ADMINISTRA"
+    },
+    "08": {
+      "id": "4217",
+      "description": "AV PARANÁ / SERRA VERDE"
+    },
+    "09": {
+      "id": "4295",
+      "description": "SERRA VERDE / AV SANTOS DUMONT"
+    }
+  },
+  "2208B": {
+    "01": {
+      "id": "117",
+      "description": "JARDIM EUROPA"
+    },
+    "02": {
+      "id": "118",
+      "description": "JARDIM EUROPA"
+    },
+    "04": {
+      "id": "119",
+      "description": "JARDIM EUROPA"
+    },
+    "05": {
+      "id": "791",
+      "description": "JARDIM EUROPA"
+    },
+    "06": {
+      "id": "792",
+      "description": "JARDIM EUROPA"
+    },
+    "07": {
+      "id": "1902",
+      "description": "JARDIM EUROPA - VIA AV ANTÔNIO"
+    },
+    "08": {
+      "id": "1903",
+      "description": "JARDIM EUROPA VIA AV CRISTIANO"
+    },
+    "09": {
+      "id": "2854",
+      "description": "JARDIM EUROPA / CENTRO"
+    },
+    "10": {
+      "id": "2855",
+      "description": "JARDIM EUROPA / PARTIDAS AV SA"
+    }
+  },
+  "2210A": {
+    "01": {
+      "id": "121",
+      "description": "RIO BRANCO"
+    },
+    "02": {
+      "id": "122",
+      "description": "RIO BRANCO"
+    }
+  },
+  "2210B": {
+    "01": {
+      "id": "124",
+      "description": "JARDIM LEBLON VIA RIO BRANCO"
+    },
+    "02": {
+      "id": "125",
+      "description": "JARDIM LEBLON VIA RIO BRANCO"
+    },
+    "03": {
+      "id": "126",
+      "description": "JARDIM LEBLON VIA RIO BRANCO"
+    },
+    "04": {
+      "id": "2175",
+      "description": "JARDIM LEBLON VIA RIO BRANCO /"
+    }
+  },
+  "2210C": {
+    "01": {
+      "id": "128",
+      "description": "PIRATININGA VIA RIO BRANCO"
+    },
+    "02": {
+      "id": "129",
+      "description": "PIRATININGA VIA RIO BRANCO"
+    },
+    "03": {
+      "id": "130",
+      "description": "PIRATININGA VIA RIO BRANCO"
+    },
+    "04": {
+      "id": "2416",
+      "description": "PIRATININGA VIA RIO BRANCO"
+    },
+    "05": {
+      "id": "2778",
+      "description": "PIRATININGA - CENTRO"
+    },
+    "06": {
+      "id": "2795",
+      "description": "PIRATININGA  - PARTIDAS  AV SA"
+    }
+  },
+  "2211A": {
+    "01": {
+      "id": "132",
+      "description": "CAMPO ALEGRE"
+    },
+    "02": {
+      "id": "133",
+      "description": "CAMPO ALEGRE"
+    },
+    "03": {
+      "id": "134",
+      "description": "CAMPO ALEGRE"
+    },
+    "04": {
+      "id": "1303",
+      "description": "CAMPO ALEGRE"
+    },
+    "05": {
+      "id": "1305",
+      "description": "CAMPO ALEGRE"
+    }
+  },
+  "2211B": {
+    "01": {
+      "id": "136",
+      "description": "PLANALTO"
+    },
+    "03": {
+      "id": "137",
+      "description": "PLANALTO - DESVIO FEIRA AV AFO"
+    }
+  },
+  "2212A": {
+    "01": {
+      "id": "139",
+      "description": "JARDIM ATLANTICO"
+    },
+    "02": {
+      "id": "140",
+      "description": "JARDIM ATLANTICO RETORNO AV SA"
+    },
+    "03": {
+      "id": "1317",
+      "description": "JARDIM ATLANTICO"
+    },
+    "04": {
+      "id": "2176",
+      "description": "JARDIM ATLANTICO / CENTRO"
+    },
+    "05": {
+      "id": "2177",
+      "description": "JARDIM ATLANTICO / PARTIDAS RU"
+    },
+    "06": {
+      "id": "2779",
+      "description": "JARDIM ATLANTICO - PART. AV SI"
+    }
+  },
+  "2212B": {
+    "01": {
+      "id": "142",
+      "description": "JARDIM LEBLON"
+    },
+    "02": {
+      "id": "143",
+      "description": "JARDIM LEBLON / HOSPITAIS"
+    },
+    "03": {
+      "id": "1050",
+      "description": "JARDIM LEBLON"
+    },
+    "04": {
+      "id": "2178",
+      "description": "JARDIM LEBLOM /  CENTRO"
+    },
+    "05": {
+      "id": "2179",
+      "description": "JARDIM LEBLOM /  PARTIDAS RUA"
+    }
+  },
+  "2212C": {
+    "01": {
+      "id": "145",
+      "description": "COPACABANA VIA MONTE CARMELO"
+    },
+    "02": {
+      "id": "1462",
+      "description": "COPACABANA / CENTRO"
+    },
+    "03": {
+      "id": "1463",
+      "description": "COPACABANA VIA M. CARMELO - PA"
+    },
+    "04": {
+      "id": "2975",
+      "description": "COPACABANA VIA MONTE CARMELO P"
+    },
+    "05": {
+      "id": "2976",
+      "description": "COPACABANA VIA MONTE CARMELO P"
+    }
+  },
+  "2213": {
+    "01": {
+      "id": "147",
+      "description": "XANGRILA VIA GARCAS"
+    }
+  },
+  "2214": {
+    "01": {
+      "id": "149",
+      "description": "FLORAMAR"
+    },
+    "02": {
+      "id": "150",
+      "description": "FLORAMAR"
+    },
+    "03": {
+      "id": "1306",
+      "description": "FLORAMAR"
+    },
+    "04": {
+      "id": "2234",
+      "description": "FLORAMAR-AT. AV DR. CRIST. GUI"
+    },
+    "05": {
+      "id": "2235",
+      "description": "FLORAMAR - RETORNO EXPRESSO"
+    },
+    "06": {
+      "id": "2236",
+      "description": "FLORAMAR -  CENTRO VIA AV CRIS"
+    },
+    "07": {
+      "id": "2237",
+      "description": "FLORAMAR -  CENTRO VIA AV PORT"
+    },
+    "08": {
+      "id": "2238",
+      "description": "FLORAMAR VIA. AV CRIST. GUIMAR"
+    }
+  },
+  "2214Z": {
+    "01": {
+      "id": "154",
+      "description": "FLORAMAR/ZOOLOGICO"
+    }
+  },
+  "2215A": {
+    "01": {
+      "id": "156",
+      "description": "CEU AZUL A"
+    },
+    "02": {
+      "id": "157",
+      "description": "CEU AZUL A"
+    },
+    "03": {
+      "id": "158",
+      "description": "CEU AZUL A"
+    },
+    "04": {
+      "id": "159",
+      "description": "CEU AZUL A"
+    },
+    "05": {
+      "id": "160",
+      "description": "CEU AZUL A"
+    },
+    "06": {
+      "id": "161",
+      "description": "CEU AZUL A"
+    },
+    "07": {
+      "id": "162",
+      "description": "CEU AZUL A"
+    },
+    "08": {
+      "id": "1466",
+      "description": "CÉU AZUL A - PAT. RUA DOS NAVE"
+    },
+    "09": {
+      "id": "2035",
+      "description": "CÉU AZUL A / PART. RUA DOS NAV"
+    },
+    "10": {
+      "id": "2180",
+      "description": "CÉU AZUL A  /  CENTRO"
+    },
+    "11": {
+      "id": "2181",
+      "description": "CÉU AZUL  A /  PARTIDAS RUA DO"
+    },
+    "12": {
+      "id": "4397",
+      "description": "PARTIDAS AVENIDA A"
+    },
+    "13": {
+      "id": "4396",
+      "description": "PARTIDAS RUA RADIALISTA ORLAND"
+    },
+    "14": {
+      "id": "5156",
+      "description": "DESVIO FESTA DE SÃO LÁZARO RUA"
+    }
+  },
+  "2215B": {
+    "01": {
+      "id": "164",
+      "description": "CEU AZUL B"
+    },
+    "02": {
+      "id": "165",
+      "description": "CEU AZUL B"
+    },
+    "03": {
+      "id": "166",
+      "description": "CEU AZUL B - HOSPITAIS"
+    },
+    "04": {
+      "id": "167",
+      "description": "CEU AZUL B"
+    },
+    "05": {
+      "id": "168",
+      "description": "CEU AZUL B - DIRETA /  HOSPITA"
+    },
+    "06": {
+      "id": "169",
+      "description": "CEU AZUL B"
+    },
+    "07": {
+      "id": "170",
+      "description": "CEU AZUL B"
+    },
+    "08": {
+      "id": "2781",
+      "description": "CÉU AZUL B - CENTRO"
+    },
+    "09": {
+      "id": "2797",
+      "description": "CÉU AZUL B - PART. RUA CAETÉS"
+    }
+  },
+  "2215C": {
+    "01": {
+      "id": "172",
+      "description": "KATIA VIA CEU AZUL"
+    },
+    "02": {
+      "id": "173",
+      "description": "KATIA VIA CEU AZUL"
+    },
+    "03": {
+      "id": "793",
+      "description": "KATIA VIA CEU AZUL"
+    },
+    "04": {
+      "id": "2782",
+      "description": "KATIA - CENTRO"
+    },
+    "05": {
+      "id": "2798",
+      "description": "KATIA VIA CEU AZUL - PARTIDAS"
+    }
+  },
+  "2215D": {
+    "02": {
+      "id": "175",
+      "description": "CEU AZUL D"
+    },
+    "03": {
+      "id": "176",
+      "description": "CEU AZUL D - HOSPITAIS"
+    },
+    "04": {
+      "id": "2775",
+      "description": "CÉU AZUL D / PARTIDAS DA RUA C"
+    }
+  },
+  "2216": {
+    "01": {
+      "id": "180",
+      "description": "SANTA BRANCA"
+    },
+    "03": {
+      "id": "1467",
+      "description": "SANTA BRANCA / CENTRO"
+    },
+    "04": {
+      "id": "1468",
+      "description": "SANTA BRANCA - PARTIDAS AV BER"
+    }
+  },
+  "2224A": {
+    "01": {
+      "id": "182",
+      "description": "JARDIM DOS COMERCIARIOS A"
+    },
+    "02": {
+      "id": "183",
+      "description": "JARDIM DOS COMERCIARIOS A"
+    },
+    "05": {
+      "id": "184",
+      "description": "JARDIM DOS COMERCIARIOS A"
+    },
+    "06": {
+      "id": "185",
+      "description": "JARDIM DOS COMERCIARIOS A"
+    },
+    "07": {
+      "id": "794",
+      "description": "JARDIM DOS COMERCIARIOS A"
+    },
+    "08": {
+      "id": "1051",
+      "description": "JARDIM DOS COMERCIARIOS A"
+    },
+    "09": {
+      "id": "3216",
+      "description": "JARDIM DOS COMERCIARIOS A/ PAR"
+    },
+    "10": {
+      "id": "4218",
+      "description": "AV SANTOS DUMONT / JARDIM DOS"
+    },
+    "11": {
+      "id": "4219",
+      "description": "JARDIM DOS COMERCIÁRIOS / AV S"
+    }
+  },
+  "2224C": {
+    "02": {
+      "id": "187",
+      "description": "JARDIM DOS COMERCIARIOS C"
+    },
+    "03": {
+      "id": "795",
+      "description": "JARDIM DOS COMERCIARIOS C"
+    },
+    "04": {
+      "id": "1924",
+      "description": "JARDIM DOS COMERCIARIOS C"
+    },
+    "05": {
+      "id": "2776",
+      "description": "JARDIM DOS COMERCIARIOS C - CE"
+    },
+    "06": {
+      "id": "2794",
+      "description": "JARDIM  COMERCIARIOS C - PART."
+    }
+  },
+  "2234A": {
+    "01": {
+      "id": "191",
+      "description": "JAQUELINE A"
+    },
+    "02": {
+      "id": "192",
+      "description": "JAQUELINE A"
+    },
+    "04": {
+      "id": "193",
+      "description": "JAQUELINE A"
+    },
+    "05": {
+      "id": "1024",
+      "description": "JAQUELINE A"
+    },
+    "06": {
+      "id": "1025",
+      "description": "JAQUELINE A"
+    },
+    "07": {
+      "id": "1936",
+      "description": "JAQUELINE A / AT. RESID. JAQUE"
+    }
+  },
+  "2234B": {
+    "01": {
+      "id": "195",
+      "description": "JAQUELINE B"
+    },
+    "03": {
+      "id": "1026",
+      "description": "JAQUELINE B / CENTRO"
+    },
+    "04": {
+      "id": "1027",
+      "description": "JAQUELINE B / PARTIDAS DA AV S"
+    }
+  },
+  "2256A": {
+    "01": {
+      "id": "197",
+      "description": "SAO JOAO BATISTA A"
+    },
+    "02": {
+      "id": "198",
+      "description": "SAO JOAO BATISTA A"
+    },
+    "03": {
+      "id": "199",
+      "description": "SAO JOAO BATISTA A"
+    },
+    "04": {
+      "id": "1398",
+      "description": "SÃO JOÃO BATISTA A"
+    },
+    "05": {
+      "id": "1763",
+      "description": "SÃO JOÃO BATISTA A / PART. PÇA"
+    },
+    "06": {
+      "id": "4220",
+      "description": "PÇA PEDRO ALCANTARA MOREIRA /"
+    },
+    "07": {
+      "id": "4221",
+      "description": "AV SANTOS DUMONT/ SÃO JOÃO BAT"
+    },
+    "08": {
+      "id": "4276",
+      "description": "SÃO JOÃO BATISTA / AV ALFREDO"
+    },
+    "09": {
+      "id": "4277",
+      "description": "RUA GOIÁS / SÃO JOÃO BATISTA"
+    }
+  },
+  "2402A": {
+    "01": {
+      "id": "204",
+      "description": "SAO BERNARDO/NOSSA SENHORA DA"
+    },
+    "03": {
+      "id": "3418",
+      "description": "SAO BERNARDO/NOSSA SENHORA DA"
+    }
+  },
+  "3301A": {
+    "01": {
+      "id": "288",
+      "description": "SANTA TEREZINHA/HOSPITAIS"
+    },
+    "03": {
+      "id": "6254",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "3301B": {
+    "01": {
+      "id": "290",
+      "description": "CASTELO/CENTRO VIA CARLOS LUZ"
+    },
+    "02": {
+      "id": "1058",
+      "description": "VIA BAIRRO SANTANA"
+    },
+    "03": {
+      "id": "6384",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "04": {
+      "id": "6383",
+      "description": "VIA SANTANA: CARNAVAL"
+    }
+  },
+  "3302A": {
+    "01": {
+      "id": "292",
+      "description": "NOVA PAMPULHA/CENTRO VIA ITAMA"
+    },
+    "03": {
+      "id": "293",
+      "description": "VIA HOSPITAIS"
+    },
+    "04": {
+      "id": "294",
+      "description": "NOVA PAMPULHA VIA ITAMARATI"
+    },
+    "05": {
+      "id": "2182",
+      "description": "NOVA PAMPULHA VIA ITAMARATI /"
+    },
+    "06": {
+      "id": "2183",
+      "description": "NOVA PAMPULHA VIA ITAMARATI /"
+    },
+    "07": {
+      "id": "2974",
+      "description": "NOVA PAMPULHA VIA ITAMARATI PA"
+    },
+    "08": {
+      "id": "5821",
+      "description": "NOVA PAMPULHA / CENTRO"
+    },
+    "09": {
+      "id": "6255",
+      "description": "VIA HOSPITAIS: CARNAVAL"
+    },
+    "10": {
+      "id": "6381",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "3302B": {
+    "01": {
+      "id": "296",
+      "description": "TREVO/CENTRO VIA BRAUNAS"
+    },
+    "02": {
+      "id": "297",
+      "description": "TANCREDO NEVES VIA ITAMARATI"
+    },
+    "03": {
+      "id": "5822",
+      "description": "BRAUNAS / CENTRO"
+    },
+    "04": {
+      "id": "6379",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "05": {
+      "id": "6378",
+      "description": "HOSPITAIS CARNAVAL"
+    }
+  },
+  "3302D": {
+    "01": {
+      "id": "299",
+      "description": "BRAUNAS/CENTRO"
+    },
+    "02": {
+      "id": "2294",
+      "description": "CÉU ANIL RG ÁREA CENTRAL"
+    },
+    "03": {
+      "id": "2295",
+      "description": "CT NA ÁREA CENTRAL"
+    },
+    "04": {
+      "id": "6419",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "05": {
+      "id": "6374",
+      "description": "HOSPITAIS CARNAVAL"
+    }
+  },
+  "3501A": {
+    "01": {
+      "id": "755",
+      "description": "PRINCIPAL"
+    },
+    "04": {
+      "id": "756",
+      "description": "JARDIM ALVORADA/SAO MARCOS"
+    },
+    "05": {
+      "id": "1602",
+      "description": "VIA CONDOMINIO FAZENDA DA SERR"
+    },
+    "06": {
+      "id": "2360",
+      "description": "RETORNO EXPRESSO"
+    },
+    "07": {
+      "id": "3419",
+      "description": "JARDIM ALVORADA/SAO MARCOS"
+    },
+    "08": {
+      "id": "3420",
+      "description": "JARDIM ALVORADA/SAO MARCOS- AT"
+    },
+    "09": {
+      "id": "3421",
+      "description": "JARDIM ALVORADA / SÃO MARCOS R"
+    },
+    "10": {
+      "id": "3719",
+      "description": "VIA EST. JOSE CANDIDO"
+    },
+    "11": {
+      "id": "3718",
+      "description": "VIA FAZ. DA SERRA E EST. JOSE"
+    },
+    "12": {
+      "id": "4614",
+      "description": "VIA FERNAO DIAS"
+    },
+    "13": {
+      "id": "6336",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "14": {
+      "id": "6337",
+      "description": "VIA EST. JOSÉ C. CARNAVAL"
+    },
+    "15": {
+      "id": "6338",
+      "description": "F.SERRA E EST.J.CAND.- CARNAVA"
+    },
+    "16": {
+      "id": "6339",
+      "description": "VIA FERNÃO DIAS  CARNAVAL"
+    },
+    "17": {
+      "id": "6372",
+      "description": "FAZENDA DA SERRA - CARNAVAL"
+    }
+  },
+  "3501B": {
+    "01": {
+      "id": "303",
+      "description": "OURO PRETO/IPE VIA JARDIM MONT"
+    },
+    "03": {
+      "id": "3434",
+      "description": "OURO PRETO 3A GLEBA/BAIRRO IPE"
+    },
+    "04": {
+      "id": "6340",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "3502": {
+    "01": {
+      "id": "305",
+      "description": "OURO PRETO/SAO GABRIEL"
+    },
+    "02": {
+      "id": "1040",
+      "description": "OURO PRETO/SAO GABRIEL"
+    },
+    "03": {
+      "id": "3362",
+      "description": "OURO PRETO/SAO GABRIEL"
+    },
+    "04": {
+      "id": "6364",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "3503A": {
+    "01": {
+      "id": "307",
+      "description": "SANTA TEREZINHA/SAO GABRIEL"
+    },
+    "02": {
+      "id": "308",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "309",
+      "description": "PARTIDAS DO OURO MINAS"
+    },
+    "05": {
+      "id": "310",
+      "description": "SANTA TEREZINHA/SAO GABRIEL"
+    },
+    "06": {
+      "id": "1307",
+      "description": "VIA PÇA DIVINA PASTORA"
+    },
+    "07": {
+      "id": "3318",
+      "description": "SANTA TEREZINHA/SAO GABRIEL"
+    },
+    "08": {
+      "id": "3319",
+      "description": "SANTA TEREZINHA/SAO GABRIEL AT"
+    },
+    "09": {
+      "id": "3320",
+      "description": "SANTA TEREZINHA/SAO GABRIEL AT"
+    },
+    "10": {
+      "id": "3321",
+      "description": "SANTA TEREZINHA/SAO GABRIEL AT"
+    },
+    "11": {
+      "id": "6341",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "12": {
+      "id": "6342",
+      "description": "NOTURNO CARNAVAL"
+    },
+    "13": {
+      "id": "6343",
+      "description": "OURO MINAS CARNAVAL"
+    },
+    "14": {
+      "id": "6370",
+      "description": "VIA PÇA. DIVINA PASTORA - CARN"
+    }
+  },
+  "4031": {
+    "01": {
+      "id": "962",
+      "description": "SANTA MARIA / HOSPITAIS VIA AV"
+    },
+    "02": {
+      "id": "6246",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "4032": {
+    "01": {
+      "id": "326",
+      "description": "CAICARA /SAVASSI/ PCA. DA LIBE"
+    },
+    "02": {
+      "id": "327",
+      "description": "CAICARA /SAVASSI/ PCA. DA LIBE"
+    },
+    "03": {
+      "id": "1762",
+      "description": "CAICARA /SAVASSI/ RETORNO PCA."
+    },
+    "04": {
+      "id": "6278",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "4033": {
+    "01": {
+      "id": "329",
+      "description": "CAMARGOS VIA EXPRESSA/CENTRO"
+    },
+    "02": {
+      "id": "863",
+      "description": "CAMARGOS VIA EXPRESSA/CENTRO"
+    },
+    "03": {
+      "id": "1068",
+      "description": "VIA CONJ. ALDEIAS DA SERRA"
+    },
+    "04": {
+      "id": "6279",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "05": {
+      "id": "8878",
+      "description": "ALDEIAS DA SERRA_CARNANVAL"
+    }
+  },
+  "4034": {
+    "01": {
+      "id": "331",
+      "description": "NOVO DOM BOSCO / SAVASSI VIA P"
+    },
+    "02": {
+      "id": "332",
+      "description": "NOVO DOM BOSCO / SAVASSI VIA P"
+    },
+    "03": {
+      "id": "857",
+      "description": "NOVO DOM BOSCO / SAVASSI VIA P"
+    },
+    "04": {
+      "id": "859",
+      "description": "NOVO DOM BOSCO/SAVASSI VIA PAD"
+    },
+    "05": {
+      "id": "1073",
+      "description": "NOVO DOM BOSCO/SAVASSI VIA PAD"
+    },
+    "06": {
+      "id": "1075",
+      "description": "NOVO DOM BOSCO/SAVASSI VIA PAD"
+    },
+    "07": {
+      "id": "3034",
+      "description": "VIA CONJ. FILADELFIA- RETORNO"
+    },
+    "08": {
+      "id": "3035",
+      "description": "NOVO DOM BOSCO/SAVASSI VIA P."
+    },
+    "09": {
+      "id": "4398",
+      "description": "ATENDIMENTO CONJUNTO FILADELFI"
+    },
+    "10": {
+      "id": "4399",
+      "description": "NOVO DOM BOSCO / SAVASSI VIA P"
+    },
+    "11": {
+      "id": "6280",
+      "description": "N.D.BOSCO CONJ FILAD CARNAVAL"
+    },
+    "12": {
+      "id": "6460",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "13": {
+      "id": "8058",
+      "description": "VIA CENTRO SAÚDE CALIFÓRNIA"
+    },
+    "14": {
+      "id": "8879",
+      "description": "VIA CENTRO SAUDE CALIFORNIA_CA"
+    }
+  },
+  "4040": {
+    "01": {
+      "id": "9139",
+      "description": "CENTRO/ARENA MRV"
+    }
+  },
+  "4102": {
+    "01": {
+      "id": "734",
+      "description": "APARECIDA/SERRA"
+    },
+    "02": {
+      "id": "735",
+      "description": "APARECIDA/SERRA - DESVIO FEIRA"
+    },
+    "03": {
+      "id": "2434",
+      "description": "APARECIDA / CENTRO / APARECIDA"
+    },
+    "04": {
+      "id": "5896",
+      "description": "APARECIDA/CENTRO DESVIO FEIRA"
+    },
+    "05": {
+      "id": "6211",
+      "description": "APARECIDA/CENTRO CARNAVAL"
+    },
+    "06": {
+      "id": "6418",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "07": {
+      "id": "8778",
+      "description": "DESVIO FEIRA ELEICAO"
+    }
+  },
+  "4103": {
+    "01": {
+      "id": "334",
+      "description": "APARECIDA/MANGABEIRAS"
+    },
+    "02": {
+      "id": "335",
+      "description": "APARECIDA/MANGABEIRAS-DESVIO F"
+    },
+    "05": {
+      "id": "2074",
+      "description": "APARECIDA / MANGABEIRAS"
+    },
+    "06": {
+      "id": "4736",
+      "description": "VIA AMR"
+    },
+    "07": {
+      "id": "6208",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "08": {
+      "id": "7378",
+      "description": "VIA PRAÇA DA BANDEIRA"
+    },
+    "09": {
+      "id": "7700",
+      "description": "RETORNO PARQUE DAS MANGABEIRAS"
+    },
+    "10": {
+      "id": "7701",
+      "description": "RETORNO PQ MANGABEIRAS VIA PCA"
+    },
+    "11": {
+      "id": "7498",
+      "description": "RETORNO NA PORTARIA PARQUE"
+    },
+    "12": {
+      "id": "7679",
+      "description": "VIA PARQUE DAS MANGABEIRAS - C"
+    },
+    "13": {
+      "id": "7680",
+      "description": "RETORNO PORTARIA PARQUE_CARNAV"
+    }
+  },
+  "4106": {
+    "01": {
+      "id": "337",
+      "description": "SAO CRISTOVAO/SANTO ANTONIO VI"
+    },
+    "02": {
+      "id": "338",
+      "description": "SAO CRISTOVAO/STO ANTONIO-DESV"
+    },
+    "03": {
+      "id": "6206",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "4107": {
+    "01": {
+      "id": "340",
+      "description": "ALTO CAICARA/SERRA"
+    },
+    "02": {
+      "id": "341",
+      "description": "ALTO CAICARA/SERRA"
+    },
+    "04": {
+      "id": "3363",
+      "description": "ALTO CAIÇARA/SERRA"
+    },
+    "06": {
+      "id": "4696",
+      "description": "ATENDIMENTO AOS DOMINGOS E FER"
+    },
+    "07": {
+      "id": "6204",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "08": {
+      "id": "6371",
+      "description": "VIA CARLOS ETIENE-CARNAVAL"
+    },
+    "09": {
+      "id": "9018",
+      "description": "ATENDIMENTO CS JARDIM MONTANHE"
+    },
+    "10": {
+      "id": "9358",
+      "description": "CS JARDIM MONTANHES-CARNAVAL"
+    }
+  },
+  "4107R": {
+    "01": {
+      "id": "343",
+      "description": "SERRA/CENTRO VIA HOSPITAL EVAN"
+    },
+    "02": {
+      "id": "796",
+      "description": "SERRA/CENTRO VIA HOSPITAL EVAN"
+    },
+    "03": {
+      "id": "889",
+      "description": "SERRA/ CENTRO VIA HOSPITAL EVA"
+    },
+    "04": {
+      "id": "966",
+      "description": "SERRA/CENTRO VIA HOSPITAL EVAN"
+    },
+    "05": {
+      "id": "963",
+      "description": "SERRA/CENTRO VIA HOSPITAL EVAN"
+    },
+    "06": {
+      "id": "964",
+      "description": "SERRA/CENTRO VIA HOSPITAL EVAN"
+    },
+    "07": {
+      "id": "965",
+      "description": "SERRA/CENTRO VIA HOSPITAL EVAN"
+    }
+  },
+  "4108": {
+    "01": {
+      "id": "345",
+      "description": "PEDRO II / MANGABEIRAS"
+    },
+    "02": {
+      "id": "346",
+      "description": "PEDRO II / MANGABEIRAS"
+    },
+    "03": {
+      "id": "3364",
+      "description": "PEDRO II / MANGABEIRAS"
+    },
+    "04": {
+      "id": "5979",
+      "description": "VIA RUA VILA RICA"
+    },
+    "05": {
+      "id": "6215",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "06": {
+      "id": "6373",
+      "description": "RUA VILA RICA CARNAVAL"
+    }
+  },
+  "4110": {
+    "01": {
+      "id": "737",
+      "description": "DOM CABRAL/FAC. MILTON CAMPOS"
+    },
+    "03": {
+      "id": "2856",
+      "description": "PARTIDAS DA AVENIDA OLEGÁRIO M"
+    },
+    "04": {
+      "id": "2857",
+      "description": "DOM CABRAL/FAC. MILTON CAMPOS"
+    },
+    "05": {
+      "id": "3365",
+      "description": "DOM CABRAL/FAC. MILTON CAMPOS"
+    },
+    "06": {
+      "id": "6216",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "07": {
+      "id": "7958",
+      "description": "RETORNO TREVO DO BIOCOR"
+    },
+    "08": {
+      "id": "9418",
+      "description": "ATENDIMENTO À CASA DE MARIA"
+    }
+  },
+  "4111": {
+    "01": {
+      "id": "739",
+      "description": "PRINCIPAL"
+    },
+    "02": {
+      "id": "740",
+      "description": "DESVIO FEIRA DA AV.AFONSO PENA"
+    },
+    "03": {
+      "id": "741",
+      "description": "ATENDIMENTO A ESCOLA GUINARD"
+    },
+    "04": {
+      "id": "1582",
+      "description": "RETORNO NA PRACA DO PORTO"
+    },
+    "05": {
+      "id": "1583",
+      "description": "DESVIO FEIRA DA AV.AFONSO PENA"
+    },
+    "06": {
+      "id": "2635",
+      "description": "DOM CABRAL/ANCHIETA - RET. RUA"
+    },
+    "07": {
+      "id": "3366",
+      "description": "DOM CABRAL/ANCHIETA"
+    },
+    "08": {
+      "id": "3367",
+      "description": "DOM CABRAL/ANCHIETA ATEND ESCO"
+    },
+    "09": {
+      "id": "3368",
+      "description": "DOM CABRAL/ANCHIETA"
+    },
+    "10": {
+      "id": "3369",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "11": {
+      "id": "6377",
+      "description": "RETORNO PÇA DO PORTO - CARNAVA"
+    },
+    "12": {
+      "id": "6375",
+      "description": "ESCOLA GUINARD CARNAVAL"
+    }
+  },
+  "4113": {
+    "01": {
+      "id": "348",
+      "description": "BOM JESUS/BELVEDERE VIA AV. RA"
+    },
+    "03": {
+      "id": "349",
+      "description": "ATENDIMENTO A FUNDACAO TORINO"
+    },
+    "05": {
+      "id": "3370",
+      "description": "BOM JESUS/BELVEDERE"
+    },
+    "06": {
+      "id": "3371",
+      "description": "BOM JESUS/BELVEDERE"
+    },
+    "07": {
+      "id": "4856",
+      "description": "(BELVEDERE/CENTRO)"
+    },
+    "08": {
+      "id": "6219",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "09": {
+      "id": "6380",
+      "description": "FUND. TORINO  CARNAVAL"
+    }
+  },
+  "4114": {
+    "01": {
+      "id": "743",
+      "description": "BONFIM / CENTRO"
+    },
+    "02": {
+      "id": "744",
+      "description": "BONFIM / CENTRO"
+    },
+    "03": {
+      "id": "6220",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "4150": {
+    "02": {
+      "id": "351",
+      "description": "SHOPPING DEL REY/BH SHOPPING"
+    },
+    "03": {
+      "id": "2996",
+      "description": "SHOPPING DEL REY/BH SHOPPING-P"
+    }
+  },
+  "4201": {
+    "01": {
+      "id": "353",
+      "description": "ALTO CAICARA/NOVA CINTRA"
+    },
+    "03": {
+      "id": "3372",
+      "description": "ALTO CAIÇARA/NOVA CINTRA"
+    },
+    "04": {
+      "id": "6221",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "05": {
+      "id": "7823",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    },
+    "06": {
+      "id": "6366",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "4205": {
+    "01": {
+      "id": "355",
+      "description": "ERMELINDA/SALGADO FILHO VIA PR"
+    },
+    "03": {
+      "id": "6222",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "4403A": {
+    "01": {
+      "id": "357",
+      "description": "ZOOLOGICO VIA SERRANO"
+    },
+    "03": {
+      "id": "358",
+      "description": "ZOOLOGICO VIA SERRANO"
+    },
+    "05": {
+      "id": "5319",
+      "description": "RETORNO EXPRESSO"
+    },
+    "06": {
+      "id": "6256",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "07": {
+      "id": "6257",
+      "description": "NOTURNO: CARNAVAL"
+    },
+    "08": {
+      "id": "8098",
+      "description": "VIA CENTRO SAÚDE CONFISCO"
+    },
+    "09": {
+      "id": "8881",
+      "description": "VIA CENTRO SAUDE CONFISCO_CARN"
+    }
+  },
+  "4403B": {
+    "05": {
+      "id": "6367",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "4403C": {
+    "01": {
+      "id": "360",
+      "description": "RESIDENCIAL SARANDI"
+    },
+    "03": {
+      "id": "6368",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "4403D": {
+    "01": {
+      "id": "362",
+      "description": "URCA-CONFISCO"
+    },
+    "03": {
+      "id": "3536",
+      "description": "VIA RESIDENCIAL SARANDI"
+    },
+    "04": {
+      "id": "6258",
+      "description": "RESIDENCIAL SARANDI: CARNAVAL"
+    },
+    "05": {
+      "id": "6420",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "4405": {
+    "01": {
+      "id": "364",
+      "description": "COQUEIROS/CENTRO/HOSPITAIS"
+    },
+    "03": {
+      "id": "365",
+      "description": "COQUEIROS"
+    },
+    "05": {
+      "id": "366",
+      "description": "COQUEIROS"
+    },
+    "06": {
+      "id": "5957",
+      "description": "ATENDIMENTO NOTURNO"
+    },
+    "07": {
+      "id": "6250",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "08": {
+      "id": "6251",
+      "description": "HOSPITAIS_ R. ENEIDA: CARNAVAL"
+    },
+    "09": {
+      "id": "6252",
+      "description": "NOTURNO: CARNAVAL"
+    }
+  },
+  "4410": {
+    "01": {
+      "id": "368",
+      "description": "SERRANO"
+    },
+    "02": {
+      "id": "369",
+      "description": "SERRANO"
+    },
+    "03": {
+      "id": "370",
+      "description": "SERRANO"
+    },
+    "04": {
+      "id": "6253",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "4501": {
+    "01": {
+      "id": "372",
+      "description": "CALIFORNIA II / SAO PAULO"
+    },
+    "02": {
+      "id": "1441",
+      "description": "CALIFORNIA II / SAO PAULO - AT"
+    },
+    "03": {
+      "id": "3295",
+      "description": "CALIFORNIA II / SÃO PAULO"
+    },
+    "04": {
+      "id": "3540",
+      "description": "CALIFORNIA II - CENTRO"
+    },
+    "05": {
+      "id": "6223",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "06": {
+      "id": "6225",
+      "description": "CALIFÓRNIA II/ CENTRO CARNAVAL"
+    }
+  },
+  "4801A": {
+    "01": {
+      "id": "374",
+      "description": "JARDIM FILADELFIA/BOA VISTA A"
+    },
+    "02": {
+      "id": "890",
+      "description": "VIA R. ARACI - NOVO GLORIA"
+    },
+    "03": {
+      "id": "3322",
+      "description": "JARDIM FILADELFIA/BOA VISTA A"
+    },
+    "04": {
+      "id": "3323",
+      "description": "JARDIM FILADELFIA/BOA VISTA A"
+    },
+    "05": {
+      "id": "6345",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "06": {
+      "id": "6346",
+      "description": "R. IRACI N. GLORIA  CARNAVAL"
+    },
+    "07": {
+      "id": "9318",
+      "description": "R. ARACI-N. GLORIA_CARNAVAL"
+    }
+  },
+  "4802A": {
+    "01": {
+      "id": "376",
+      "description": "PINDORAMA/BOA VISTA"
+    },
+    "02": {
+      "id": "377",
+      "description": "PINDORAMA/BOA VISTA"
+    },
+    "03": {
+      "id": "378",
+      "description": "PINDORAMA/BOA VISTA - ATEND. J"
+    },
+    "04": {
+      "id": "1822",
+      "description": "PINDORAMA/BOA VISTA VIA RUA AL"
+    },
+    "05": {
+      "id": "2374",
+      "description": "PINDORAMA / BOA VISTA - INVERS"
+    },
+    "06": {
+      "id": "3435",
+      "description": "PINDORAMA/BOA VISTA"
+    },
+    "07": {
+      "id": "3436",
+      "description": "PINDORAMA/BOA VISTA - ATEND. J"
+    },
+    "08": {
+      "id": "3437",
+      "description": " INVERSÃO DE PC - BAIRRO PINDO"
+    },
+    "09": {
+      "id": "6347",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "10": {
+      "id": "6348",
+      "description": "JARDIM FILADÉLFIA  CARNAVAL"
+    },
+    "11": {
+      "id": "6349",
+      "description": "BAIRRO PINDORAMA CARNAVAL"
+    },
+    "12": {
+      "id": "7798",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    }
+  },
+  "5030": {
+    "01": {
+      "id": "382",
+      "description": "UFMG/CENTRO"
+    },
+    "02": {
+      "id": "383",
+      "description": "UFMG/CENTRO"
+    },
+    "04": {
+      "id": "384",
+      "description": "UFMG/CENTRO"
+    }
+  },
+  "5031": {
+    "01": {
+      "id": "386",
+      "description": "SUZANA/UNIVERSITARIO/PCA DA LI"
+    },
+    "02": {
+      "id": "387",
+      "description": "SUZANA/UNIVERSITARIO - DESVIO"
+    },
+    "03": {
+      "id": "6226",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "5033": {
+    "01": {
+      "id": "7121",
+      "description": "STA TEREZINHA/PÇA. DA LIBERDAD"
+    },
+    "02": {
+      "id": "7198",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "5034": {
+    "01": {
+      "id": "9178",
+      "description": "URCA/CENTRO VIA CONFISCO"
+    },
+    "02": {
+      "id": "9179",
+      "description": "PARTIDAS DO SARANDI"
+    },
+    "03": {
+      "id": "9180",
+      "description": "C.S. CONFISCO/BAIRRO"
+    },
+    "04": {
+      "id": "9181",
+      "description": "BAIRRO/ C.S. CONFISCO"
+    }
+  },
+  "5035": {
+    "01": {
+      "id": "9182",
+      "description": "ZOOLOGICO/HOSPITAIS VIA SERRAN"
+    },
+    "02": {
+      "id": "9183",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "9184",
+      "description": "RET. CENTRO VIA PEDRO II"
+    },
+    "04": {
+      "id": "9362",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "05": {
+      "id": "9363",
+      "description": "NOTURNO  - CARNAVAL"
+    }
+  },
+  "5036": {
+    "01": {
+      "id": "9185",
+      "description": "CELSO MACHADO/CENTRO"
+    }
+  },
+  "5101": {
+    "01": {
+      "id": "391",
+      "description": "SUZANA/CRUZEIRO"
+    },
+    "02": {
+      "id": "392",
+      "description": "SUZANA/CRUZEIRO - DESVIO FEIRA"
+    },
+    "03": {
+      "id": "6227",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "5102": {
+    "01": {
+      "id": "394",
+      "description": "UFMG/SANTO ANTONIO"
+    },
+    "02": {
+      "id": "395",
+      "description": "UFMG/SANTO ANTONIO"
+    },
+    "03": {
+      "id": "396",
+      "description": "MINEIRAO/STO. ANTONIO"
+    },
+    "04": {
+      "id": "397",
+      "description": "UFMG/SANTO ANTONIO"
+    },
+    "05": {
+      "id": "398",
+      "description": "UFMG/SANTO ANTONIO"
+    },
+    "06": {
+      "id": "878",
+      "description": "UFMG/ SANTO ANTONIO"
+    },
+    "07": {
+      "id": "879",
+      "description": "UFMG/ SANTO ANTONIO"
+    },
+    "08": {
+      "id": "880",
+      "description": "UFMG/ SANTO ANTONIO"
+    },
+    "09": {
+      "id": "2914",
+      "description": "UFMG/ SANTO ANTONIO - NÃO ATEN"
+    },
+    "10": {
+      "id": "2915",
+      "description": "UFMG/ SANTO ANTONIO - PART. PÇ"
+    },
+    "11": {
+      "id": "6382",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "12": {
+      "id": "6385",
+      "description": "NÃO ATEND.UFMG  CARNAVAL"
+    },
+    "13": {
+      "id": "8998",
+      "description": "UFMG/STO ANTONIO/MINEIRAO"
+    }
+  },
+  "5104": {
+    "01": {
+      "id": "7079",
+      "description": "PRINCIPAL"
+    },
+    "02": {
+      "id": "7080",
+      "description": "DESVIO FEIRA AV. AFONSO PENA"
+    },
+    "03": {
+      "id": "7081",
+      "description": "SUZANA/RETORNO PÇA LIBERDADE"
+    },
+    "04": {
+      "id": "7082",
+      "description": "SUZANA/RET.P. LIBERDADE-FEIRA"
+    },
+    "05": {
+      "id": "7083",
+      "description": "UNIVERSITÁRIO/RET.PÇA LIBERDAD"
+    },
+    "06": {
+      "id": "7200",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "07": {
+      "id": "7201",
+      "description": "SUZANA-RETORNO CARNAVAL"
+    }
+  },
+  "5106": {
+    "01": {
+      "id": "5700",
+      "description": "BANDEIRANTES/BH SHOPPING"
+    },
+    "02": {
+      "id": "5701",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "5702",
+      "description": "DESVIO FEIRA AV. AFONSO PENA"
+    },
+    "04": {
+      "id": "5703",
+      "description": "NÃO ATEND. CLUBE BH"
+    },
+    "05": {
+      "id": "5704",
+      "description": "NÃO ATEND.CLUBE BH/DESVIO FEIR"
+    },
+    "06": {
+      "id": "6058",
+      "description": "ESTAÇÃO UFMG/SAVASSI"
+    },
+    "07": {
+      "id": "6431",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "09": {
+      "id": "9242",
+      "description": "ATEND. VILA PAQUETÁ"
+    }
+  },
+  "5107": {
+    "01": {
+      "id": "7140",
+      "description": "PRINCIPAL"
+    },
+    "02": {
+      "id": "7480",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "03": {
+      "id": "8783",
+      "description": "DESVIO FEIRA ELEICAO"
+    },
+    "04": {
+      "id": "9198",
+      "description": "RETORNO EXPRESSO"
+    }
+  },
+  "5201": {
+    "01": {
+      "id": "400",
+      "description": "DONA CLARA/BURITIS"
+    },
+    "03": {
+      "id": "952",
+      "description": "DONA CLARA/BURITIS"
+    },
+    "04": {
+      "id": "1525",
+      "description": "PART.RUA BOAVENTURA/BURITIS"
+    },
+    "05": {
+      "id": "2239",
+      "description": "PART.RUA CURITIBA/BURITIS"
+    },
+    "06": {
+      "id": "2240",
+      "description": "BURITIS - CENTRO"
+    },
+    "07": {
+      "id": "2241",
+      "description": "DONA CLARA/BURITIS - PART.GARA"
+    },
+    "08": {
+      "id": "2243",
+      "description": "BURITIS / DONA CLARA -  RETORN"
+    },
+    "09": {
+      "id": "5783",
+      "description": "NOTURNO"
+    },
+    "10": {
+      "id": "5916",
+      "description": "PART. EST. SÃO FRANCISCO"
+    },
+    "11": {
+      "id": "6432",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "5203": {
+    "01": {
+      "id": "7119",
+      "description": "CASTELO/ESTRELA DO ORIENTE VIA"
+    },
+    "02": {
+      "id": "7203",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "5401": {
+    "01": {
+      "id": "402",
+      "description": "SAO LUIZ/DOM CABRAL"
+    },
+    "03": {
+      "id": "2714",
+      "description": "SAO LUIZ/DOM CABRAL - RETORNO"
+    },
+    "04": {
+      "id": "3296",
+      "description": "SAO LUIZ/DOM CABRAL"
+    },
+    "05": {
+      "id": "5596",
+      "description": "VIA AL. DO IPE BRANCO"
+    },
+    "06": {
+      "id": "5635",
+      "description": "NOTURNO"
+    },
+    "07": {
+      "id": "6433",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "08": {
+      "id": "9298",
+      "description": "RETORNO NA  AV. TRINTA E UM DE"
+    }
+  },
+  "5502A": {
+    "01": {
+      "id": "758",
+      "description": "JARDIM VITORIA A"
+    },
+    "03": {
+      "id": "759",
+      "description": "JARDIM VITORIA A - ATEND. POUS"
+    },
+    "04": {
+      "id": "2358",
+      "description": "JARDIM VITORIA A / RETORNO EXP"
+    },
+    "05": {
+      "id": "3235",
+      "description": "JARDIM VITORIA A / PARTIDA AV"
+    },
+    "06": {
+      "id": "3954",
+      "description": "ATEND. NOTURNO POUSADA SANTO A"
+    },
+    "07": {
+      "id": "5176",
+      "description": "JARDIM VITÓRIA A - ATENDIMENTO"
+    }
+  },
+  "5502B": {
+    "01": {
+      "id": "761",
+      "description": "CAPITAO EDUARDO"
+    },
+    "03": {
+      "id": "1937",
+      "description": "ATENDIMENTO RUA DAS MANGUEIRAS"
+    },
+    "04": {
+      "id": "1954",
+      "description": "ATENDIMENTO RUA DAS MANGUEIRAS"
+    },
+    "05": {
+      "id": "1939",
+      "description": "CAPITÃO EDUARDO / ATEND. SESC"
+    },
+    "06": {
+      "id": "2734",
+      "description": "CAPITÃO EDUARDO / RETORNO EXPR"
+    },
+    "07": {
+      "id": "4957",
+      "description": "ATENDIMENTO AO CSESC (PT)"
+    }
+  },
+  "5502C": {
+    "01": {
+      "id": "763",
+      "description": "POUSADA SANTO ANTONIO/CENTRO/H"
+    },
+    "04": {
+      "id": "764",
+      "description": "POUSADA SANTO ANTONIO"
+    },
+    "05": {
+      "id": "2196",
+      "description": "POUSADA SANTO ANTONIO"
+    },
+    "06": {
+      "id": "2494",
+      "description": "ATEND. BAIRRO VITÓRIA - VIA PO"
+    },
+    "07": {
+      "id": "2495",
+      "description": "ATEND. BAIRRO VITÓRIA - VIA PO"
+    },
+    "08": {
+      "id": "2735",
+      "description": "RETORNO EXPRESSO"
+    },
+    "09": {
+      "id": "6365",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "10": {
+      "id": "6363",
+      "description": "BAIRRO VITÓRIA - CARNAVAL: MAN"
+    },
+    "11": {
+      "id": "6361",
+      "description": "BAIRRO VITÓRIA - CARNAVAL: TAR"
+    }
+  },
+  "5503A": {
+    "02": {
+      "id": "404",
+      "description": "GOIANIA A/CENTRO/HOSPITAIS"
+    },
+    "03": {
+      "id": "405",
+      "description": "NOTURNO"
+    },
+    "04": {
+      "id": "406",
+      "description": "VIA VILA S. JORGE E EST. JOSÉ"
+    },
+    "06": {
+      "id": "407",
+      "description": "VIA VILA SÃO JORGE"
+    },
+    "07": {
+      "id": "3717",
+      "description": "VIA EST. JOSÉ CANDIDO"
+    },
+    "08": {
+      "id": "5220",
+      "description": "RETORNO NO CENTRO"
+    },
+    "09": {
+      "id": "6259",
+      "description": "NOTURNO: CARNAVAL"
+    },
+    "10": {
+      "id": "6260",
+      "description": "VILA S. JORGE EST. JC: CARNAVA"
+    },
+    "11": {
+      "id": "6261",
+      "description": "EST. J. CÂNDIDO: CARNAVAL"
+    },
+    "12": {
+      "id": "6360",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "13": {
+      "id": "6358",
+      "description": "VIA VILA SÃO JORGE - CARNAVAL"
+    }
+  },
+  "5503B": {
+    "02": {
+      "id": "409",
+      "description": "GOIANIA B/CENTRO/HOSPITAIS"
+    },
+    "03": {
+      "id": "6356",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "5505A": {
+    "01": {
+      "id": "411",
+      "description": "NAZARE"
+    },
+    "02": {
+      "id": "412",
+      "description": "NAZARE"
+    },
+    "03": {
+      "id": "1242",
+      "description": "NAZARE"
+    },
+    "04": {
+      "id": "1245",
+      "description": "NAZARE"
+    }
+  },
+  "5505B": {
+    "01": {
+      "id": "414",
+      "description": "VISTA DO SOL"
+    }
+  },
+  "5506A": {
+    "01": {
+      "id": "416",
+      "description": "RIBEIRO DE ABREU/HOSPITAIS"
+    },
+    "02": {
+      "id": "4976",
+      "description": "RIBEIRO DE ABREU - RET. EXPRES"
+    },
+    "03": {
+      "id": "6355",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "5506B": {
+    "01": {
+      "id": "418",
+      "description": "RIBEIRO DE ABREU VIA CONJUNTO"
+    },
+    "02": {
+      "id": "4254",
+      "description": "RIBEIRO DE ABREU / CENTRO"
+    },
+    "03": {
+      "id": "4255",
+      "description": "CENTRO / RIBEIRO DE ABREU"
+    }
+  },
+  "5506C": {
+    "01": {
+      "id": "420",
+      "description": "PAULO VI VIA RIBEIRO DE ABREU"
+    },
+    "02": {
+      "id": "421",
+      "description": "PAULO VI - ATENDIMENTO CONJ. R"
+    },
+    "03": {
+      "id": "1311",
+      "description": "PAULO VI VIA RIBEIRO DE ABREU"
+    }
+  },
+  "5506D": {
+    "01": {
+      "id": "423",
+      "description": "RIBEIRO DE ABREU D"
+    }
+  },
+  "5507A": {
+    "01": {
+      "id": "425",
+      "description": "JARDIM GUANABARA A"
+    },
+    "02": {
+      "id": "426",
+      "description": "JARDIM GUANABARA A"
+    },
+    "03": {
+      "id": "427",
+      "description": "JARDIM GUANABARA A"
+    },
+    "04": {
+      "id": "2997",
+      "description": "JARDIM GUANABARA A - CENTRO /"
+    },
+    "05": {
+      "id": "2998",
+      "description": "JARDIM GUANABARA A - PARTIDAS"
+    },
+    "06": {
+      "id": "2999",
+      "description": "JARDIM GUANABARA A  - CENTRO"
+    }
+  },
+  "5508": {
+    "01": {
+      "id": "1046",
+      "description": "AARÃO REIS VIA MINASLANDIA"
+    },
+    "02": {
+      "id": "1047",
+      "description": "AARÃO REIS VIA MINASLANDIA DES"
+    },
+    "03": {
+      "id": "1048",
+      "description": "AARÃO REIS VIA MINASLANDIA / C"
+    },
+    "04": {
+      "id": "1049",
+      "description": "AARÃO REIS VIA MINASLANDIA-PAR"
+    }
+  },
+  "5513": {
+    "01": {
+      "id": "438",
+      "description": "JULIANA VIA ETELVINA CARNEIRO"
+    },
+    "02": {
+      "id": "439",
+      "description": "JULIANA VIA ETELVINA CARNEIRO"
+    },
+    "03": {
+      "id": "440",
+      "description": "JULIANA VIA ETELVINA CARNEIRO"
+    },
+    "04": {
+      "id": "2780",
+      "description": "JULIANA - CENTRO"
+    },
+    "05": {
+      "id": "2796",
+      "description": "JULIANA - PARTIDAS AV SANTOS D"
+    }
+  },
+  "5517": {
+    "01": {
+      "id": "992",
+      "description": "MINAS CAIXA / VIA SERRA VERDE"
+    },
+    "02": {
+      "id": "993",
+      "description": "MINAS CAIXA / VIA SERRA VERDE"
+    },
+    "03": {
+      "id": "994",
+      "description": "MINAS CAIXA / VIA SERRA VERDE"
+    },
+    "04": {
+      "id": "1464",
+      "description": "MINAS CAIXA / CENTRO"
+    },
+    "05": {
+      "id": "1465",
+      "description": "MINAS CAIXA/ VIA SERRA VERDE -"
+    },
+    "06": {
+      "id": "2254",
+      "description": "MINAS CAIXA / VIA SERRA VERDE"
+    },
+    "07": {
+      "id": "2255",
+      "description": "MINAS CAIXA / VIA S. VERDE PAR"
+    },
+    "08": {
+      "id": "2415",
+      "description": "MINAS CAIXA VIA SERRA VERDE"
+    },
+    "09": {
+      "id": "3075",
+      "description": "ATENDIMENTO CIDADE ADMI NISTRA"
+    },
+    "10": {
+      "id": "3076",
+      "description": "ATENDIMENTO CIDADE ADMINISTRAT"
+    },
+    "11": {
+      "id": "3894",
+      "description": "MINAS CAIXA/ CENTRO - RETORNO"
+    }
+  },
+  "5522A": {
+    "01": {
+      "id": "458",
+      "description": "MONTE AZUL"
+    },
+    "02": {
+      "id": "459",
+      "description": "MONTE AZUL"
+    }
+  },
+  "5523A": {
+    "01": {
+      "id": "463",
+      "description": "CONJUNTO PAULO VI"
+    },
+    "02": {
+      "id": "464",
+      "description": "CONJUNTO PAULO VI - ATEND. RUA"
+    },
+    "03": {
+      "id": "465",
+      "description": "CONJUNTO PAULO VI"
+    },
+    "04": {
+      "id": "1028",
+      "description": "CONJUNTO PAULO VI / CENTRO"
+    },
+    "05": {
+      "id": "1029",
+      "description": "CONJUNTO PAULO VI / PARTIDAS A"
+    },
+    "06": {
+      "id": "2594",
+      "description": "CONJUNTO PAULO VI"
+    },
+    "07": {
+      "id": "4657",
+      "description": "VISTA DO SOL - NAZARÉ / CENTRO"
+    },
+    "08": {
+      "id": "4716",
+      "description": "RETORNO EXPRESSO PORTAS (PORTA"
+    }
+  },
+  "5523B": {
+    "01": {
+      "id": "467",
+      "description": "PAULO VI"
+    }
+  },
+  "5525A": {
+    "01": {
+      "id": "469",
+      "description": "BELMONTE"
+    },
+    "02": {
+      "id": "470",
+      "description": "BELMONTE"
+    }
+  },
+  "5525B": {
+    "01": {
+      "id": "472",
+      "description": "PARQUE BELMONTE"
+    }
+  },
+  "5534": {
+    "01": {
+      "id": "474",
+      "description": "CONJUNTO ZILAH SPOSITO"
+    },
+    "02": {
+      "id": "475",
+      "description": "CONJUNTO ZILAH SPOSITO"
+    },
+    "03": {
+      "id": "3000",
+      "description": "CONJUNTO ZILAH SPOSITO /  CENT"
+    },
+    "04": {
+      "id": "3001",
+      "description": "CONJ. ZILAH SPOSITO /CENTRO AT"
+    },
+    "05": {
+      "id": "3002",
+      "description": "CONJ. ZILAH SPOSITO - PATIDAS"
+    },
+    "06": {
+      "id": "3003",
+      "description": " ZILAH SPOSITO/PART. AV SANTOS"
+    },
+    "07": {
+      "id": "4222",
+      "description": "CONJUNTO ZILAH SPOSITO / RUA D"
+    },
+    "08": {
+      "id": "4223",
+      "description": "RUA DOS GUAICURUS / CONJUNTO Z"
+    }
+  },
+  "5537": {
+    "01": {
+      "id": "477",
+      "description": "SERRA VERDE"
+    },
+    "02": {
+      "id": "478",
+      "description": "SERRA VERDE"
+    }
+  },
+  "5540": {
+    "01": {
+      "id": "480",
+      "description": "JARDIM LEBLON VIA RIO BRANCO"
+    },
+    "02": {
+      "id": "797",
+      "description": "JARDIM LEBLON VIA RIO BRANCO"
+    }
+  },
+  "7030": {
+    "01": {
+      "id": "561",
+      "description": "GUARANI/CENTRO"
+    }
+  },
+  "8001A": {
+    "01": {
+      "id": "565",
+      "description": "ANA LUCIA/BH SHOPPING"
+    },
+    "02": {
+      "id": "566",
+      "description": "DESVIO FEIRA AV. AFONSO PENA"
+    },
+    "04": {
+      "id": "2314",
+      "description": "RETORNO AV. N. SENHORA DO CARM"
+    },
+    "05": {
+      "id": "6350",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "8030": {
+    "01": {
+      "id": "570",
+      "description": "DOM SILVERIO/CENTRO"
+    }
+  },
+  "8101": {
+    "01": {
+      "id": "574",
+      "description": "SANTA CRUZ/ALTO SANTA LUCIA"
+    },
+    "03": {
+      "id": "3538",
+      "description": "SANTA CRUZ / CENTRO"
+    },
+    "04": {
+      "id": "6434",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "05": {
+      "id": "7238",
+      "description": "SANTA CRUZ / CENTRO_CARNAVAL"
+    }
+  },
+  "8102": {
+    "01": {
+      "id": "576",
+      "description": "UNIAO/CARMO SION"
+    },
+    "02": {
+      "id": "577",
+      "description": "UNIAO/CARMO SION - ATEND. PRÇA"
+    },
+    "04": {
+      "id": "5898",
+      "description": "UNIÃIO/CARMO SION - DESVIO FEI"
+    },
+    "05": {
+      "id": "6230",
+      "description": "PÇA M. CHIQUILOFF- CARNAVAL"
+    },
+    "06": {
+      "id": "6387",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "8103": {
+    "01": {
+      "id": "579",
+      "description": "NOVA FLORESTA/SANTA LUCIA VIA"
+    },
+    "02": {
+      "id": "580",
+      "description": "NOVA FLORESTA/SANTA LUCIA VIA"
+    },
+    "03": {
+      "id": "2184",
+      "description": "NOTURNO"
+    },
+    "04": {
+      "id": "3004",
+      "description": "NOVA FLORESTA/SANTA LUCIA - RE"
+    },
+    "05": {
+      "id": "6231",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "06": {
+      "id": "6232",
+      "description": "PRAÇA DO SOL: CARNAVAL"
+    },
+    "07": {
+      "id": "6233",
+      "description": "NOTURNO: CARNAVAL"
+    },
+    "08": {
+      "id": "7800",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    }
+  },
+  "8106": {
+    "01": {
+      "id": "585",
+      "description": "SANTA CRUZ/BH SHOPPING VIA BEL"
+    },
+    "02": {
+      "id": "586",
+      "description": "DESVIO FEIRA AV. AFONSO PENA"
+    },
+    "03": {
+      "id": "1310",
+      "description": "SANTA CRUZ/BH SHOPPING VIA BEL"
+    },
+    "04": {
+      "id": "6234",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "05": {
+      "id": "8900",
+      "description": "RETORNO EXPRESSO_CARNAVAL"
+    }
+  },
+  "8107": {
+    "01": {
+      "id": "746",
+      "description": "CONCORDIA/SAO PEDRO VIA COLEGI"
+    },
+    "02": {
+      "id": "747",
+      "description": "CONCORDIA/SAO PEDRO - DESVIO F"
+    },
+    "03": {
+      "id": "6235",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "8108": {
+    "01": {
+      "id": "588",
+      "description": "CIDADE NOVA/SAVASSI VIA RUA DA"
+    },
+    "02": {
+      "id": "5899",
+      "description": "CIDADE NOVA/SAVASSI - DESVIO F"
+    },
+    "03": {
+      "id": "6238",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "8150": {
+    "01": {
+      "id": "590",
+      "description": "UNIAO/SERRA VIA FLORESTA/HOSPI"
+    },
+    "02": {
+      "id": "6389",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "8203": {
+    "01": {
+      "id": "592",
+      "description": "RENASCENCA/BURITIS VIA NOVA SU"
+    },
+    "02": {
+      "id": "1308",
+      "description": "RENASCENÇA/BURITIS"
+    },
+    "03": {
+      "id": "1315",
+      "description": "RENASCENÇA/BURITIS VIA NOVA SU"
+    },
+    "04": {
+      "id": "2614",
+      "description": "NOTURNO"
+    },
+    "05": {
+      "id": "3374",
+      "description": "RENASCENÇA/BURITIS"
+    },
+    "06": {
+      "id": "3375",
+      "description": "RENASCENÇA/BURITIS ATENDIM. AV"
+    },
+    "07": {
+      "id": "4054",
+      "description": "VIA RUA BORBOREMA"
+    },
+    "08": {
+      "id": "4055",
+      "description": "RENASCENÇA/BURITIS AT AV DEP C"
+    },
+    "09": {
+      "id": "5278",
+      "description": "ATENDIMENTO AO BURITIS II"
+    },
+    "10": {
+      "id": "6239",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "11": {
+      "id": "6391",
+      "description": "CRISTOVAM CHIARADIA CARNAVAL"
+    },
+    "12": {
+      "id": "6393",
+      "description": "BURITIS II CARNAVAL"
+    }
+  },
+  "8205": {
+    "01": {
+      "id": "594",
+      "description": "MARIA GORETTI/NOVA GRANADA"
+    },
+    "02": {
+      "id": "595",
+      "description": "VIA ALTO BARROCA"
+    },
+    "03": {
+      "id": "860",
+      "description": "DESVIO FEIRA DA SILVA LOBO"
+    },
+    "04": {
+      "id": "861",
+      "description": "DESVIO FEIRA DA SILVA LOBO VIA"
+    },
+    "05": {
+      "id": "3534",
+      "description": "VIA BAIRRO SÃO PAULO"
+    },
+    "06": {
+      "id": "3535",
+      "description": "VIA BAIRRO SÃO PAULO E ALTO BA"
+    },
+    "07": {
+      "id": "6240",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "08": {
+      "id": "6241",
+      "description": "VIA ALTO BARROCA: CARNAVAL"
+    },
+    "09": {
+      "id": "6242",
+      "description": "VIA BAIRRO S. PAULO: CARNAVAL"
+    },
+    "10": {
+      "id": "6282",
+      "description": "S.PAULO E A. BARROCA CARNAVAL"
+    },
+    "11": {
+      "id": "6394",
+      "description": "FEIRA SILVA LOBO CARNAVAL"
+    },
+    "12": {
+      "id": "6395",
+      "description": "FEIRA ALTO BARROCA CARNAVAL"
+    }
+  },
+  "8207": {
+    "01": {
+      "id": "597",
+      "description": "MARIA GORETTI/ESTRELA DALVA"
+    },
+    "02": {
+      "id": "1037",
+      "description": "MARIA GORETTI/ESTRELA DALVA"
+    },
+    "03": {
+      "id": "2214",
+      "description": "MARIA GORETTI / ESTRELA DALVA"
+    },
+    "04": {
+      "id": "2215",
+      "description": "MARIA GORETTI / ESTRELA DALVA"
+    },
+    "05": {
+      "id": "3376",
+      "description": "MARIA GORETTI/ESTRELA DALVA"
+    },
+    "07": {
+      "id": "6243",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "8208": {
+    "01": {
+      "id": "599",
+      "description": "SANTA CRUZ/BURITIS VIA AV. BAR"
+    },
+    "02": {
+      "id": "3005",
+      "description": "SANTA CRUZ / UNI-ESTORIL -PART"
+    },
+    "03": {
+      "id": "3006",
+      "description": "SANTA CRUZ / UNI-ESTORIL - PAR"
+    },
+    "04": {
+      "id": "3377",
+      "description": "SANTA CRUZ/UNI-ESTORIL"
+    },
+    "05": {
+      "id": "6262",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "8401": {
+    "01": {
+      "id": "606",
+      "description": "CACHOEIRINHA/SAO JOSE"
+    },
+    "03": {
+      "id": "1995",
+      "description": "CACHOEIRINHA/SAO JOSE-ATEND. R"
+    },
+    "04": {
+      "id": "3934",
+      "description": "SÃO JOSÉ / CENTRO"
+    },
+    "05": {
+      "id": "6283",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "06": {
+      "id": "6461",
+      "description": "SAO JOSE/CENTRO - CARNAVAL"
+    },
+    "07": {
+      "id": "7799",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    }
+  },
+  "8405": {
+    "01": {
+      "id": "749",
+      "description": "PALMARES/BELA VISTA"
+    },
+    "02": {
+      "id": "3297",
+      "description": "PALMARES/BELA VISTA"
+    },
+    "03": {
+      "id": "6263",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "04": {
+      "id": "7801",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    }
+  },
+  "8501": {
+    "01": {
+      "id": "608",
+      "description": "MARIA GORETTI/ENGENHO NOGUEIRA"
+    },
+    "02": {
+      "id": "3298",
+      "description": "MARIA GORETTI/ENGENHO NOGUEIRA"
+    },
+    "03": {
+      "id": "6264",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9030": {
+    "01": {
+      "id": "772",
+      "description": "CASTANHEIRAS/CENTRO"
+    },
+    "02": {
+      "id": "773",
+      "description": "PARTIDAS DA RUA DOS CAETES"
+    },
+    "03": {
+      "id": "824",
+      "description": "CASTANHEIRAS/CENTRO"
+    },
+    "04": {
+      "id": "825",
+      "description": "CASTANHEIRAS/CENTRO"
+    },
+    "05": {
+      "id": "6285",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9031": {
+    "01": {
+      "id": "751",
+      "description": "NOSSA SENHORA DE FATIMA/CENTRO"
+    },
+    "02": {
+      "id": "1943",
+      "description": "CENTRO / RUA NOSSA SENHORA DE"
+    },
+    "03": {
+      "id": "1944",
+      "description": "NOSSA SENHORA DE FÁTIMA / CENT"
+    },
+    "04": {
+      "id": "6286",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9032": {
+    "01": {
+      "id": "612",
+      "description": "GRANJA DE FREITAS/CENTRO VIA A"
+    },
+    "02": {
+      "id": "1410",
+      "description": "VIA AV. MARZAGANIA"
+    },
+    "03": {
+      "id": "5277",
+      "description": "VIA RUA DINIZ DIAS"
+    },
+    "04": {
+      "id": "5897",
+      "description": "VIA AV. MARZAGANIA - DESVIO FE"
+    },
+    "05": {
+      "id": "5903",
+      "description": "DESVIO FEIRA AFONSO PENA"
+    },
+    "06": {
+      "id": "5900",
+      "description": "VIA RUA DINIZ DIAS-DESVIO FEIR"
+    },
+    "07": {
+      "id": "6287",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9033": {
+    "01": {
+      "id": "4917",
+      "description": "CENTRO / ESTADIO INDEPENDENCIA"
+    },
+    "02": {
+      "id": "5216",
+      "description": "CENTRO/MINEIRÃO PARTIDA RUA RI"
+    },
+    "03": {
+      "id": "5217",
+      "description": "CENTRO/MINEIRÃO PARTIDA AV. DO"
+    },
+    "04": {
+      "id": "5218",
+      "description": "TORCIDA DO ATLETICO CENTRO/MIN"
+    },
+    "05": {
+      "id": "5219",
+      "description": "TORCIDA DO ATLETICO MINEIRÃO/C"
+    }
+  },
+  "9034": {
+    "01": {
+      "id": "7761",
+      "description": "TAQUARIL/CENTRO"
+    },
+    "02": {
+      "id": "7762",
+      "description": "DESVIO FEIRA AV. AFONSO PENA"
+    },
+    "03": {
+      "id": "8882",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9101": {
+    "01": {
+      "id": "614",
+      "description": "PRINCIPAL"
+    },
+    "02": {
+      "id": "615",
+      "description": "ALTO STA LUCIA- DESVIO FEIRA A"
+    },
+    "03": {
+      "id": "3545",
+      "description": "ALTO SANTA LUCIA"
+    },
+    "04": {
+      "id": "6288",
+      "description": "ALTO SANTA LUCIA CARNAVAL"
+    },
+    "05": {
+      "id": "6396",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9103": {
+    "01": {
+      "id": "617",
+      "description": "SANTA TERESA/SANTO ANTONIO"
+    },
+    "02": {
+      "id": "1069",
+      "description": "STA TERESA /STO ANTONIO-PONTO"
+    },
+    "03": {
+      "id": "5904",
+      "description": "DESVIO FEIRA AV. AFONSO PENA"
+    },
+    "04": {
+      "id": "6289",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9104": {
+    "01": {
+      "id": "619",
+      "description": "SAGRADA FAMILIA/LUXEMBURGO"
+    },
+    "02": {
+      "id": "620",
+      "description": "SAGRADA FAMILIA/LUXEMBURGO- PO"
+    },
+    "04": {
+      "id": "2657",
+      "description": "SAGRADA FAMILIA / LUXEMBURGO -"
+    },
+    "05": {
+      "id": "6290",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "06": {
+      "id": "6439",
+      "description": "PF GUAICUI- CARNAVAL"
+    },
+    "07": {
+      "id": "7802",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    }
+  },
+  "9105": {
+    "01": {
+      "id": "622",
+      "description": "NOVA VISTA/SION"
+    },
+    "04": {
+      "id": "3542",
+      "description": "NOVA VISTA /  CENTRO"
+    },
+    "05": {
+      "id": "5902",
+      "description": "NOVA VISTA/CENTRO - DESVIO FEI"
+    },
+    "06": {
+      "id": "6291",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "07": {
+      "id": "6397",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "08": {
+      "id": "8779",
+      "description": "DESVIO FEIRA ELEICAO"
+    }
+  },
+  "9106": {
+    "01": {
+      "id": "624",
+      "description": "SAGRADA FAMILIA/SERRA"
+    },
+    "02": {
+      "id": "625",
+      "description": "SAGRADA FAMILIA/SERRA DESVIO F"
+    },
+    "04": {
+      "id": "6292",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9201": {
+    "01": {
+      "id": "627",
+      "description": "BALEIA/NOVA GRANADA"
+    },
+    "02": {
+      "id": "858",
+      "description": "BALEIA/NOVA GRANADA"
+    },
+    "03": {
+      "id": "998",
+      "description": "BALEIA/NOVA GRANADA ATEND. UNI"
+    },
+    "04": {
+      "id": "999",
+      "description": "BALEIA/NOVA GRANADA"
+    },
+    "05": {
+      "id": "3382",
+      "description": "BALEIA/NOVA GRANADA"
+    },
+    "06": {
+      "id": "3474",
+      "description": "BALEIA/NOVA GRANADA AT. UNIDAD"
+    },
+    "07": {
+      "id": "3575",
+      "description": "BALEIA/NOVA GRANADA DESVIO FEI"
+    },
+    "08": {
+      "id": "6294",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "09": {
+      "id": "6399",
+      "description": "FEIRA SILVA LOBO CARNAVAL"
+    }
+  },
+  "9202": {
+    "03": {
+      "id": "629",
+      "description": "POMPEIA/JARDIM AMERICA"
+    },
+    "04": {
+      "id": "630",
+      "description": "DESVIO FEIRA AV. AFONSO PENA"
+    },
+    "05": {
+      "id": "631",
+      "description": "POMPEIA/JARDIM AMERICA"
+    },
+    "06": {
+      "id": "1299",
+      "description": "POMPEIA/JARDIM AMERICA"
+    },
+    "07": {
+      "id": "1300",
+      "description": "POMPEIA/ JARDIM AMERICA"
+    },
+    "08": {
+      "id": "3394",
+      "description": "POMPEIA/JARDIM AMÉRICA"
+    },
+    "09": {
+      "id": "3654",
+      "description": "POMPEIA/JARDIM AMERICA"
+    },
+    "10": {
+      "id": "6295",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "11": {
+      "id": "6718",
+      "description": "ENCERRA VIAGEM NO ESTORIL"
+    },
+    "12": {
+      "id": "6719",
+      "description": "PARTIDAS DO ESTORIL"
+    },
+    "13": {
+      "id": "7438",
+      "description": "VIA PÇA. ALBERTO T. DOS SANTOS"
+    },
+    "14": {
+      "id": "7481",
+      "description": "VIA PCA. ALBERTO T. DOS SANTOS"
+    }
+  },
+  "9204": {
+    "01": {
+      "id": "636",
+      "description": "SANTA EFIGENIA/ESTORIL"
+    },
+    "02": {
+      "id": "637",
+      "description": "SANTA EFIGENIA/ESTORIL"
+    },
+    "03": {
+      "id": "3314",
+      "description": "SANTA EFIGENIA/ESTORIL"
+    },
+    "04": {
+      "id": "3543",
+      "description": "STA EFIGÊNIA/ESTORIL-DESVIO FE"
+    },
+    "05": {
+      "id": "3544",
+      "description": "STA EFIGÊNIA / CENTRO"
+    },
+    "06": {
+      "id": "3614",
+      "description": "STA EFIGÊNIA/CENTRO-DESVIO FEI"
+    },
+    "07": {
+      "id": "6296",
+      "description": "STA EFIGENIA/CENTRO CARNAVAL"
+    },
+    "08": {
+      "id": "6400",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "09": {
+      "id": "8780",
+      "description": "DESVIO FEIRA ELEICAO"
+    }
+  },
+  "9205": {
+    "01": {
+      "id": "639",
+      "description": "NOVA VISTA/NOVA CINTRA"
+    },
+    "02": {
+      "id": "640",
+      "description": "NOVA VISTA/NOVA CINTRA"
+    },
+    "03": {
+      "id": "641",
+      "description": "NOVA VISTA/NOVA CINTRA"
+    },
+    "05": {
+      "id": "6301",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "06": {
+      "id": "6303",
+      "description": "PATROCINIO CARNAVAL"
+    },
+    "07": {
+      "id": "7803",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    },
+    "08": {
+      "id": "3395",
+      "description": "ATENDIMENTO PATROCINIO - DESVI"
+    }
+  },
+  "9206": {
+    "01": {
+      "id": "643",
+      "description": "VERA CRUZ/BURITIS VIA AV. RAJA"
+    },
+    "02": {
+      "id": "644",
+      "description": "VERA CRUZ/BURITIS"
+    },
+    "03": {
+      "id": "1038",
+      "description": "VERA CRUZ/BURITIS"
+    },
+    "04": {
+      "id": "3396",
+      "description": "VERA CRUZ/BURITIS VIA AV. RAJA"
+    },
+    "05": {
+      "id": "4737",
+      "description": "DESVIO FEIRA DA AVENIDA AFONSO"
+    },
+    "06": {
+      "id": "6304",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9207": {
+    "01": {
+      "id": "646",
+      "description": "SANTA INES/NOVA CINTRA"
+    },
+    "02": {
+      "id": "3397",
+      "description": "SANTA INES/NOVA CINTRA"
+    }
+  },
+  "9208": {
+    "01": {
+      "id": "648",
+      "description": "TAQUARIL/CONJUNTO SANTA MARIA"
+    },
+    "02": {
+      "id": "649",
+      "description": "TAQUARIL/CONJ SANTA MARIA-NÃO"
+    },
+    "03": {
+      "id": "1031",
+      "description": "TAQUARIL / CENTRO"
+    },
+    "04": {
+      "id": "2615",
+      "description": "TAQUARIL/CONJ. SANTA MARIA - A"
+    },
+    "05": {
+      "id": "3398",
+      "description": "TAQUARIL/CONJUNTO SANTA MARIA"
+    },
+    "06": {
+      "id": "3400",
+      "description": "TAQUARIL/CONJUNTO SANTA MARIA"
+    },
+    "07": {
+      "id": "6305",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "08": {
+      "id": "6306",
+      "description": "DESVIO R ERCILA CARNAVAL"
+    },
+    "09": {
+      "id": "6307",
+      "description": "VIA PADRE FEIJÓ CARNAVAL"
+    }
+  },
+  "9209": {
+    "01": {
+      "id": "651",
+      "description": "SAGRADA FAMILIA/GUTIERREZ VIA"
+    },
+    "02": {
+      "id": "3315",
+      "description": "SAGRADA FAMILIA/GUTIERREZ"
+    },
+    "03": {
+      "id": "6308",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "04": {
+      "id": "7804",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    }
+  },
+  "9210": {
+    "01": {
+      "id": "653",
+      "description": "SANTA TEREZA/PRADO VIA BARRO P"
+    },
+    "02": {
+      "id": "3401",
+      "description": "SANTA TEREZA/PRADO"
+    },
+    "03": {
+      "id": "6309",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "04": {
+      "id": "7818",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    }
+  },
+  "9211": {
+    "01": {
+      "id": "655",
+      "description": "CAETANO FURQUIM/HAVAI"
+    },
+    "02": {
+      "id": "3403",
+      "description": "CAERTANO FURQUIM/HAVAI"
+    },
+    "03": {
+      "id": "6310",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "04": {
+      "id": "7819",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    },
+    "06": {
+      "id": "9258",
+      "description": "ATENDIMENTO CENTRO DE SAÚDE HA"
+    },
+    "07": {
+      "id": "9364",
+      "description": "CENTRO DE SAUDE HAVAI-CARNAVAL"
+    }
+  },
+  "9214": {
+    "01": {
+      "id": "888",
+      "description": "CAETANO FURQUIM/ HAVAI - VIA A"
+    },
+    "02": {
+      "id": "3405",
+      "description": "CAETANO FURQUIM/HAVAI - VIA AL"
+    },
+    "03": {
+      "id": "3541",
+      "description": "HAVAÍ VIA ALTO HAVAÍ / CENTRO"
+    },
+    "04": {
+      "id": "6311",
+      "description": "HAVAI/CENTRO CARNAVAL"
+    },
+    "05": {
+      "id": "6401",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9250": {
+    "02": {
+      "id": "660",
+      "description": "CAETANO FURQUIM/NOVA CINTRA"
+    },
+    "03": {
+      "id": "1010",
+      "description": "CAETANO FURQUIM/NOVA CINTRA VI"
+    },
+    "04": {
+      "id": "3007",
+      "description": "CAETANO FURQUIM/NOVA CINTRA RE"
+    },
+    "05": {
+      "id": "6463",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "06": {
+      "id": "6518",
+      "description": "PARTIDAS DA AV. SANTA ALBERTIN"
+    }
+  },
+  "9402": {
+    "01": {
+      "id": "753",
+      "description": "SANTA INES/SANTO ANDRE"
+    },
+    "02": {
+      "id": "1213",
+      "description": "SANTA INES/SANTO ANDRE"
+    },
+    "03": {
+      "id": "6313",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9403": {
+    "01": {
+      "id": "664",
+      "description": "PARAISO/CAICARA"
+    },
+    "02": {
+      "id": "665",
+      "description": "PARAISO/CAICARA"
+    },
+    "03": {
+      "id": "1065",
+      "description": "PARAISO/CAICARA"
+    },
+    "04": {
+      "id": "3406",
+      "description": "PARAISO/CAIÇARA"
+    },
+    "05": {
+      "id": "3408",
+      "description": "PARAISO/CAIÇARA ATEND. R. AURE"
+    },
+    "07": {
+      "id": "6314",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9404": {
+    "01": {
+      "id": "667",
+      "description": "SAO LUCAS/NOVA ESPERANCA"
+    },
+    "02": {
+      "id": "3335",
+      "description": "SAO LUCAS/NOVA ESPERANÇA"
+    },
+    "03": {
+      "id": "6315",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9405": {
+    "01": {
+      "id": "669",
+      "description": "INSTITUTO AGRONOMICO/MONSENHOR"
+    },
+    "02": {
+      "id": "1295",
+      "description": "INSTITUTO AGRONOMICO/MONSENHOR"
+    },
+    "03": {
+      "id": "3409",
+      "description": "INSTITUTO AGRONOMICO/MONSENHOR"
+    },
+    "04": {
+      "id": "3734",
+      "description": "DESVIO DA RUA FRANCISCO BICALH"
+    },
+    "05": {
+      "id": "6316",
+      "description": "DESVIO R.F.BICALHO- CARNAVAL"
+    },
+    "06": {
+      "id": "6440",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9407": {
+    "01": {
+      "id": "671",
+      "description": "ALTO VERA CRUZ/DOM BOSCO"
+    },
+    "02": {
+      "id": "672",
+      "description": "ALTO VERA CRUZ/DOM BOSCO"
+    },
+    "03": {
+      "id": "1077",
+      "description": "ALTO VERA CRUZ/DOM BOSCO"
+    },
+    "04": {
+      "id": "1078",
+      "description": "ALTO VERA CRUZ/DOM BOSCO"
+    },
+    "05": {
+      "id": "3412",
+      "description": "ALTO VERA CRUZ/DOM BOSCO"
+    },
+    "06": {
+      "id": "3413",
+      "description": "ALTO VERA CRUZ/DOM BOSCO ATEND"
+    },
+    "07": {
+      "id": "6318",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "08": {
+      "id": "6464",
+      "description": "VIA OSMARIO SOARES - CARNAVAL"
+    }
+  },
+  "9408": {
+    "01": {
+      "id": "674",
+      "description": "SANTA EFIGENIA/PADRE EUSTAQUIO"
+    },
+    "02": {
+      "id": "675",
+      "description": "SANTA EFIGENIA/PADRE EUSTAQUIO"
+    },
+    "03": {
+      "id": "3414",
+      "description": "SANTA EFIGENIA/PADRE EUSTAQUIO"
+    },
+    "04": {
+      "id": "6319",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9410": {
+    "01": {
+      "id": "677",
+      "description": "SAGRADA FAMILIA/CORACAO EUCARI"
+    },
+    "02": {
+      "id": "864",
+      "description": "SAGRADA FAMILIA/CORACAO EUCARI"
+    },
+    "03": {
+      "id": "3417",
+      "description": "SAGRADA FAMILIA/CORAÇÃO EUCARI"
+    },
+    "04": {
+      "id": "6321",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "05": {
+      "id": "7820",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    }
+  },
+  "9411": {
+    "01": {
+      "id": "679",
+      "description": "CASA BRANCA/SAO JOSE"
+    },
+    "02": {
+      "id": "3378",
+      "description": "CASA BRANCA/SAO JOSE"
+    },
+    "03": {
+      "id": "6098",
+      "description": "PARTIDA E.E. WALT DISNEY"
+    },
+    "04": {
+      "id": "6322",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "05": {
+      "id": "6465",
+      "description": "E.E. WALT DISNEY - CARNAVAL"
+    }
+  },
+  "9412": {
+    "01": {
+      "id": "681",
+      "description": "CONJ.TAQUARIL/PADRE EUSTAQUIO"
+    },
+    "02": {
+      "id": "682",
+      "description": "CONJ.TAQUARIL/PADRE EUSTAQUIO"
+    },
+    "04": {
+      "id": "1006",
+      "description": "CONJ.TAQUARIL/PADRE EUSTAQUIO"
+    },
+    "05": {
+      "id": "1008",
+      "description": "CONJ.TAQUARIL/PADRE EUSTAQUIO"
+    },
+    "06": {
+      "id": "1009",
+      "description": "CONJ.TAQUARIL/PADRE EUSTAQUIO"
+    },
+    "07": {
+      "id": "1007",
+      "description": "CONJ.TAQUARIL/PADRE EUSTAQUIO"
+    },
+    "08": {
+      "id": "1012",
+      "description": "CONJ.TAQUARIL/PADRE EUSTAQUIO"
+    },
+    "10": {
+      "id": "1013",
+      "description": "CONJ. TAQUARIL/PADRE EUSTAQUIO"
+    },
+    "11": {
+      "id": "1041",
+      "description": "CONJ.TAQUARIL/PADRE EUSTAQUIO"
+    },
+    "12": {
+      "id": "1042",
+      "description": "DESVIO FEIRA AV. AFONSO PENA"
+    },
+    "13": {
+      "id": "2834",
+      "description": "NOTURNO"
+    },
+    "14": {
+      "id": "2835",
+      "description": "NOTURNO E DESVIO FEIRA AV. AFO"
+    },
+    "15": {
+      "id": "3380",
+      "description": "CONJ.TAQUARIL/PADRE EUSTAQUIO"
+    },
+    "16": {
+      "id": "3594",
+      "description": "DESVIO FEIRA DA AV AFONSO PENA"
+    },
+    "17": {
+      "id": "3595",
+      "description": "ATENDIMENTO NOTURNO"
+    },
+    "18": {
+      "id": "6323",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "19": {
+      "id": "6324",
+      "description": "NOTURNO CARNAVAL"
+    }
+  },
+  "9414": {
+    "01": {
+      "id": "684",
+      "description": "SANTA INÊS / JOAO PINHEIRO"
+    },
+    "02": {
+      "id": "3383",
+      "description": "SANTA INÊS  / JOAO PINHEIRO"
+    },
+    "03": {
+      "id": "3720",
+      "description": "SANTA INÊS / JOÃO PINHEIRO - A"
+    },
+    "04": {
+      "id": "5317",
+      "description": "STA.INÊS/ J.PINHEIRO-ATEND. RU"
+    },
+    "05": {
+      "id": "6325",
+      "description": "VIA CALIFORNIA CARNAVAL"
+    },
+    "06": {
+      "id": "6392",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "07": {
+      "id": "7821",
+      "description": "ATENDIMENTO CALIFORNIA - DESVI"
+    },
+    "08": {
+      "id": "8899",
+      "description": "ATENDIMENTO MARILAC_CARNAVAL"
+    }
+  },
+  "9415": {
+    "01": {
+      "id": "6740",
+      "description": "NOSSA SENHORA DE FÁTIMA/BONFIM"
+    },
+    "02": {
+      "id": "7218",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9501": {
+    "01": {
+      "id": "686",
+      "description": "SAO LUCAS/JARAGUA"
+    },
+    "02": {
+      "id": "687",
+      "description": "SAO LUCAS/JARAGUA"
+    },
+    "03": {
+      "id": "688",
+      "description": "SAO LUCAS/JARAGUA"
+    },
+    "05": {
+      "id": "689",
+      "description": "SAO LUCAS/JARAGUA"
+    },
+    "07": {
+      "id": "1248",
+      "description": "SAO LUCAS/JARAGUA"
+    },
+    "08": {
+      "id": "6326",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "09": {
+      "id": "6390",
+      "description": "NOVO SÃO LUCAS - CARNAVAL"
+    }
+  },
+  "9502": {
+    "01": {
+      "id": "691",
+      "description": "SAO GERALDO/SAO FRANCISCO VIA"
+    },
+    "02": {
+      "id": "692",
+      "description": "SAO GERALDO/SAO FRANCISCO VIA"
+    },
+    "03": {
+      "id": "693",
+      "description": "SAO GERALDO/SAO FRANCISCO VIA"
+    },
+    "04": {
+      "id": "954",
+      "description": "ZOOLOGICO VIA MUSEU DE ARTE"
+    },
+    "05": {
+      "id": "3074",
+      "description": "SÃO GERALDO / SÃO FANCISCO -AT"
+    },
+    "06": {
+      "id": "6327",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "07": {
+      "id": "6388",
+      "description": "ZOOLÓGICO: CARNAVAL"
+    },
+    "08": {
+      "id": "7822",
+      "description": "DESVIO FEIRA AV.AFONSO PENA"
+    }
+  },
+  "9503": {
+    "01": {
+      "id": "695",
+      "description": "TAQUARIL/JARAGUA"
+    },
+    "02": {
+      "id": "696",
+      "description": "TAQUARIL/JARAGUA"
+    },
+    "03": {
+      "id": "1023",
+      "description": "TAQUARIL/JARAGUA"
+    },
+    "04": {
+      "id": "2874",
+      "description": "TAQUARIL / CENTRO- RETORNO RUA"
+    },
+    "05": {
+      "id": "6329",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9550": {
+    "01": {
+      "id": "698",
+      "description": "CASA BRANCA/SAO FRANCISCO VIA"
+    },
+    "02": {
+      "id": "826",
+      "description": "CASA BRANCA/SAO FRANCISCO VIA"
+    },
+    "03": {
+      "id": "6099",
+      "description": "PARTIDA E.E. WALT DISNEY"
+    }
+  },
+  "9801": {
+    "01": {
+      "id": "700",
+      "description": "SAUDADE/SANTA CRUZ"
+    },
+    "02": {
+      "id": "701",
+      "description": "SAUDADE/SANTA CRUZ"
+    },
+    "03": {
+      "id": "6330",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9803": {
+    "01": {
+      "id": "703",
+      "description": "TAQUARIL/PALMARES"
+    },
+    "02": {
+      "id": "955",
+      "description": "TAQUARIL / PALMARES"
+    },
+    "03": {
+      "id": "1482",
+      "description": "TAQUARIL / CENTRO - RETORNO VI"
+    },
+    "04": {
+      "id": "6331",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "9805": {
+    "01": {
+      "id": "959",
+      "description": "SANTA EFIGÊNIA / RENASCENÇA"
+    },
+    "02": {
+      "id": "960",
+      "description": "SANTA EFIGÊNIA / RENASCENÇA -"
+    },
+    "03": {
+      "id": "3399",
+      "description": "SANTA EFIGÊNIA / RENASCENÇA"
+    },
+    "04": {
+      "id": "6332",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "PR01": {
+    "01": {
+      "id": "5358",
+      "description": "ESTAÇÃO DE TRANSF. TAMOIOS"
+    }
+  },
+  "PR02": {
+    "01": {
+      "id": "5360",
+      "description": "ESTAÇÃO DE TRANSF. CARIJÓS"
+    }
+  },
+  "SD01": {
+    "01": {
+      "id": "5362",
+      "description": "ESTAÇÃO DE TRANSF. SÃO PAULO"
+    }
+  },
+  "SD02": {
+    "01": {
+      "id": "5364",
+      "description": "ESTAÇÃO DE TRANSF. RIO DE JANE"
+    }
+  },
+  "5001": {
+    "01": {
+      "id": "1196",
+      "description": "LINHA UEL - ESTAÇAO ELDORADO"
+    },
+    "02": {
+      "id": "1233",
+      "description": "LINHA UCL"
+    }
+  },
+  "5002": {
+    "01": {
+      "id": "1254",
+      "description": "LINHA UCI - ESTAÇÃO CIDADE IND"
+    }
+  },
+  "5003": {
+    "01": {
+      "id": "1256",
+      "description": "LINHA UVO - ESTAÇÃO VILA OESTE"
+    }
+  },
+  "5004": {
+    "01": {
+      "id": "1258",
+      "description": "LINHA UGM - ESTAÇÃO GAMELEIRA"
+    }
+  },
+  "5005": {
+    "01": {
+      "id": "1260",
+      "description": "LINHA UCL - ESTAÇÃO CALAFATE"
+    }
+  },
+  "5006": {
+    "01": {
+      "id": "1252",
+      "description": "LINHA UCP - ESTAÇÃO CARLOS PRA"
+    }
+  },
+  "5007": {
+    "01": {
+      "id": "1263",
+      "description": "LINHA ULG - ESTAÇÃO LAGOINHA"
+    }
+  },
+  "5008": {
+    "01": {
+      "id": "1266",
+      "description": "LINHA UCT - ESTAÇÃO CENTRAL"
+    }
+  },
+  "5009": {
+    "01": {
+      "id": "1269",
+      "description": "LINHA USE - ESTAÇÃO SANTA EFIG"
+    }
+  },
+  "5010": {
+    "01": {
+      "id": "1272",
+      "description": "LINHA UST - ESTAÇÃO SANTA TERE"
+    }
+  },
+  "5011": {
+    "01": {
+      "id": "1274",
+      "description": "LINHA UHF - ESTAÇÃO HORTO FLOR"
+    }
+  },
+  "5012": {
+    "01": {
+      "id": "1277",
+      "description": "LINHA USI - ESTAÇÃO SANTA INÊS"
+    }
+  },
+  "5013": {
+    "01": {
+      "id": "1279",
+      "description": "LINHA UJC - ESTAÇÃO JOSÉ CÂNDI"
+    }
+  },
+  "5014": {
+    "01": {
+      "id": "1281",
+      "description": "LINHA UMS - ESTAÇÃO MINAS SHOP"
+    }
+  },
+  "5015": {
+    "01": {
+      "id": "1283",
+      "description": "LINHA USG -EST. SÃO GABRIEL AC"
+    },
+    "02": {
+      "id": "1296",
+      "description": "LINHA USG -EST. SÃO GABRIEL LI"
+    },
+    "03": {
+      "id": "1297",
+      "description": "LINHA USG- EST. SÃO GABRIEL NI"
+    },
+    "04": {
+      "id": "1298",
+      "description": "LINHA USG- EST. SÃO GABRIEL  E"
+    }
+  },
+  "5016": {
+    "01": {
+      "id": "1285",
+      "description": "LINHA UPM - ESTAÇÃO PRIMEIRO D"
+    }
+  },
+  "5017": {
+    "01": {
+      "id": "1287",
+      "description": "LINHA UWL - ESTAÇÃO WALDOMIRO"
+    }
+  },
+  "5018": {
+    "01": {
+      "id": "1289",
+      "description": "LINHA UFL - ESTAÇÃO FLORAMAR"
+    }
+  },
+  "5019": {
+    "01": {
+      "id": "1292",
+      "description": "LINHA UVL - ESTAÇÃO VILARINHO"
+    }
+  },
+  "AC01": {
+    "01": {
+      "id": "5661",
+      "description": "ESTAÇÃO TRANSF. CANDELÁRIA"
+    }
+  },
+  "AC02": {
+    "01": {
+      "id": "5663",
+      "description": "ESTAÇÃO TRANSF. MINAS CAIXA"
+    }
+  },
+  "AC03": {
+    "01": {
+      "id": "5665",
+      "description": "ESTAÇÃO TRANSF. QUADRAS DO VIL"
+    }
+  },
+  "AC04": {
+    "01": {
+      "id": "5667",
+      "description": "ESTAÇÃO TRANSF. UPA VENDA NOVA"
+    }
+  },
+  "AC05": {
+    "01": {
+      "id": "5718",
+      "description": "ESTAÇÃO TRANSF. CRISTIANO GUIM"
+    }
+  },
+  "AC06": {
+    "01": {
+      "id": "5720",
+      "description": "ESTAÇÃO TRANSF. PLANALTO"
+    }
+  },
+  "AC07": {
+    "01": {
+      "id": "5722",
+      "description": "ESTAÇÃO TRANSF. SÃO JOÃO BATIS"
+    }
+  },
+  "AC08": {
+    "01": {
+      "id": "5724",
+      "description": "ESTAÇÃO TRANSF. LAGOA DO NADO"
+    }
+  },
+  "AC09": {
+    "01": {
+      "id": "5726",
+      "description": "ESTAÇÃO TRANSF. MONTESE"
+    }
+  },
+  "AC10": {
+    "01": {
+      "id": "5728",
+      "description": "ESTAÇÃO TRANSF. MONTE CASTELO"
+    }
+  },
+  "AC12": {
+    "01": {
+      "id": "5519",
+      "description": "ESTAÇÃO TRANSF. SANTA ROSA"
+    }
+  },
+  "AC13": {
+    "01": {
+      "id": "5521",
+      "description": "ESTAÇÃO TRANSF. MINEIRÃO"
+    }
+  },
+  "AC14": {
+    "01": {
+      "id": "5523",
+      "description": "ESTAÇÃO TRANSF. UFMG"
+    }
+  },
+  "AC15": {
+    "01": {
+      "id": "5526",
+      "description": "ESTAÇÃO TRANSF. LIBERDADE"
+    }
+  },
+  "AC16": {
+    "01": {
+      "id": "5528",
+      "description": "ESTAÇÃO TRANSF. COLÉGIO MILITA"
+    }
+  },
+  "AC17": {
+    "01": {
+      "id": "5530",
+      "description": "ESTAÇÃO TRANSF. SÃO FRANCISCO"
+    }
+  },
+  "AC18": {
+    "01": {
+      "id": "5513",
+      "description": "ESTAÇÃO TRANSF. CACHOEIRINHA"
+    }
+  },
+  "AC19": {
+    "01": {
+      "id": "5511",
+      "description": "ESTAÇÃO TRANSF. AMÉRICO VESPÚC"
+    }
+  },
+  "AC20": {
+    "01": {
+      "id": "5509",
+      "description": "ESTAÇÃO TRANSF. APARECIDA"
+    }
+  },
+  "AC21": {
+    "01": {
+      "id": "5507",
+      "description": "ESTAÇÃO TRANSF. OPERÁRIOS"
+    }
+  },
+  "AC22": {
+    "01": {
+      "id": "5505",
+      "description": "ESTAÇÃO TRANSF. HOSPITAL BELO"
+    }
+  },
+  "AC23": {
+    "01": {
+      "id": "5503",
+      "description": "ESTAÇÃO TRANSF. IAPI"
+    }
+  },
+  "AC24": {
+    "01": {
+      "id": "5501",
+      "description": "ESTAÇÃO TRANSF. HOSPITAL ODILO"
+    }
+  },
+  "AC25": {
+    "01": {
+      "id": "5499",
+      "description": "ESTAÇÃO TRANSF. SENAI"
+    }
+  },
+  "AC26": {
+    "01": {
+      "id": "5497",
+      "description": "ESTAÇÃO TRANSF. LAGOINHA"
+    }
+  },
+  "CM02": {
+    "01": {
+      "id": "5328",
+      "description": "ESTAÇÃO DE TRANSF. MINAS SHOPP"
+    }
+  },
+  "CM03": {
+    "01": {
+      "id": "5330",
+      "description": "ESTAÇÃO DE TRANSF. OURO MINAS"
+    }
+  },
+  "CM04": {
+    "01": {
+      "id": "5326",
+      "description": "ESTAÇÃO DE TRANSF. UNIÃO"
+    }
+  },
+  "CM05": {
+    "01": {
+      "id": "5332",
+      "description": "ESTAÇÃO DE TRANSF. IPIRANGA"
+    }
+  },
+  "CM06": {
+    "01": {
+      "id": "5334",
+      "description": "ESTAÇÃO DE TRANSF. CIDADE NOVA"
+    }
+  },
+  "CM07": {
+    "01": {
+      "id": "5336",
+      "description": "ESTAÇÃO DE TRANSF. FEIRA DOS P"
+    }
+  },
+  "CM08": {
+    "01": {
+      "id": "5338",
+      "description": "ESTAÇÃO DE TRANSF. SÃO JUDAS T"
+    }
+  },
+  "CM09": {
+    "01": {
+      "id": "5340",
+      "description": "ESTAÇÃO DE TRANSF. SAGRADA FAM"
+    }
+  },
+  "CM10": {
+    "01": {
+      "id": "5342",
+      "description": "ESTAÇÃO DE TRANSF. SILVIANO BR"
+    }
+  },
+  "6000": {
+    "01": {
+      "id": "5515",
+      "description": "ACESSO ESTAÇÃO PAMPULHA"
+    }
+  },
+  "3000": {
+    "01": {
+      "id": "867",
+      "description": "ACESSO ESTAÇÃO SAO GABRIEL"
+    },
+    "02": {
+      "id": "5400",
+      "description": "ACESSO ESTAÇÃO SÃO GABRIEL"
+    }
+  },
+  "1001": {
+    "01": {
+      "id": "1200",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO DIAM"
+    },
+    "02": {
+      "id": "1220",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO DIAM"
+    },
+    "03": {
+      "id": "1221",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO DIAM"
+    },
+    "04": {
+      "id": "1222",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO DIAM"
+    },
+    "05": {
+      "id": "1223",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO DIAM"
+    },
+    "06": {
+      "id": "1237",
+      "description": "LINHA BLOQUEIO ESTAÇÃO DIAMANT"
+    },
+    "08": {
+      "id": "3515",
+      "description": "LINHA BLOQUEIO DIAMANTE DOMING"
+    },
+    "09": {
+      "id": "3514",
+      "description": "LINHA BLOQUEIO DIAMANTE DOMING"
+    },
+    "10": {
+      "id": "3516",
+      "description": "LINHA BLOQUEIO DIAMANTE DOMING"
+    }
+  },
+  "1002": {
+    "01": {
+      "id": "4642",
+      "description": "LINHA BLOQUEIO ESTAÇÃO DIAMANT"
+    }
+  },
+  "4001": {
+    "01": {
+      "id": "1202",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO BARR"
+    },
+    "02": {
+      "id": "1216",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO BARR"
+    },
+    "03": {
+      "id": "1217",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO BARR"
+    },
+    "04": {
+      "id": "1218",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO BARR"
+    },
+    "05": {
+      "id": "1219",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO BARR"
+    },
+    "06": {
+      "id": "1239",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO BARR"
+    },
+    "07": {
+      "id": "3494",
+      "description": "LINHA DE BLOQUEIO BARREIRO DOM"
+    },
+    "08": {
+      "id": "3495",
+      "description": "LINHA DE BLOQUEIO BARREIRO DOM"
+    },
+    "09": {
+      "id": "3496",
+      "description": "LINHA BLOQUIO BARREIRO DOMINGO"
+    },
+    "10": {
+      "id": "3497",
+      "description": "LINHA BLOQUIEO BARREIRO DOMING"
+    }
+  },
+  "4004": {
+    "01": {
+      "id": "4639",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO BARR"
+    }
+  },
+  "6001": {
+    "01": {
+      "id": "5517",
+      "description": "LINHAS BLOQUEIO ESTAÇÃO PAMPUL"
+    }
+  },
+  "3001": {
+    "01": {
+      "id": "5419",
+      "description": "LINHA BLOQUEIO SÃO GABRIEL"
+    }
+  },
+  "3002": {
+    "01": {
+      "id": "5418",
+      "description": "LINHA BLOQUEIO MOVE SÃO GABRIE"
+    }
+  },
+  "2001": {
+    "01": {
+      "id": "1913",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO VEND"
+    },
+    "02": {
+      "id": "1914",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO VEND"
+    },
+    "03": {
+      "id": "1915",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO VEND"
+    },
+    "04": {
+      "id": "1916",
+      "description": "LINHA DE BLOQUEIO ESTAÇÃO VEND"
+    },
+    "09": {
+      "id": "3498",
+      "description": "LINHA BLOQUEIO VENDA NOVA DOMI"
+    },
+    "10": {
+      "id": "3499",
+      "description": "LINHA BLOQUEIO VENDA NOVA DOMI"
+    }
+  },
+  "7001": {
+    "01": {
+      "id": "5673",
+      "description": "LINHAS BLOQUEIO ESTAÇÃO VILARI"
+    }
+  },
+  "E002": {
+    "01": {
+      "id": "1088",
+      "description": "SERVIÇO ESPECIAL BETANIA"
+    }
+  },
+  "E006": {
+    "01": {
+      "id": "1091",
+      "description": "SERVIÇO ESPECIAL COLETIVOS SÃO"
+    }
+  },
+  "E008": {
+    "01": {
+      "id": "1094",
+      "description": "SERVIÇO ESPECIAL COLETIVOS VEN"
+    }
+  },
+  "E018": {
+    "01": {
+      "id": "1096",
+      "description": "SERVIÇO ESPECIAL EXPRESSO RADA"
+    }
+  },
+  "E024": {
+    "01": {
+      "id": "1098",
+      "description": "SERVIÇO ESPECIAL SÃO BERNARDO"
+    }
+  },
+  "E026": {
+    "01": {
+      "id": "1100",
+      "description": "SERVIÇO ESPECIAL TRANSIMÃO"
+    }
+  },
+  "E027": {
+    "01": {
+      "id": "1102",
+      "description": "SERVIÇO ESPECIAL TRANSLUCIANA"
+    }
+  },
+  "E034": {
+    "01": {
+      "id": "1104",
+      "description": "SERVIÇO ESPECIAL URCA AUTO ÔNI"
+    }
+  },
+  "E037": {
+    "01": {
+      "id": "1106",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO ANCHIE"
+    }
+  },
+  "E038": {
+    "01": {
+      "id": "1109",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO AVENID"
+    }
+  },
+  "E043": {
+    "01": {
+      "id": "1111",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO CARNEI"
+    }
+  },
+  "E046": {
+    "01": {
+      "id": "1114",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO CRUZEI"
+    }
+  },
+  "E048": {
+    "01": {
+      "id": "1119",
+      "description": "SERVIÇO ESPECIAL TCL"
+    }
+  },
+  "E049": {
+    "01": {
+      "id": "1121",
+      "description": "SERVIÇO ESPECIAL GEMATUR"
+    }
+  },
+  "E050": {
+    "01": {
+      "id": "1123",
+      "description": "SERVIÇO ESPECIAL GETÚLIO VARGA"
+    }
+  },
+  "E051": {
+    "01": {
+      "id": "1126",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO GLOBO"
+    }
+  },
+  "E052": {
+    "01": {
+      "id": "1128",
+      "description": "SERVIÇO ESPECIAL PAMPULHA TRAN"
+    }
+  },
+  "E053": {
+    "01": {
+      "id": "1130",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO LUX"
+    }
+  },
+  "E055": {
+    "01": {
+      "id": "1132",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO METROP"
+    }
+  },
+  "E060": {
+    "01": {
+      "id": "1082",
+      "description": "SERVIÇO ESPECIAL NOVA SUIÇA"
+    }
+  },
+  "E061": {
+    "01": {
+      "id": "1134",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO PARAEN"
+    }
+  },
+  "E063": {
+    "01": {
+      "id": "1136",
+      "description": "SERVIÇO ESPECIAL SAGRADA FAMÍL"
+    }
+  },
+  "E065": {
+    "01": {
+      "id": "1138",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO PROGRE"
+    }
+  },
+  "E066": {
+    "01": {
+      "id": "1140",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO REAL"
+    }
+  },
+  "E068": {
+    "01": {
+      "id": "1142",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO SANDRA"
+    }
+  },
+  "E069": {
+    "01": {
+      "id": "1144",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO SANTA"
+    }
+  },
+  "E072": {
+    "01": {
+      "id": "1146",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO SANTA"
+    }
+  },
+  "E073": {
+    "01": {
+      "id": "1149",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO SÃO GE"
+    }
+  },
+  "E074": {
+    "01": {
+      "id": "1151",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO SÃO PE"
+    }
+  },
+  "E076": {
+    "01": {
+      "id": "1084",
+      "description": "SERVIÇO ESPECIAL SERRA VERDE"
+    }
+  },
+  "E078": {
+    "01": {
+      "id": "1153",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO TORRES"
+    }
+  },
+  "E079": {
+    "01": {
+      "id": "1155",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO EUCLÁS"
+    }
+  },
+  "E081": {
+    "01": {
+      "id": "1157",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO VERA C"
+    }
+  },
+  "E082": {
+    "01": {
+      "id": "1159",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO ZURICK"
+    }
+  },
+  "E085": {
+    "01": {
+      "id": "1161",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO VIASUL"
+    }
+  },
+  "E087": {
+    "01": {
+      "id": "5016",
+      "description": "SERVIÇO ESPECIAL SUPLEMENTAR"
+    }
+  },
+  "E094": {
+    "01": {
+      "id": "1163",
+      "description": "SERVIÇO ESPECIAL RODAP"
+    }
+  },
+  "E098": {
+    "01": {
+      "id": "1165",
+      "description": "SERVIÇO ESPECIAL COLETUR"
+    }
+  },
+  "E099": {
+    "01": {
+      "id": "1167",
+      "description": "SERVIÇO ESPECIAL TRANSCBEL"
+    }
+  },
+  "E100": {
+    "01": {
+      "id": "1169",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO BOA VI"
+    }
+  },
+  "E101": {
+    "01": {
+      "id": "1171",
+      "description": "SERVIÇO ESPECIAL AUTO VIAÇÃO S"
+    }
+  },
+  "E104": {
+    "01": {
+      "id": "1176",
+      "description": "SERVIÇO ESPECIAL AUTOTRANS"
+    }
+  },
+  "E105": {
+    "01": {
+      "id": "1178",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO PÁSSAR"
+    }
+  },
+  "E106": {
+    "01": {
+      "id": "1180",
+      "description": "SERVIÇO ESPECIAL TRIPUÍ"
+    }
+  },
+  "E107": {
+    "01": {
+      "id": "1182",
+      "description": "SERVIÇO ESPECIAL MILÊNIO"
+    }
+  },
+  "E108": {
+    "01": {
+      "id": "1184",
+      "description": "SERVIÇO ESPECIAL SÃO DIMAS"
+    }
+  },
+  "E109": {
+    "01": {
+      "id": "1186",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO JARDIN"
+    }
+  },
+  "E111": {
+    "01": {
+      "id": "1188",
+      "description": "SERVIÇO ESPECIAL VIA BH COLETI"
+    }
+  },
+  "E114": {
+    "01": {
+      "id": "1174",
+      "description": "SERVIÇO ESPECIAL SÃO CRISTÓVÃO"
+    }
+  },
+  "E117": {
+    "01": {
+      "id": "2676",
+      "description": "SERVIÇO ESPECIAL TURILESSA"
+    }
+  },
+  "E118": {
+    "01": {
+      "id": "2956",
+      "description": "SERVIÇO ESPECIAL S&M TRANSPORT"
+    }
+  },
+  "E130": {
+    "01": {
+      "id": "5937",
+      "description": "SERVIÇO ESPECIAL VIAÇÃO TRANS"
+    }
+  },
+  "SA01": {
+    "01": {
+      "id": "708",
+      "description": "METRO-CENTRAL/PCA.DA LIBERDADE"
+    },
+    "02": {
+      "id": "855",
+      "description": "METRO-CENTRAL/PCA.DA LIBERDADE"
+    },
+    "03": {
+      "id": "865",
+      "description": "METRO-CENTRAL/PCA.DA LIBERDADE"
+    }
+  },
+  "S10": {
+    "01": {
+      "id": "1324",
+      "description": "BH SHOPPING/SÃO FRANCISCO"
+    },
+    "02": {
+      "id": "4434",
+      "description": "BH SHOPPING/SÃO FRANCISCO"
+    },
+    "03": {
+      "id": "7578",
+      "description": "VIA RUA ALCOBAÇA - MANHÃ"
+    },
+    "04": {
+      "id": "7579",
+      "description": "VIA RUA ALCOBAÇA - TARDE"
+    }
+  },
+  "S11": {
+    "01": {
+      "id": "7639",
+      "description": "CRUZEIRO/GUTIERREZ"
+    }
+  },
+  "S19": {
+    "01": {
+      "id": "6599",
+      "description": "HOSPITAL EVANGELICO\\SHOPPING B"
+    }
+  },
+  "S20": {
+    "01": {
+      "id": "1327",
+      "description": "PALMEIRAS/SERRA"
+    },
+    "02": {
+      "id": "1328",
+      "description": "PALMEIRAS/SERRA - ATEND.BH SHO"
+    },
+    "03": {
+      "id": "6178",
+      "description": "PALMEIRAS ATÉ A RUA CARAÇA"
+    }
+  },
+  "S21": {
+    "01": {
+      "id": "1330",
+      "description": "DOM CABRAL/BH SHOPPING"
+    },
+    "02": {
+      "id": "9118",
+      "description": "DESVIO FEIRA AV. SILVA LOBO"
+    }
+  },
+  "S22": {
+    "01": {
+      "id": "1332",
+      "description": "BURITIS/METRÔ CALAFATE"
+    },
+    "02": {
+      "id": "4877",
+      "description": "PARTIDAS DA AVENIDA RAUL MOURÃ"
+    },
+    "03": {
+      "id": "5036",
+      "description": "ESTAÇÃO CALAFATE / AV. DOM JOÃ"
+    }
+  },
+  "S31": {
+    "01": {
+      "id": "1335",
+      "description": "PETRÓPOLIS / BARREIRO"
+    },
+    "02": {
+      "id": "2054",
+      "description": "PETRÓPOLIS - ATENDIMENTO BAIRR"
+    }
+  },
+  "S32": {
+    "01": {
+      "id": "1396",
+      "description": "ITAIPÚ/CARDOSO"
+    },
+    "02": {
+      "id": "1397",
+      "description": "ITAIPÚ/CARDOSO - ATEND. SÁBADO"
+    }
+  },
+  "S33": {
+    "01": {
+      "id": "1340",
+      "description": "LINDÉIA/MILIONÁRIOS"
+    },
+    "02": {
+      "id": "1341",
+      "description": "LINDÉIA/MILIONÁRIOS - PARTIDAS"
+    },
+    "03": {
+      "id": "1342",
+      "description": "LINDÉIA/MILIONÁRIOS- ENCERRA N"
+    }
+  },
+  "S41": {
+    "01": {
+      "id": "1344",
+      "description": "CONJUNTO CALIFÓRNIA/PRADO"
+    },
+    "02": {
+      "id": "1345",
+      "description": "CONJUNTO CALIFÓRNIA/PRADO - AT"
+    }
+  },
+  "S50": {
+    "01": {
+      "id": "1347",
+      "description": "CAIÇARA / NOVA VISTA - VIA UFM"
+    },
+    "02": {
+      "id": "1348",
+      "description": "CAIÇARA / NOVA VISTA - NÃO ATE"
+    },
+    "03": {
+      "id": "8238",
+      "description": "NOVA VISTA / SHOPPING DEL REY"
+    }
+  },
+  "S51": {
+    "01": {
+      "id": "1351",
+      "description": "CIRCULAR PAMPULHA - PRINCIPAL"
+    },
+    "02": {
+      "id": "2754",
+      "description": "CIRCULAR PAMPULHA / PARTIDAS V"
+    },
+    "03": {
+      "id": "5796",
+      "description": "CIRCULAR PAMPULHA VIA SANTA TE"
+    }
+  },
+  "S52": {
+    "01": {
+      "id": "1353",
+      "description": "CIRCULAR PAMPULHA"
+    },
+    "02": {
+      "id": "1354",
+      "description": "CIRCULAR PAMPULHA - PARTIDAS R"
+    }
+  },
+  "S53": {
+    "01": {
+      "id": "1377",
+      "description": "CONFISCO/SÃO GABRIEL"
+    }
+  },
+  "S54": {
+    "01": {
+      "id": "1356",
+      "description": "DOM BOSCO/SHOPPING DEL REY / V"
+    },
+    "02": {
+      "id": "1357",
+      "description": "DOM BOSCO/SHOPPING DEL REY / V"
+    }
+  },
+  "S55": {
+    "01": {
+      "id": "1359",
+      "description": "SANTA MÔNICA/MINAS SHOPPING"
+    }
+  },
+  "S56": {
+    "01": {
+      "id": "7319",
+      "description": "PRINCIPAL"
+    }
+  },
+  "S60": {
+    "01": {
+      "id": "1361",
+      "description": "ETELVINA CARNEIRO/JARDIM LEBLO"
+    },
+    "02": {
+      "id": "1362",
+      "description": " ATENDIMENTO AO BAIRRO LETÍCIA"
+    }
+  },
+  "S61": {
+    "01": {
+      "id": "1364",
+      "description": "MANTIQUEIRA/ESTAÇÃO VILARINHO"
+    },
+    "02": {
+      "id": "5756",
+      "description": "MANTIQUEIRA/EST. VILARINHO-ENC"
+    },
+    "03": {
+      "id": "4395",
+      "description": "DIRETA LANDI / ESTAÇÃO VILARIN"
+    }
+  },
+  "S63": {
+    "01": {
+      "id": "1366",
+      "description": "CAMPO ALEGRE/CEU AZUL VIA RIO"
+    },
+    "02": {
+      "id": "1367",
+      "description": "CIRCULAR VENDA NOVA - ATEND. C"
+    }
+  },
+  "S64": {
+    "01": {
+      "id": "1369",
+      "description": "CAMPO ALEGRE/CEU AZUL VIA VEND"
+    },
+    "02": {
+      "id": "1370",
+      "description": "CIRCULAR VENDA NOVA - ATEND. C"
+    }
+  },
+  "S65": {
+    "01": {
+      "id": "1372",
+      "description": "SÃO BERNARDO/MINASCAIXA"
+    },
+    "02": {
+      "id": "2094",
+      "description": "SÃO BERNARDO/MINASCAIXA - VIA"
+    }
+  },
+  "S66": {
+    "01": {
+      "id": "1374",
+      "description": "TUPI/EUROPA"
+    },
+    "02": {
+      "id": "4936",
+      "description": "TUPI\\EUROPA"
+    }
+  },
+  "S70": {
+    "01": {
+      "id": "1379",
+      "description": "CONJ. FELICIDADE/SHOPPING DEL"
+    },
+    "02": {
+      "id": "4937",
+      "description": "CONJ. FELICIDADE\\SHOPPING DEL"
+    }
+  },
+  "S80": {
+    "01": {
+      "id": "1337",
+      "description": "PRINCIPAL"
+    },
+    "02": {
+      "id": "1338",
+      "description": "JARDIM VITÓRIA/CIDADE INDUSTRI"
+    },
+    "03": {
+      "id": "1662",
+      "description": "JARDIM VITÓRIA/CIDADE INDUSTRI"
+    }
+  },
+  "S81": {
+    "01": {
+      "id": "1381",
+      "description": "CIRCULAR NORDESTE"
+    }
+  },
+  "S82": {
+    "01": {
+      "id": "1383",
+      "description": "CIRCULAR NORDESTE"
+    },
+    "02": {
+      "id": "3794",
+      "description": "CIRCULAR NORDESTE - ATEND. RUA"
+    }
+  },
+  "S83": {
+    "01": {
+      "id": "1386",
+      "description": "DOM JOAQUIM/VISTA DO SOL"
+    },
+    "02": {
+      "id": "1387",
+      "description": "DOM JOAQUIM/VISTA DO SOL - PAR"
+    },
+    "03": {
+      "id": "1388",
+      "description": "DOM JOAQUIM/VISTA DO SOL - TÉR"
+    },
+    "04": {
+      "id": "1389",
+      "description": "DOM JOAQUIM/VISTA DO SOL - ATE"
+    }
+  },
+  "S84": {
+    "01": {
+      "id": "9439",
+      "description": "PRINCIPAL"
+    }
+  },
+  "S85": {
+    "01": {
+      "id": "1391",
+      "description": "MINAS SHOPPING/SANTA INÊS"
+    }
+  },
+  "S90": {
+    "01": {
+      "id": "1393",
+      "description": "BALEIA/SAGRADA FAMÍLIA"
+    }
+  },
+  "S92": {
+    "01": {
+      "id": "7339",
+      "description": "PRINCIPAL"
+    }
+  },
+  "1000": {
+    "01": {
+      "id": "784",
+      "description": "ESTAÇÃO DIAMANTE"
+    }
+  },
+  "1010": {
+    "01": {
+      "id": "989",
+      "description": "LINHA CARGA A BORDO 01"
+    }
+  },
+  "1020": {
+    "01": {
+      "id": "1192",
+      "description": "LINHA CARGA A BORDO 2"
+    }
+  },
+  "2002": {
+    "01": {
+      "id": "3195",
+      "description": "TOTEM ÁREA PAGA ESTAÇÃO VENDA"
+    },
+    "02": {
+      "id": "3196",
+      "description": "TOTEM ÁREA PAGA RESTAURANTE PO"
+    }
+  },
+  "2020": {
+    "01": {
+      "id": "7539",
+      "description": "FOLIÔNIBUS - CONTORNO"
+    },
+    "02": {
+      "id": "7540",
+      "description": "FOLIÔNIBUS - CONTORNO/FLORESTA"
+    },
+    "03": {
+      "id": "7541",
+      "description": "FOLIÔNIBUS - PAMPULHA"
+    }
+  },
+  "320": {
+    "01": {
+      "id": "283",
+      "description": "ESCOLA ESTADUAL AMARO NEVES"
+    },
+    "02": {
+      "id": "3134",
+      "description": "SEGUNDA VIAGEM"
+    },
+    "03": {
+      "id": "3135",
+      "description": "TERCEIRA VIAGEM"
+    },
+    "04": {
+      "id": "3136",
+      "description": "QUARTA VIAGEM"
+    },
+    "05": {
+      "id": "3137",
+      "description": "QUINTA VIAGEM"
+    },
+    "06": {
+      "id": "3138",
+      "description": "SEXTA VIAGEM"
+    }
+  },
+  "4000": {
+    "01": {
+      "id": "951",
+      "description": "EST. BARREIRO STA MARGARIDA"
+    }
+  },
+  "6006": {
+    "01": {
+      "id": "1403",
+      "description": "LINHA TOTEM METRÔ ESTAÇÃO CARL"
+    }
+  },
+  "6007": {
+    "01": {
+      "id": "1405",
+      "description": "LINHA TOTEM METRÔ ESTAÇÃO LAGO"
+    }
+  },
+  "6008": {
+    "01": {
+      "id": "1407",
+      "description": "LINHA TOTEM METRÔ ESTAÇÃO CENT"
+    }
+  },
+  "6009": {
+    "01": {
+      "id": "1409",
+      "description": "LINHA TOTEM METRÔ ESTAÇÃO SANT"
+    }
+  },
+  "9999": {
+    "01": {
+      "id": "3635",
+      "description": "LINHA ESPECIAL USO INTERNO CON"
+    },
+    "02": {
+      "id": "3636",
+      "description": "LINHA ESPECIAL USO INTERNO CON"
+    },
+    "03": {
+      "id": "3637",
+      "description": "LINHA ESPECIAL USO INTERNO CON"
+    },
+    "04": {
+      "id": "3638",
+      "description": "LINHA ESPECIAL USO INTERNO CON"
+    }
+  },
+  "101": {
+    "01": {
+      "id": "6",
+      "description": "AGLOMERADO SANTA LUCIA/SÃO PED"
+    }
+  },
+  "102": {
+    "01": {
+      "id": "8",
+      "description": "N.S.DE FATIMA/HOSP. EVANGELICO"
+    },
+    "02": {
+      "id": "1312",
+      "description": "VIA AV CARDOSO"
+    }
+  },
+  "103": {
+    "01": {
+      "id": "10",
+      "description": "VILA CAFEZAL/RUA POUSO ALTO"
+    }
+  },
+  "107": {
+    "01": {
+      "id": "2118",
+      "description": "VILA MARÇOLA / RUA DO OURO"
+    }
+  },
+  "201": {
+    "01": {
+      "id": "81",
+      "description": "MORRO DAS PEDRAS/HOSPITAL MADR"
+    },
+    "02": {
+      "id": "82",
+      "description": "VIA R. NASCIMENTO GURGEL"
+    },
+    "03": {
+      "id": "2154",
+      "description": "VIA VILA MONTE SÃO JOSÉ"
+    }
+  },
+  "202": {
+    "01": {
+      "id": "84",
+      "description": "ESTACAO VILA OESTE/VISTA ALEGR"
+    },
+    "02": {
+      "id": "3721",
+      "description": "VIA MADRE GERTRUDES"
+    }
+  },
+  "203": {
+    "01": {
+      "id": "86",
+      "description": "MORRO DAS PEDRAS/VENTOSA"
+    }
+  },
+  "204": {
+    "01": {
+      "id": "88",
+      "description": "EST.VILA OESTE/ NOVA GAMELEIRA"
+    }
+  },
+  "319": {
+    "01": {
+      "id": "280",
+      "description": " CONJ. ESPERANCA/VILA CEMIG"
+    },
+    "02": {
+      "id": "281",
+      "description": "VIA PÇA JOSÉ VERANO"
+    },
+    "03": {
+      "id": "1316",
+      "description": "VIA HOSPITAL JÚLIA KUBITSCHECK"
+    },
+    "04": {
+      "id": "3854",
+      "description": "VIA BONSUCESSO"
+    }
+  },
+  "321": {
+    "01": {
+      "id": "285",
+      "description": "OLHOS D AGUA / PILAR"
+    },
+    "02": {
+      "id": "286",
+      "description": "VIA SETOR INDUSTRIAL"
+    }
+  },
+  "336": {
+    "01": {
+      "id": "2186",
+      "description": "HOSP.EDU.MENEZES/VILA BERNADET"
+    },
+    "02": {
+      "id": "3914",
+      "description": "VIA ESC. M. B. TRINDADE- MANHÃ"
+    },
+    "03": {
+      "id": "3915",
+      "description": "VIA ESC. M. B. TRINDADE- TARDE"
+    }
+  },
+  "401": {
+    "01": {
+      "id": "312",
+      "description": "METRO CID.INDUSTRIAL/S.MARIA"
+    },
+    "03": {
+      "id": "313",
+      "description": "VIA VILA DOS ESPORTES"
+    }
+  },
+  "402": {
+    "01": {
+      "id": "315",
+      "description": "METRO CID.INDUST./ CAMARGOS"
+    },
+    "03": {
+      "id": "316",
+      "description": "VIA R. SILEX - MANHÃ"
+    },
+    "04": {
+      "id": "317",
+      "description": "VIA R. SILEX - TARDE"
+    },
+    "05": {
+      "id": "318",
+      "description": "VIA SANTA MARIA"
+    },
+    "06": {
+      "id": "319",
+      "description": "VIA RUA SILEX - SAB. E DOM."
+    }
+  },
+  "740": {
+    "01": {
+      "id": "6760",
+      "description": "TUPI/MIRANTE"
+    },
+    "02": {
+      "id": "8938",
+      "description": "ATENDIMENTO AO CENTRO DE SAUDE"
+    }
+  },
+  "826": {
+    "01": {
+      "id": "6762",
+      "description": "MONTES CLAROS/RUA SÃO RÔMULO"
+    }
+  },
+  "902": {
+    "01": {
+      "id": "7179",
+      "description": "PRINCIPAL"
+    }
+  },
+  "106": {
+    "01": {
+      "id": "1423",
+      "description": "ESTAÇÃO CENTRAL / HOSPITAIS"
+    }
+  },
+  "108": {
+    "01": {
+      "id": "3555",
+      "description": "TERMINAL BERNARDO MONTEIRO/HOS"
+    }
+  },
+  "205": {
+    "01": {
+      "id": "872",
+      "description": "METRO CALAFATE/ BURITIS"
+    },
+    "02": {
+      "id": "1442",
+      "description": "METRÔ CALAFATE/BURITIS - RET."
+    }
+  },
+  "206": {
+    "01": {
+      "id": "2557",
+      "description": "CIRCULAR OESTE"
+    },
+    "02": {
+      "id": "2558",
+      "description": "CIRCULAR OESTE"
+    },
+    "03": {
+      "id": "2559",
+      "description": "CIRCULAR OESTE"
+    },
+    "04": {
+      "id": "2560",
+      "description": "CIRCULAR OESTE"
+    }
+  },
+  "207": {
+    "01": {
+      "id": "5634",
+      "description": "BETÂNIA / ESTAÇÃO VILA OESTE"
+    }
+  },
+  "317": {
+    "01": {
+      "id": "272",
+      "description": "CIRCULAR SAUDE B"
+    },
+    "02": {
+      "id": "273",
+      "description": "CIRCULAR SAUDE B"
+    }
+  },
+  "333": {
+    "01": {
+      "id": "940",
+      "description": "BOM SUCESSO / MILIONARIOS / ES"
+    }
+  },
+  "334": {
+    "01": {
+      "id": "942",
+      "description": "BAIRRO MINEIRÃO / ESTAÇÃO BARR"
+    }
+  },
+  "404": {
+    "01": {
+      "id": "2816",
+      "description": "JARDIM ALVORADA /  AV.DOM PEDR"
+    }
+  },
+  "405": {
+    "01": {
+      "id": "5297",
+      "description": "CALIFÓRNIA/ESTAÇÃO GAMELEIRA"
+    }
+  },
+  "503": {
+    "01": {
+      "id": "380",
+      "description": "EST.S.GABRIEL/APARECIDA/STA RO"
+    },
+    "02": {
+      "id": "6798",
+      "description": "PARTIDAS DA EST.SÃO GABRIEL"
+    }
+  },
+  "504": {
+    "01": {
+      "id": "389",
+      "description": "EST.S.GABRIEL/STA ROSA/APARECI"
+    },
+    "02": {
+      "id": "6799",
+      "description": "PARTIDAS DA EST. SÃO GABRIEL"
+    }
+  },
+  "505": {
+    "01": {
+      "id": "2895",
+      "description": "CIRCULAR LAGOA DA PAMPULHA"
+    },
+    "02": {
+      "id": "2896",
+      "description": "CIRCULAR LAGOA DA PAMPULHA"
+    }
+  },
+  "506": {
+    "01": {
+      "id": "5322",
+      "description": "VIA CASTELO E NOVO OURO PRETO"
+    },
+    "02": {
+      "id": "5323",
+      "description": "VIA OURO PRETO"
+    },
+    "03": {
+      "id": "7018",
+      "description": "VIA CASTELO"
+    },
+    "04": {
+      "id": "7019",
+      "description": "VIA OURO PRETO"
+    }
+  },
+  "507": {
+    "01": {
+      "id": "3700",
+      "description": "OURO PRETO / SHOP. DEL REY"
+    }
+  },
+  "533": {
+    "01": {
+      "id": "3702",
+      "description": "CASTELO/SHOP.DEL REY"
+    }
+  },
+  "535": {
+    "01": {
+      "id": "3704",
+      "description": "XANGRILÁ VIA ITAMARATI / SHOPP"
+    },
+    "02": {
+      "id": "6618",
+      "description": "ATENDIMENTO ASPAC"
+    }
+  },
+  "639": {
+    "01": {
+      "id": "3706",
+      "description": "BRAUNAS / SHOPPING DEL REY"
+    }
+  },
+  "821": {
+    "01": {
+      "id": "1643",
+      "description": "EST. JOSÉ CÂNDIDO / GOIANIA"
+    }
+  },
+  "822": {
+    "01": {
+      "id": "2195",
+      "description": "EST. JOSÉ CÂNDIDO / VILA MARIA"
+    },
+    "02": {
+      "id": "2496",
+      "description": "VIA AV. MAGENTA"
+    },
+    "03": {
+      "id": "3234",
+      "description": "PARTIDAS R.PROF.WLADIMIR GOMES"
+    },
+    "04": {
+      "id": "3715",
+      "description": "ATENDIMENTO A POUSADA SANTO AN"
+    },
+    "05": {
+      "id": "7619",
+      "description": "ATENDIMENTO BAIRRO GOIANIA"
+    },
+    "06": {
+      "id": "7620",
+      "description": "VIA AV. MARGENTA E GOIANIA"
+    }
+  },
+  "901": {
+    "01": {
+      "id": "610",
+      "description": "CIRCULAR LESTE-BALEIA/HOSPITAI"
+    },
+    "02": {
+      "id": "1231",
+      "description": "CIRCULAR LESTE"
+    },
+    "03": {
+      "id": "2359",
+      "description": "NÃO ATEND. PAM SAGRADA  FAMILI"
+    },
+    "04": {
+      "id": "4756",
+      "description": "RETORNO BAIRRO SAGRADA FAMILIA"
+    },
+    "05": {
+      "id": "6430",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "903": {
+    "01": {
+      "id": "7759",
+      "description": "GRANJA DE FREITAS/TAQUARIL VIA"
+    }
+  },
+  "9031R": {
+    "01": {
+      "id": "1942",
+      "description": "NOSSA SENHORA DE FÁTIMA / SANT"
+    }
+  },
+  "912": {
+    "01": {
+      "id": "8840",
+      "description": "CONJUNTO TAQUARIL / PRAÇA CHE"
+    }
+  },
+  "2031": {
+    "01": {
+      "id": "5291",
+      "description": "VISTA ALEGRE/CENTRO"
+    }
+  },
+  "2032": {
+    "01": {
+      "id": "5293",
+      "description": "MADRE GERTRUDES/CENTRO"
+    }
+  },
+  "2033": {
+    "01": {
+      "id": "5628",
+      "description": "BETÂNIA / CENTRO"
+    },
+    "02": {
+      "id": "6269",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "2034": {
+    "01": {
+      "id": "5630",
+      "description": "CONJUNTO BETÂNIA / CENTRO"
+    },
+    "02": {
+      "id": "6244",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "2035": {
+    "01": {
+      "id": "5632",
+      "description": "BAIRRO DAS INDÚSTRIAS / CENTRO"
+    },
+    "02": {
+      "id": "6245",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "3030": {
+    "01": {
+      "id": "5713",
+      "description": "PILAR - OLHOS D AGUA / CENTRO"
+    },
+    "02": {
+      "id": "5714",
+      "description": "DESVIO FEIRA AFONSO PENA"
+    },
+    "03": {
+      "id": "6248",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "04": {
+      "id": "7358",
+      "description": "AT. OLHOS DAGUA NORTE"
+    }
+  },
+  "4036": {
+    "01": {
+      "id": "5295",
+      "description": "CALIFÓRNIA/CENTRO"
+    }
+  },
+  "4037": {
+    "01": {
+      "id": "5716",
+      "description": "GLÓRIA / CENTRO VIA PADRE EUST"
+    },
+    "02": {
+      "id": "6281",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "03": {
+      "id": "6878",
+      "description": "ATENDIMENTO DOMINGO/FERIADOS"
+    }
+  },
+  "SE01": {
+    "01": {
+      "id": "4817",
+      "description": "CIDADE ADMINISTRATIVA / SAVASS"
+    },
+    "02": {
+      "id": "5237",
+      "description": "VIA AEROPORTO DA PAMPULHA"
+    }
+  },
+  "SE02": {
+    "01": {
+      "id": "4819",
+      "description": "BURITIS / SAVASSI"
+    }
+  },
+  "ST01": {
+    "01": {
+      "id": "5637",
+      "description": "CIRCUITO TURÍSTICO CENTRO-SUL"
+    },
+    "02": {
+      "id": "5697",
+      "description": "CIRCUITO TUR. CENTRO-SUL - ATE"
+    },
+    "03": {
+      "id": "5698",
+      "description": "ATEND. PQ. MANGABEIRAS - DESVI"
+    }
+  },
+  "3029": {
+    "01": {
+      "id": "4018",
+      "description": "REGINA / CENTRO"
+    },
+    "02": {
+      "id": "7838",
+      "description": "REGINA / RUA DOS CAETES"
+    }
+  },
+  "3053": {
+    "01": {
+      "id": "905",
+      "description": "EST.BARREIRO/ BARRO PRETO"
+    },
+    "02": {
+      "id": "6016",
+      "description": "ATENDIMENTO A VIA EXPRESSA"
+    },
+    "03": {
+      "id": "6683",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "04": {
+      "id": "6684",
+      "description": "ATENDIMENTO A VIA EXPRESSA _CA"
+    }
+  },
+  "3055": {
+    "01": {
+      "id": "1115",
+      "description": "EST.BARREIRO/SAVASSI-BH SHOP."
+    },
+    "02": {
+      "id": "1116",
+      "description": "ESTACAO BARREIRO/SAVASSI VIA B"
+    },
+    "03": {
+      "id": "1117",
+      "description": "ESTACAO BARREIRO/SAVASSI VIA B"
+    },
+    "04": {
+      "id": "2634",
+      "description": "RETORNO RUA TOME DE SOUZA-TARD"
+    },
+    "05": {
+      "id": "3154",
+      "description": "RETORNO RUA TOME DE SOUZA-MANH"
+    },
+    "06": {
+      "id": "6277",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "07": {
+      "id": "6459",
+      "description": "NOTURNO-VIA EST. DIAMANTE - CA"
+    },
+    "08": {
+      "id": "7340",
+      "description": "VIA OLHOS DÁGUA OESTE"
+    },
+    "09": {
+      "id": "7478",
+      "description": "VIA OLHOS DAGUA OESTE -CARNAVA"
+    }
+  },
+  "3150": {
+    "01": {
+      "id": "4021",
+      "description": "REGINA-LINDÉIA/ BH SHOPP- ANEL"
+    }
+  },
+  "32": {
+    "01": {
+      "id": "929",
+      "description": "DIRETA"
+    },
+    "02": {
+      "id": "930",
+      "description": "PARADORA"
+    },
+    "03": {
+      "id": "931",
+      "description": "ESTAÇÃO BARREIRO / CENTRO- TAM"
+    },
+    "04": {
+      "id": "932",
+      "description": "ESTAÇÃO BARREIRO / CENTRO- TAM"
+    },
+    "05": {
+      "id": "995",
+      "description": "ESTAÇÃO BARREIRO / CENTRO- TAM"
+    },
+    "06": {
+      "id": "996",
+      "description": "ESTAÇÃO BARREIRO / CENTRO- TAM"
+    },
+    "07": {
+      "id": "2994",
+      "description": "RETORNO BARBACENA-DIRETA"
+    },
+    "08": {
+      "id": "6659",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "33": {
+    "01": {
+      "id": "899",
+      "description": "EST.BARREIRO/CENTRO- PARADORA"
+    },
+    "02": {
+      "id": "900",
+      "description": "ESTAÇÃO BARREIRO/ CENTRO- HOSP"
+    },
+    "03": {
+      "id": "901",
+      "description": "ESTAÇÃO BARREIRO/ CENTRO- HOSP"
+    },
+    "04": {
+      "id": "902",
+      "description": "ESTAÇÃO BARREIRO/ CENTRO- HOSP"
+    },
+    "05": {
+      "id": "997",
+      "description": "EST.BARREIRO/CENTRO - DIRETA"
+    },
+    "06": {
+      "id": "1742",
+      "description": "DIRETA - RETORNO NA RUA DA BAH"
+    },
+    "07": {
+      "id": "6266",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "34": {
+    "01": {
+      "id": "970",
+      "description": "EST. BARREIRO / VIA EXPRESSA"
+    },
+    "02": {
+      "id": "971",
+      "description": "EST. BARREIRO / VIA EXPRESSA"
+    }
+  },
+  "35": {
+    "01": {
+      "id": "987",
+      "description": "EST. BARREIRO/ CENTRO"
+    },
+    "02": {
+      "id": "3735",
+      "description": "PARADORA-VIA SINF. BROCHADO"
+    }
+  },
+  "55": {
+    "03": {
+      "id": "7458",
+      "description": "ESTAÇÃO BARREIRO / MINEIRÃO"
+    },
+    "01": {
+      "id": "5819",
+      "description": "CENTRO/ MINEIRÃO"
+    },
+    "02": {
+      "id": "6918",
+      "description": "ESTAÇÃO PAMPULHA / MINEIRÃO"
+    },
+    "05": {
+      "id": "7460",
+      "description": "EST. RIO DE JANEIRO / MINEIRÃO"
+    },
+    "04": {
+      "id": "7459",
+      "description": "ESTAÇÃO VENDA NOVA / MINEIRÃO"
+    }
+  },
+  "30": {
+    "01": {
+      "id": "206",
+      "description": "EST. DIAMANTE/CENTRO-DIRETA"
+    },
+    "02": {
+      "id": "207",
+      "description": "EST.DIAMANTE/CENTRO-PARADORA"
+    },
+    "03": {
+      "id": "208",
+      "description": "PARADORA VIA RUA DOS CAETÉS"
+    },
+    "04": {
+      "id": "209",
+      "description": "ESTACAO DIAMANTE/CENTRO"
+    },
+    "06": {
+      "id": "210",
+      "description": "ESTACAO DIAMANTE/CENTRO"
+    },
+    "07": {
+      "id": "211",
+      "description": "ESTACAO DIAMANTE/CENTRO"
+    },
+    "08": {
+      "id": "212",
+      "description": "ZOOLÓGICO"
+    },
+    "09": {
+      "id": "213",
+      "description": "ESTACAO DIAMANTE/CENTRO"
+    },
+    "10": {
+      "id": "214",
+      "description": "ESTACAO DIAMANTE/CENTRO"
+    },
+    "11": {
+      "id": "215",
+      "description": "ESTACAO DIAMANTE/CENTRO"
+    },
+    "12": {
+      "id": "216",
+      "description": "ESTACAO DIAMANTE/CENTRO"
+    },
+    "14": {
+      "id": "217",
+      "description": "ESTACAO DIAMANTE/CENTRO"
+    },
+    "15": {
+      "id": "218",
+      "description": "ESTACAO DIAMANTE/CENTRO"
+    },
+    "16": {
+      "id": "219",
+      "description": "ESTACAO DIAMANTE/CENTRO"
+    },
+    "17": {
+      "id": "6265",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "3050": {
+    "01": {
+      "id": "238",
+      "description": "ESTACAO DIAMANTE/HOSPITAIS VIA"
+    },
+    "03": {
+      "id": "239",
+      "description": "ESTACAO DIAMANTE/HOSPITAL VIA"
+    },
+    "10": {
+      "id": "240",
+      "description": "RETORNO SAVASSI DIRETA"
+    },
+    "11": {
+      "id": "241",
+      "description": "ESTACAO DIAMANTE/HOSPITAL VIA"
+    },
+    "12": {
+      "id": "1032",
+      "description": "ESTACAO DIAMANTE/HOSPITAL VIA"
+    },
+    "13": {
+      "id": "1064",
+      "description": "ESTACAO DIAMANTE/HOSPITAL VIA"
+    },
+    "14": {
+      "id": "1399",
+      "description": "RETORNO BH SHOPPING"
+    },
+    "15": {
+      "id": "1702",
+      "description": "PARTIDA HOSPITAIS"
+    },
+    "16": {
+      "id": "1703",
+      "description": "RETORNO EXPRESSO"
+    },
+    "17": {
+      "id": "4074",
+      "description": "RETORNO SAVASSI TARDE"
+    },
+    "18": {
+      "id": "4238",
+      "description": "ESTAÇÃO DIAMANTE /  PRAÇA HUGO"
+    },
+    "19": {
+      "id": "6273",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "3051": {
+    "01": {
+      "id": "243",
+      "description": "FLAVIO M.LISBOA/SAVASSI-N.S.CA"
+    },
+    "02": {
+      "id": "1004",
+      "description": "FLAVIO MARQUES LISBOA / SAVASS"
+    },
+    "03": {
+      "id": "5956",
+      "description": "RETORNO EXPRESSO"
+    },
+    "04": {
+      "id": "6274",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "3052": {
+    "01": {
+      "id": "245",
+      "description": "EST.DIAMANTE/BH SHOPP- HAVAI"
+    },
+    "02": {
+      "id": "246",
+      "description": "HOSPITAIS VIA AVAI - DOMINGO"
+    },
+    "03": {
+      "id": "1212",
+      "description": "ESTACAO DIAMANTE/BH SHOPPING-V"
+    },
+    "04": {
+      "id": "247",
+      "description": "VIA PARQUE DAS MANGABEIRAS"
+    },
+    "05": {
+      "id": "3174",
+      "description": "VIA BAIRRO BURITIS"
+    },
+    "06": {
+      "id": "6275",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "07": {
+      "id": "7518",
+      "description": "PARQUE DAS MANGABEIRAS - CARNA"
+    }
+  },
+  "3054": {
+    "01": {
+      "id": "908",
+      "description": "MILIONARIOS/CENTRO"
+    },
+    "02": {
+      "id": "4314",
+      "description": "RETORNO EXPRESSO"
+    },
+    "03": {
+      "id": "6249",
+      "description": "ATENDIMENTO CARNAVAL"
+    }
+  },
+  "3250": {
+    "01": {
+      "id": "7419",
+      "description": "EST.DIAMANTE/BURITIS VIA PALME"
+    },
+    "02": {
+      "id": "9278",
+      "description": "RETORNO EXPRESSO BURITIS"
+    }
+  },
+  "50": {
+    "01": {
+      "id": "5559",
+      "description": "EST. PAMPULHA/CENTRO-DIRETA"
+    },
+    "02": {
+      "id": "6578",
+      "description": "DIRETA AV. PARANA"
+    },
+    "03": {
+      "id": "6579",
+      "description": "DIRETA AV. SANTOS DUMONT"
+    },
+    "10": {
+      "id": "5483",
+      "description": "LINHA TESTE MOVE - ANTONIO CAR"
+    }
+  },
+  "51": {
+    "01": {
+      "id": "5564",
+      "description": "EST.PAMPULHA/CENTRO/HOSPITAIS"
+    },
+    "02": {
+      "id": "5566",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "5976",
+      "description": "DIRETA - ESTAÇÃO/HOSPITAIS"
+    },
+    "04": {
+      "id": "6421",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "05": {
+      "id": "6538",
+      "description": "DIRETA - HOSPITAIS/ESTAÇÃO"
+    }
+  },
+  "52": {
+    "01": {
+      "id": "5569",
+      "description": "EST. PAMPULHA / AV. ANTONIO CA"
+    }
+  },
+  "5250": {
+    "01": {
+      "id": "5620",
+      "description": "EST. PAMPULHA / BETANIA"
+    },
+    "02": {
+      "id": "5624",
+      "description": "NOTURNO"
+    },
+    "03": {
+      "id": "5626",
+      "description": "VIA AREA CENTRAL"
+    },
+    "04": {
+      "id": "5996",
+      "description": "DIRETA/RETORNO CEFET I"
+    },
+    "05": {
+      "id": "6660",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "06": {
+      "id": "6681",
+      "description": "VIA ÁREA CENTRAL _CARNAVAL"
+    },
+    "07": {
+      "id": "9338",
+      "description": "PARTIDAS DO BARRO PRETO"
+    }
+  },
+  "5550": {
+    "01": {
+      "id": "5675",
+      "description": "EST. PAMPULHA / EST.SÃO JOSÉ"
+    },
+    "02": {
+      "id": "5676",
+      "description": "EST.PAMPULHA/EST.SÃO JOSÉ"
+    },
+    "03": {
+      "id": "5677",
+      "description": "EST.PAMPULHA/EST.SÃO JOSÉ-NOTU"
+    }
+  },
+  "6031": {
+    "01": {
+      "id": "6143",
+      "description": "CIDADE ADMINISTRATIVA/CENTRO"
+    }
+  },
+  "80": {
+    "01": {
+      "id": "816",
+      "description": "ESTACAO SAO GABRIEL/AV.CRISTIA"
+    },
+    "02": {
+      "id": "876",
+      "description": "ESTAÇÃO SÃO GABRIEL / AV. CRIS"
+    },
+    "03": {
+      "id": "1722",
+      "description": "EST. SÃO GABRIEL/RETORNO TÚNEL"
+    },
+    "04": {
+      "id": "1723",
+      "description": "ESTAÇÃO SÃO GABRIEL/ ATEND. CE"
+    },
+    "05": {
+      "id": "1883",
+      "description": "ESTAÇÃO SÃO GABRIEL / PARTIDAS"
+    }
+  },
+  "81": {
+    "01": {
+      "id": "3677",
+      "description": "ESTAÇÃO SÃO GABRIEL / HOSPITAI"
+    }
+  },
+  "8151": {
+    "01": {
+      "id": "5286",
+      "description": "EST. SÃO GABRIEL/BH SHOPPING V"
+    },
+    "02": {
+      "id": "5544",
+      "description": "PARTIDAS ESTAÇÃO SÃO GABRIEL"
+    },
+    "03": {
+      "id": "5545",
+      "description": "BH SHOPPING / ESTAÇÃO SÃO GABR"
+    }
+  },
+  "82": {
+    "01": {
+      "id": "5282",
+      "description": "EST.S.GABRIEL/SAVASSI-VIA HOSP"
+    },
+    "02": {
+      "id": "6559",
+      "description": "DIRETA"
+    }
+  },
+  "8251": {
+    "01": {
+      "id": "5289",
+      "description": "ESTAÇÃO SÃO GABRIEL/VISTA ALEG"
+    }
+  },
+  "83D": {
+    "01": {
+      "id": "5284",
+      "description": "EST.SÃO GABRIEL/CENTRO-DIRETA"
+    },
+    "02": {
+      "id": "5456",
+      "description": "EST.SÃO GABRIEL/CENTRO-DIRETA"
+    },
+    "10": {
+      "id": "5356",
+      "description": "LINHA TESTE MOVE"
+    }
+  },
+  "83P": {
+    "01": {
+      "id": "5397",
+      "description": "EST.S.GABRIEL/CENTRO-PARADORA"
+    },
+    "02": {
+      "id": "5780",
+      "description": "HOSPITAIS"
+    },
+    "03": {
+      "id": "6778",
+      "description": "RETORNO NA ESTAÇÃO CARIJOS"
+    }
+  },
+  "8350": {
+    "01": {
+      "id": "820",
+      "description": "EST.SAO GABRIEL/EST.BARREIRO"
+    },
+    "02": {
+      "id": "821",
+      "description": "EST.SAO GABRIEL/EST.BARREIRO"
+    },
+    "03": {
+      "id": "822",
+      "description": "ESTACAO SAO GABRIEL/ESTACAO BA"
+    },
+    "04": {
+      "id": "823",
+      "description": "ESTACAO SAO GABRIEL/ESTACAO BA"
+    },
+    "05": {
+      "id": "885",
+      "description": "ESTAÇÃO SÃO GABRIEL/ ESTAÇÃO B"
+    },
+    "06": {
+      "id": "1063",
+      "description": "VIADUTO SÃO FRANCISCO / ESTACA"
+    },
+    "07": {
+      "id": "2354",
+      "description": "DIRETA-AMAZONAS/SHOP. DEL REY"
+    },
+    "08": {
+      "id": "3054",
+      "description": "ESTAÇÃO  BARREIRO / AV BERNARD"
+    },
+    "09": {
+      "id": "3379",
+      "description": "ESTACAO SAO GABRIEL/ESTACAO BA"
+    },
+    "10": {
+      "id": "3381",
+      "description": "ESTACAO SAO GABRIEL/ESTACAO BA"
+    }
+  },
+  "85": {
+    "01": {
+      "id": "5547",
+      "description": "EST.S.GABRIEL/CENTRO-VIA FLORE"
+    },
+    "02": {
+      "id": "6427",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "03": {
+      "id": "8782",
+      "description": "DESVIO FEIRA ELEICAO"
+    }
+  },
+  "8550": {
+    "01": {
+      "id": "3679",
+      "description": "EST.SÃO GABRIEL/ZOO-VIA EST.PA"
+    }
+  },
+  "8551": {
+    "01": {
+      "id": "6940",
+      "description": "PRINCIPAL"
+    }
+  },
+  "8650": {
+    "01": {
+      "id": "4178",
+      "description": "ESTAÇÃO SÃO GABRIEL / CIDADE A"
+    }
+  },
+  "9850": {
+    "01": {
+      "id": "5480",
+      "description": "EST.JOSÉ CÂNDIDO/EST.SÃO GABRI"
+    }
+  },
+  "60": {
+    "01": {
+      "id": "482",
+      "description": "VENDA NOVA/CENTRO"
+    },
+    "02": {
+      "id": "483",
+      "description": "VENDA NOVA/CENTRO"
+    },
+    "03": {
+      "id": "484",
+      "description": "VENDA NOVA/CENTRO"
+    },
+    "04": {
+      "id": "3741",
+      "description": "VENDA NOVA/CENTRO - VIA ESTAÇÃ"
+    }
+  },
+  "6024": {
+    "01": {
+      "id": "1865",
+      "description": "MARIA HELENA A / VIA AV CRISTI"
+    }
+  },
+  "6025": {
+    "01": {
+      "id": "1867",
+      "description": "MARIA HELENA B / VIA ANTÔNIO C"
+    }
+  },
+  "6027": {
+    "01": {
+      "id": "1870",
+      "description": "MANTIQUEIRA / CENTRO VIA ANT."
+    },
+    "02": {
+      "id": "1882",
+      "description": "MANTIQUEIRA / CENTRO VIA C.MAC"
+    },
+    "03": {
+      "id": "2777",
+      "description": "MANTIQUEIRA - CENTRO"
+    }
+  },
+  "61": {
+    "01": {
+      "id": "495",
+      "description": "EST. VENDA NOVA/CENTRO-DIRETA"
+    },
+    "02": {
+      "id": "496",
+      "description": "ESTACAO VENDA NOVA/CENTRO-DIRE"
+    },
+    "03": {
+      "id": "497",
+      "description": "ESTACAO VENDA NOVA/CENTRO-DIRE"
+    },
+    "04": {
+      "id": "498",
+      "description": "ESTACAO VENDA NOVA/CENTRO-DIRE"
+    },
+    "05": {
+      "id": "1684",
+      "description": "ATENDIMENTO À ESTACAO SÃO GABR"
+    },
+    "06": {
+      "id": "1685",
+      "description": "ESTACAO VENDA NOVA/CENTRO-DIRE"
+    },
+    "07": {
+      "id": "1782",
+      "description": "ATEND. TERM. AARÃO REIS-DIRETA"
+    },
+    "08": {
+      "id": "1783",
+      "description": "EST. VENDA NOVA/TERM.AARÃO REI"
+    },
+    "09": {
+      "id": "1784",
+      "description": "EST. VENDA NOVA / RETORNO TERM"
+    },
+    "10": {
+      "id": "1785",
+      "description": "EST. VENDA NOVA / RETORNO TERM"
+    },
+    "11": {
+      "id": "1786",
+      "description": "EST. VENDA NOVA / AV PARANÁ"
+    },
+    "12": {
+      "id": "1787",
+      "description": "EST. VENDA NOVA / AV PARANÁ"
+    },
+    "13": {
+      "id": "3539",
+      "description": "ESTACAO VENDA NOVA/CENTRO VIA"
+    },
+    "14": {
+      "id": "4214",
+      "description": "R. AARÃO REIS / EST. V. NOVA-D"
+    },
+    "15": {
+      "id": "4215",
+      "description": "EST V. NOVA / R. MATO GROSSO-D"
+    }
+  },
+  "62": {
+    "01": {
+      "id": "502",
+      "description": "EST.VENDA NOVA/SAVASSI-HOSPITA"
+    },
+    "02": {
+      "id": "503",
+      "description": "ESTACAO VENDA NOVA/SAVASSI VIA"
+    },
+    "03": {
+      "id": "798",
+      "description": "PARQUE DA MANGABEIRAS"
+    },
+    "04": {
+      "id": "799",
+      "description": "ESTACAO VENDA NOVA/SAVASSI VIA"
+    },
+    "05": {
+      "id": "979",
+      "description": "ESTACAO VENDA NOVA/SAVASSI VIA"
+    },
+    "06": {
+      "id": "980",
+      "description": "ESTACAO VENDA NOVA/SAVASSI VIA"
+    },
+    "07": {
+      "id": "1035",
+      "description": "NOTURNO"
+    },
+    "08": {
+      "id": "1036",
+      "description": "ESTACAO VENDA NOVA/SAVASSI VIA"
+    },
+    "09": {
+      "id": "4216",
+      "description": "AV FRANCISCO SALES / ESTAÇÃO V"
+    },
+    "10": {
+      "id": "4294",
+      "description": "ESTAÇÃO VENDA NOVA / RUA PROFE"
+    },
+    "11": {
+      "id": "4695",
+      "description": "DIRETA - ESTAÇÃO VENDA NOVA /"
+    },
+    "12": {
+      "id": "5778",
+      "description": "VIA EST. VILARINHO"
+    },
+    "13": {
+      "id": "6018",
+      "description": "DIRETA"
+    },
+    "14": {
+      "id": "6144",
+      "description": "EST. V. NOVA/SAVASSI - DIRETA"
+    },
+    "15": {
+      "id": "6422",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "16": {
+      "id": "6423",
+      "description": "PARQUE DAS MANGABEIRAS-CARNAVA"
+    },
+    "17": {
+      "id": "6458",
+      "description": "VIA VILARINHO - CARNAVAL"
+    },
+    "18": {
+      "id": "9038",
+      "description": "RETORNO EXPRESSO R. PROF. MORA"
+    },
+    "19": {
+      "id": "9359",
+      "description": "NOTURNO - CARNAVAL"
+    }
+  },
+  "63": {
+    "01": {
+      "id": "541",
+      "description": "EST.VENDA NOVA/AV. ANTONIO CAR"
+    },
+    "02": {
+      "id": "542",
+      "description": "RETORNO NO VIADUTO SÃO FRANCIS"
+    },
+    "03": {
+      "id": "4658",
+      "description": "ESTACAO VENDA NOVA/RUA PEÇANHA"
+    },
+    "04": {
+      "id": "4659",
+      "description": "RUA PEÇANHA / ESTACAO VENDA NO"
+    },
+    "05": {
+      "id": "5736",
+      "description": "CENTRO VIA EST. VILARINHO"
+    },
+    "06": {
+      "id": "5737",
+      "description": "NOTURNO"
+    },
+    "07": {
+      "id": "6424",
+      "description": "CENTRO-ATENDIMENTO CARNAVAL"
+    },
+    "08": {
+      "id": "7204",
+      "description": "ATENDIMENTO SABADO DE CARNAVAL"
+    },
+    "09": {
+      "id": "7598",
+      "description": "VIA ESTAÇÃO VILARINHO"
+    }
+  },
+  "64": {
+    "01": {
+      "id": "550",
+      "description": "EST.V.NOVA/ASSEMB.VIA CARLOS L"
+    },
+    "02": {
+      "id": "551",
+      "description": "ESTACAO VENDA NOVA/SANTO AGOST"
+    },
+    "03": {
+      "id": "552",
+      "description": "RETORNO AV. DOM PEDRO II"
+    },
+    "04": {
+      "id": "553",
+      "description": "ESTACAO VENDA NOVA/SANTO AGOST"
+    },
+    "05": {
+      "id": "800",
+      "description": "ESTAÇÃO VENDA NOVA / ASSEMBLEI"
+    },
+    "06": {
+      "id": "801",
+      "description": "ESTACAO VENDA NOVA/SANTO AGOST"
+    },
+    "07": {
+      "id": "983",
+      "description": "EST. VENDA NOVA / ASSEMBLEIA -"
+    },
+    "08": {
+      "id": "984",
+      "description": "EST. VENDA NOVA/STO AGOSTINHO"
+    },
+    "09": {
+      "id": "3774",
+      "description": "VIA EST. VILARINHO"
+    },
+    "10": {
+      "id": "3775",
+      "description": "ZOOLÓGICO"
+    },
+    "11": {
+      "id": "4274",
+      "description": "ESTAÇÃO VENDA NOVA / AV OLEGÁR"
+    },
+    "12": {
+      "id": "4275",
+      "description": "AV AUGUSTO DE LINHA / ESTAÇÃO"
+    },
+    "13": {
+      "id": "6680",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "14": {
+      "id": "7599",
+      "description": "VIA AV. BIAS FORTES"
+    },
+    "15": {
+      "id": "7618",
+      "description": "VIA ESTAÇÃO VILARINHO-RETORNO"
+    }
+  },
+  "6030": {
+    "01": {
+      "id": "5817",
+      "description": "CID. ADMIN./SAVASSI- HOSPITAIS"
+    },
+    "02": {
+      "id": "6146",
+      "description": "CID.ADM./SAVASSI- VIA ANDRADAS"
+    }
+  },
+  "6350": {
+    "01": {
+      "id": "4023",
+      "description": "EST.VILAR./EST.BARREIRO-VIA AN"
+    },
+    "02": {
+      "id": "8078",
+      "description": "RETORNO AV. TANCREDO NEVES/PED"
+    }
+  },
+  "65": {
+    "01": {
+      "id": "3740",
+      "description": "EST.VILARINHO/CENTRO VIA PEDRO"
+    },
+    "02": {
+      "id": "4174",
+      "description": "ESTAÇÃO VILARINHO / PRAÇA DA E"
+    },
+    "03": {
+      "id": "4175",
+      "description": "ATENDENDIMENTO  CIDADE ADMINIT"
+    },
+    "04": {
+      "id": "4176",
+      "description": "ATENDIMENTO CIDADE ADMINISTRAT"
+    },
+    "05": {
+      "id": "5097",
+      "description": "CENTRO/ESTAÇÃO VILARINHO - PIC"
+    }
+  },
+  "66": {
+    "01": {
+      "id": "4514",
+      "description": "EST. VILARINHO/CENTRO/HOSP/VIA"
+    },
+    "03": {
+      "id": "4235",
+      "description": "ATENDIMENTO CIDDADE ADMINISTRA"
+    },
+    "04": {
+      "id": "4236",
+      "description": "RUA PROF. MORAES/CIDADE. ADM."
+    },
+    "05": {
+      "id": "4237",
+      "description": "CIDADE ADM. / RUA PROF MORAES"
+    },
+    "06": {
+      "id": "4664",
+      "description": "ESTAÇÃO SÃO GABRIEL / SAVASSI"
+    },
+    "07": {
+      "id": "6145",
+      "description": "EST. VILAR./CENTRO - DIRETA"
+    },
+    "08": {
+      "id": "6425",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "09": {
+      "id": "9039",
+      "description": "RET. EXP. AV. PROF. ALFREDO BA"
+    }
+  },
+  "67": {
+    "01": {
+      "id": "4661",
+      "description": "EST.VILAR./STO AGOST./AV.CARLO"
+    },
+    "02": {
+      "id": "4662",
+      "description": "AV. AUGUSTO DE LIMA / CIDADE A"
+    },
+    "03": {
+      "id": "4663",
+      "description": "CIDADE ADM. / AV. OLEGÁRIO MAC"
+    },
+    "04": {
+      "id": "6426",
+      "description": "ATENDIMENTO CARNAVAL"
+    },
+    "05": {
+      "id": "7138",
+      "description": "RETORNO NA AV. DOM PEDRO II"
+    }
+  },
+  "68": {
+    "01": {
+      "id": "5777",
+      "description": "EST. VILARINHO/AV. ANTONIO CAR"
+    }
+  },
+  "0000": {
+    "01": {
+      "id": "884",
+      "description": "LINHA APRESENTAÇÃO"
+    }
+  },
+  "007": {
+    "01": {
+      "id": "783",
+      "description": "ERMELINDA/BH SHOPPING"
+    }
+  },
+  "0100": {
+    "01": {
+      "id": "2",
+      "description": "BARREIRO"
+    },
+    "02": {
+      "id": "3",
+      "description": "BARREIRO"
+    },
+    "03": {
+      "id": "4",
+      "description": "BARREIRO"
+    }
+  },
+  "1115": {
+    "01": {
+      "id": "15",
+      "description": "FLAVIO MARQUES LISBOA"
+    },
+    "02": {
+      "id": "16",
+      "description": "FLAVIO MARQUES LISBOA"
+    }
+  },
+  "1120A": {
+    "01": {
+      "id": "18",
+      "description": "VALE DO JATOBA"
+    }
+  },
+  "1122A": {
+    "01": {
+      "id": "20",
+      "description": "CARDOSO A"
+    },
+    "05": {
+      "id": "21",
+      "description": "CARDOSO A"
+    }
+  },
+  "1122B": {
+    "01": {
+      "id": "23",
+      "description": "CARDOSO B"
+    }
+  },
+  "1129A": {
+    "01": {
+      "id": "25",
+      "description": "MILIONARIOS/CIDADE INDUSTRIAL/"
+    }
+  },
+  "1129B": {
+    "01": {
+      "id": "27",
+      "description": "MILIONARIOS/CIDADE INDUSTRIAL/"
+    }
+  },
+  "1144A": {
+    "01": {
+      "id": "29",
+      "description": "INDEPENDENCIA"
+    }
+  },
+  "1144C": {
+    "01": {
+      "id": "31",
+      "description": "BAIRRO MINEIRAO"
+    },
+    "03": {
+      "id": "788",
+      "description": "BAIRRO MINEIRAO"
+    }
+  },
+  "1146A": {
+    "01": {
+      "id": "35",
+      "description": "CONJUNTO ANTONIO TEIXEIRA DIAS"
+    }
+  },
+  "1148A": {
+    "01": {
+      "id": "37",
+      "description": "MILIONARIOS"
+    }
+  },
+  "1148B": {
+    "01": {
+      "id": "39",
+      "description": "BONSUCESSO VIA MILIONARIOS"
+    },
+    "02": {
+      "id": "40",
+      "description": "BONSUCESSO VIA MILIONARIOS"
+    },
+    "03": {
+      "id": "41",
+      "description": "BONSUCESSO VIA MILIONARIOS"
+    }
+  },
+  "1404S": {
+    "01": {
+      "id": "63",
+      "description": "BETANIA/PALMEIRAS"
+    },
+    "02": {
+      "id": "64",
+      "description": "BETANIA/PALMEIRAS"
+    }
+  },
+  "2207Z": {
+    "01": {
+      "id": "115",
+      "description": "SERRA VERDE/ZOOLOGICO"
+    }
+  },
+  "2214R": {
+    "01": {
+      "id": "152",
+      "description": "FLORAMAR/VIADUTO SAO FRANCISCO"
+    }
+  },
+  "2215R": {
+    "01": {
+      "id": "178",
+      "description": "KATIA/VIADUTO SAO FRANCISCO"
+    }
+  },
+  "2224R": {
+    "01": {
+      "id": "189",
+      "description": "JARDIM DOS COMERCIARIOS/VIADUT"
+    }
+  },
+  "2256B": {
+    "01": {
+      "id": "201",
+      "description": "SAO JOAO BATISTA B"
+    },
+    "02": {
+      "id": "202",
+      "description": "SAO JOAO BATISTA B"
+    }
+  },
+  "31": {
+    "01": {
+      "id": "256",
+      "description": "JATOBA / HOSPITAIS"
+    },
+    "02": {
+      "id": "257",
+      "description": "JATOBA / HOSPITAIS"
+    },
+    "03": {
+      "id": "258",
+      "description": "JATOBA / HOSPITAIS"
+    },
+    "04": {
+      "id": "946",
+      "description": "JATOBA / HOSPITAIS"
+    },
+    "05": {
+      "id": "947",
+      "description": "JATOBA / HOSPITAIS"
+    }
+  },
+  "350": {
+    "01": {
+      "id": "301",
+      "description": "TIROL/BARREIRO"
+    }
+  },
+  "403": {
+    "01": {
+      "id": "321",
+      "description": "ESTACAO GAMELEIRA / CALIFORNIA"
+    },
+    "02": {
+      "id": "322",
+      "description": "ESTACAO GAMELEIRA / CALIFORNIA"
+    }
+  },
+  "4030": {
+    "02": {
+      "id": "324",
+      "description": "JARDIM FILADELFIA VIA NOVO GLO"
+    }
+  },
+  "5507B": {
+    "01": {
+      "id": "766",
+      "description": "FELICIDADE"
+    }
+  },
+  "5507C": {
+    "01": {
+      "id": "429",
+      "description": "JARDIM GUANABARA C"
+    },
+    "02": {
+      "id": "430",
+      "description": "JARDIM GUANABARA C"
+    }
+  },
+  "5508A": {
+    "01": {
+      "id": "432",
+      "description": "MINASLANDIA VIA PRIMEIRO DE MA"
+    }
+  },
+  "5508B": {
+    "01": {
+      "id": "434",
+      "description": "AARAO REIS VIA PRIMEIRO DE MAI"
+    },
+    "02": {
+      "id": "435",
+      "description": "AARAO REIS VIA PRIMEIRO DE MAI"
+    },
+    "03": {
+      "id": "436",
+      "description": "AARAO REIS VIA PRIMEIRO DE MAI"
+    }
+  },
+  "5517A": {
+    "01": {
+      "id": "442",
+      "description": "MINAS CAIXA VIA SERRA VERDE A"
+    }
+  },
+  "5517B": {
+    "01": {
+      "id": "444",
+      "description": "MINAS CAIXA VIA SERRA VERDE B"
+    }
+  },
+  "5520A": {
+    "01": {
+      "id": "446",
+      "description": "SAO TOMAZ"
+    }
+  },
+  "5520B": {
+    "01": {
+      "id": "448",
+      "description": "HELIOPOLIS"
+    }
+  },
+  "5521A": {
+    "01": {
+      "id": "450",
+      "description": "SOLIMOES"
+    }
+  },
+  "5521B": {
+    "01": {
+      "id": "452",
+      "description": "LAJEDO"
+    },
+    "03": {
+      "id": "453",
+      "description": "LAJEDO"
+    }
+  },
+  "5521C": {
+    "01": {
+      "id": "455",
+      "description": "NOVO AARAO REIS"
+    },
+    "03": {
+      "id": "456",
+      "description": "NOVO AARAO REIS"
+    }
+  },
+  "5522B": {
+    "01": {
+      "id": "461",
+      "description": "CASAS POPULARES"
+    }
+  },
+  "606": {
+    "01": {
+      "id": "488",
+      "description": "FLORAMAR/JARDIM EUROPA"
+    }
+  },
+  "613": {
+    "01": {
+      "id": "500",
+      "description": "CIRCULAR CEU ANIL"
+    }
+  },
+  "628": {
+    "01": {
+      "id": "537",
+      "description": "NOVA YORK/ESTACAO VENDA NOVA"
+    }
+  },
+  "629": {
+    "01": {
+      "id": "539",
+      "description": "JARDIM DOS COMERCIARIOS/ESTACA"
+    }
+  },
+  "701": {
+    "01": {
+      "id": "555",
+      "description": "GUARANI/ESTACAO MINAS SHOPPING"
+    },
+    "02": {
+      "id": "556",
+      "description": "GUARANI/ESTACAO MINAS SHOPPING"
+    }
+  },
+  "7031": {
+    "01": {
+      "id": "563",
+      "description": "JULIO MARIA/CENTRO"
+    }
+  },
+  "803": {
+    "01": {
+      "id": "568",
+      "description": "MARIA GORETTI/BELMONTE VIA EST"
+    }
+  },
+  "805": {
+    "01": {
+      "id": "572",
+      "description": "SAO MARCOS/MINAS SHOPPING VIA"
+    }
+  },
+  "8103R": {
+    "01": {
+      "id": "582",
+      "description": "SAO BENTO/CENTRO"
+    },
+    "02": {
+      "id": "583",
+      "description": "SAO BENTO/CENTRO"
+    },
+    "03": {
+      "id": "817",
+      "description": "SAO BENTO/CENTRO"
+    },
+    "05": {
+      "id": "818",
+      "description": "SAO BENTO/CENTRO"
+    }
+  },
+  "8250": {
+    "03": {
+      "id": "601",
+      "description": "EST.DIAMANTE/CRISTIANO MACHADO"
+    },
+    "05": {
+      "id": "602",
+      "description": "EST.DIAMANTE/CRISTIANO MACHADO"
+    },
+    "06": {
+      "id": "603",
+      "description": "EST.DIAMANTE/CRISTIANO MACHADO"
+    },
+    "07": {
+      "id": "604",
+      "description": "EST.DIAMANTE/CRISTIANO MACHADO"
+    }
+  },
+  "9203": {
+    "01": {
+      "id": "633",
+      "description": "ESPLANADA / ESTORIL"
+    },
+    "02": {
+      "id": "634",
+      "description": "ESPLANADA / ESTORIL"
+    }
+  },
+  "9212": {
+    "01": {
+      "id": "657",
+      "description": "CASA BRANCA/ALTO HAVAI"
+    },
+    "02": {
+      "id": "658",
+      "description": "CASA BRANCA/ALTO HAVAI"
+    }
+  },
+  "9401": {
+    "01": {
+      "id": "662",
+      "description": "SANTA EFIGENIA/SANTA MARIA"
+    }
+  },
+  "9804": {
+    "01": {
+      "id": "705",
+      "description": "SAO LUCAS/CONCORDIA"
+    },
+    "02": {
+      "id": "706",
+      "description": "SAO LUCAS/CONCORDIA"
+    }
+  }
+}
